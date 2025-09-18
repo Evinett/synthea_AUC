@@ -1,0 +1,19 @@
+{
+  "runID": "d4b084c7-6051-4854-a620-ef16dd6f3f6f",
+  "seed": 12345,
+  "clinicianSeed": 1758159635210,
+  "referenceTime": "20250918",
+  "endTime": "20250918",
+  "version": "synthea-java",
+  "patientCount": 11,
+  "providerCount": 710,
+  "payerCount": 1,
+  "javaVersion": "17.0.16",
+  "generate.thread_pool_size": -1,
+  "generatorThreads": 11,
+  "runStartTime": "2025-09-18T01:40:35Z",
+  "runTimeInSeconds": 7,
+  "exporter.years_of_history": "10",
+  "state": "Victoria",
+  "modules": "*"
+}

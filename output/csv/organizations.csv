@@ -1,0 +1,26 @@
+Id,NAME,ADDRESS,CITY,STATE,ZIP,LAT,LON,PHONE,REVENUE,UTILIZATION
+3a4a1797-2d5b-30a8-9ae3-f2d73b34cb81,Western Victoria,Bellerine Street,Geelong,Victoria,3220,-38.151533,144.364964,03 4215 0000,0.0,3
+b343290b-76a3-30bd-98a1-ec833809ecb7,The Northern Hospital [Epping],185 Cooper Street,Epping,Victoria,3076,-37.653417,145.014381,384058000,0.0,174
+bbc7e66a-7937-3709-a8d0-b60ccfe70f17,South West Healthcare [Warrnambool],Ryot Street,Warrnambool,Victoria,3280,-38.380085,142.472977,355631666,0.0,19
+dd2811ef-ec19-386d-b4e2-62d5b642dcb4,Hobsons Bay Endoscopy Centre Sydenham,566 Melton Highway,Sydenham,Victoria,3037,-37.693365,144.758677,383616400,0.0,131
+c2fd2f83-2310-379f-b0b9-b9073db00bb6,PCP512,286 Maryvale Road,Morwell,Victoria,3840,-38.215028,146.418561,03 5132 1200,0.0,37
+dc2ffea4-ac35-396b-8a66-c1a4a236cceb,Maryvale Private Hospital,286 Maryvale Road,Morwell,Victoria,3840,-38.215028,146.418561,351321200,0.0,79
+6682b026-3607-352a-a62e-3a7b8b13ee9a,Frankston Private Hospital,24-28 Frankston Flinders Road,Frankston,Victoria,3199,-38.154662,145.132902,387961300,0.0,138
+f82a9d5f-cecb-3287-9bbb-7460eab4c650,St John of God Warrnambool Hospital,136 Botanic Road,Warrnambool,Victoria,3280,-38.371405,142.478749,355640600,0.0,57
+3576e343-606f-3553-b69f-37ff392d2d2a,PCP951,216 Burgundy Street,Heidelberg,Victoria,3084,-37.754419,145.060728,03 9274 1300,0.0,31
+05dc0152-90a4-33d5-8ea9-d6f6e48a98ff,Western Victoria,Bentinck Street,Portland,Victoria,3305,-38.340713,141.606087,03 5521 0333,0.0,89
+300009f6-f73a-34d8-b26b-acab249b0f6e,PCP377,566 Melton Highway,Sydenham,Victoria,3037,-37.693365,144.758677,03 8361 6400,0.0,39
+c46bf92d-d12f-31fd-85dc-88ad5efcebe9,Eastern Melbourne,185 Cooper Street,Epping,Victoria,3076,-37.653417,145.014381,03 8405 8000,0.0,36
+62b829bc-17db-3a24-bb47-9b8b6405a6e1,Kooweerup Regional Health Service,215 Rossiter Road,Koo Wee Rup,Victoria,3981,-38.200653,145.484433,359979679,0.0,31
+2fe756e7-1dd3-3456-9f08-647f7ae24cb8,Vision Day Surgery Footscray,89 Paisley Street,Footscray,Victoria,3011,-37.800508,144.895155,396899233,0.0,47
+f0d37d95-f20b-3b11-850a-de468e68fd71,North Western Melbourne,34-54 Poplar Road,Parkville,Victoria,3052,-37.778813,144.948049,03 8387 2000,0.0,43
+04dedf2c-9859-3e64-af34-c296ad64cd27,Frankston Hospital,2 Hastings Road,Frankston,Victoria,3199,-38.150791,145.128428,397847777,0.0,5
+12cffa0c-af3a-3631-bcbc-a181c4d0ae3d,Victorian Institute of Forensic Mental Health Prison Health Service,317 Spencer Street,Melbourne,Victoria,3001,-37.812763,144.950757,386840000,0.0,112
+d39f5df2-3a63-35fd-a7c5-cfc06a8566d6,Portland District Health,Bentinck Street,Portland,Victoria,3305,-38.340713,141.606087,355210333,0.0,92
+615d8ee6-e97a-3261-8bab-329d2be9460b,PCP302,24-28 Frankston Flinders Road,Frankston,Victoria,3199,-38.154662,145.132902,03 8796 1300,0.0,44
+7613a4f5-48f3-346c-a2fd-ae90817a4205,Royal Melbourne Hospital- Royal Park Campus,34-54 Poplar Road,Parkville,Victoria,3052,-37.778813,144.948049,383872000,0.0,55
+36663f3d-b831-3637-9b70-9b3aaf60b964,Latrobe Regional Hospital [Traralgon],10 Village Avenue,Traralgon,Victoria,3844,-38.218475,146.471335,351738000,0.0,4
+0a3cb213-9dc1-3bc0-89c8-0445b3159344,North Western Melbourne,317 Spencer Street,Melbourne,Victoria,3001,-37.812763,144.950757,03 8684 0000,0.0,35
+d094efb9-e724-3c6e-855c-ee5dda69c9cc,South Eastern Melbourne,215 Rossiter Road,Koo Wee Rup,Victoria,3981,-38.200653,145.484433,03 5997 9679,0.0,31
+a459253e-ce97-3846-a65e-fe63d4563040,PCP804,136 Botanic Road,Warrnambool,Victoria,3280,-38.371405,142.478749,03 5564 0600,0.0,47
+89635a7f-2a7e-3060-bddb-d4880dbb888f,Warringal Private Hospital,216 Burgundy Street,Heidelberg,Victoria,3084,-37.754419,145.060728,392741300,0.0,48

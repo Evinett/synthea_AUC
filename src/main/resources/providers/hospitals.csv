@@ -1,0 +1,1012 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+1,1,Abbotsford Private Hospital,61 Cambridge Street,West Leederville,Western Australia,6007,,892006282,Private,Private,No,,-31.940992,115.837344
+2,2,Adelaide Clinic,33 Park Terrace,Gilberton,South Australia,5081,,882698100,Private,Private,No,,-34.90658,138.613167
+3,3,Adelaide Day Surgery Pty Ltd,18 North Terrace,Adelaide,South Australia,5000,,882394900,Private,Private,No,,-34.922409,138.588817
+4,4,Adelaide Eye & Laser Centre,215 Greenhill Road,Eastwood,South Australia,5063,,882747000,Private,Private,Yes,,-34.94042,138.6215
+5,5,Adelaide Surgicentre,89 King William Street,Kent Town,South Australia,5067,,882110000,Private,Private,No,,-34.917691,138.621022
+6,6,Aesthetic Day Surgery,14 Kensington Street,Kogarah,New South Wales,2217,,295539905,Private,Private,Yes,,-33.964843,151.135032
+7,7,Albany Hospital,Warden Avenue,Albany,Western Australia,6330,,898922222,Public,Public,Yes,,-35.003407,117.904468
+8,8,Albert Road Clinic,31 Albert Road,Melbourne,Victoria,3004,,392568311,Private,Private,No,,-37.834246,144.972151
+9,9,Albury Wodonga Health [Albury Campus],201 Borella Road,Albury,New South Wales,2640,,260584444,Public,Public,Yes,,-36.078401,146.939146
+10,10,Albury Wodonga Health [Wodonga Campus],69 Vermont Street,Wodonga,Victoria,3690,,260517111,Public,Public,Yes,,-36.131791,146.879417
+11,11,Albury Wodonga Private Hospital,1125 Pemberton Street,West Albury,New South Wales,2640,,260411411,Private,Private,Yes,,-36.075621,146.883177
+12,12,Alexandra District Hospital,12 Cooper Street,Alexandra,Victoria,3714,,357720900,Public,Public,No,,-37.195065,145.716143
+13,13,Alice Springs Hospital,6 Gap Road,Alice Springs,Northern Territory,870,,889517777,Public,Public,Yes,,-23.705758,133.878064
+14,14,Allowah Presbyterian Children's Hospital,8 Perry Street,Dundas,New South Wales,2117,,298584994,Private,Private,No,,-33.791787,151.06387
+15,15,Alpha Hospital,1 Burns Street,Alpha,Queensland,4724,,748097000,Public,Public,No,,-23.649039,146.632962
+16,16,Alpine Health [Bright],36-42 Cobden Street,Bright,Victoria,3741,,357550100,Public,Public,No,,-36.732701,146.965924
+17,17,Alpine Health [Mount Beauty],10 Hollonds Street,Mt Beauty,Victoria,3699,,357543500,Public,Public,No,,-36.743354,147.169359
+18,18,Alpine Health [Myrtleford],30 O'Donnell Avenue,Myrtleford,Victoria,3736,,357519300,Public,Public,No,,-36.554525,146.728795
+19,19,Angaston District Hospital,29 North Street,Angaston,South Australia,5353,,885638500,Public,Public,No,,-34.503549,139.054715
+20,20,Angliss Hospital,Albert Street,Upper Ferntree Gully,Victoria,3156,,1300342255,Public,Public,Yes,,-37.898663,145.314166
+21,21,Armadale-Kelmscott Memorial Hospital,3056 Albany Highway,Armadale,Western Australia,6112,,893912000,Public,Public,Yes,,-32.133212,116.020023
+22,22,Armidale Hospital,226 Rusden Street,Armidale,New South Wales,2350,,267769500,Public,Public,No,,-30.512726,151.655629
+23,23,Armidale Private Hospital,Rusden Street,Armidale,New South Wales,2350,,267714000,Private,Private,No,,-30.512719,151.654565
+24,24,Ashford Hospital,55 Anzac Highway,Ashford,South Australia,5035,,883755222,Private,Private,Yes,,-34.948142,138.576725
+25,25,Atherton Hospital,Corner of Louise and Jack Streets,Atherton,Queensland,4883,,740910211,Public,Public,No,,-17.266635,145.483177
+26,26,Attadale Rehabilitation Hospital,21 Hislop Road,Attadale,Western Australia,6156,,893301000,Private,Private,No,,-32.029729,115.810669
+27,27,Auburn Hospital,18-20 Hargrave Road,Auburn,New South Wales,2144,,287593000,Public,Public,Yes,,-33.859867,151.033204
+28,28,Augathella Hospital,Cavanagh Street,Augathella,Queensland,4477,,746567100,Public,Public,No,,-25.796104,146.590919
+29,29,Augusta Hospital,Donovan Street,Augusta,Western Australia,6290,,897583222,Public,Public,No,,-34.305814,115.157983
+30,30,Austin Hospital [Heidelberg],145 Studley Road,Heidelberg,Victoria,3084,,394965000,Public,Public,Yes,,-37.756355,145.060236
+31,31,Ayr Hospital,2 Chippendale Street,Ayr,Queensland,4807,,747830855,Public,Public,No,,-19.564066,147.408821
+32,32,Babinda Hospital,128 Munro Street,Babinda,Queensland,4861,,740678200,Public,Public,No,,-17.343079,145.918908
+33,33,Baillie Henderson Hospital,Corner of Hogg and Tor Streets,Toowoomba,Queensland,4350,,746998888,Public,Public,Yes,,-27.524371,151.936283
+34,34,Bairnsdale Regional Health Service,122 Day Street,Bairnsdale,Victoria,3875,,351503333,Public,Public,Yes,,-37.830814,147.607905
+35,35,Balaklava Soldiers' Memorial District Hospital,16 War Memorial Drive,Balaklava,South Australia,5461,,888621400,Public,Public,No,,-34.139594,138.419596
+36,36,Ballarat Day Procedure Centre,1119-1123 Howitt Street,Wendouree,Victoria,3350,,353382666,Private,Private,No,,-37.540799,143.83214
+37,37,Ballarat Health Services [Base Campus],1 Dummond Street North,Ballarat Central,Victoria,3350,,353204000,Public,Public,Yes,,-37.559658,143.847041
+38,38,Ballarat Health Services [Queen Elizabeth Campus],102 Ascot Street,Ballarat,Victoria,3350,,353203700,Public,Public,No,,-37.564276,143.843264
+39,39,Ballina Day Surgery,"Suite 6, 46 Tamar Street",Ballina,New South Wales,2478,,266819999,Private,Private,No,,-28.870711,153.563241
+40,40,Ballina Hospital,78-92 Cherry Street,Ballina,New South Wales,2478,,266862111,Public,Public,No,,-28.863525,153.564013
+41,41,Balmain Hospital,29 Booth Street,Balmain,New South Wales,2041,,293952111,Public,Public,No,,-33.859469,151.181469
+42,42,Balranald Multi Purpose Service,41-43 Court Street,Balranald,New South Wales,2715,,350719800,Public,Public,No,,-34.644549,143.568413
+43,43,Bamaga Hospital,Sagaukaz Street,Bamaga,Queensland,4876,,740693166,Public,Public,No,,-10.893996,142.385131
+44,44,Bankstown Lidcombe Hospital,68 Eldridge Road,Bankstown,New South Wales,2200,,297228000,Public,Public,Yes,,-33.933088,151.020823
+45,45,Baradine Multi Purpose Service,5-9 Macquarie Street,Baradine,New South Wales,2396,,268434100,Public,Public,No,,-30.945316,149.066189
+46,46,Baralaba Hospital,Stopford Street,Baralaba,Queensland,4702,,749982800,Public,Public,No,,-24.184268,149.809586
+47,47,Barcaldine Hospital,Oak Street,Barcaldine,Queensland,4725,,746504000,Public,Public,No,,-23.553316,145.293674
+48,48,Barham Hospital,70 Punt Road,Barham,New South Wales,2732,,354511000,Public,Public,No,,-35.623823,144.133479
+49,49,Baringa Private Hospital,31 Mackays Road,Coffs Harbour,New South Wales,2450,,266594444,Private,Private,No,,-30.278813,153.102893
+50,50,Barmera Health Service,Hawdon Street,Barmera,South Australia,5345,,885880400,Public,Public,No,,-34.249146,140.471706
+51,51,Barraba Multi Purpose Service,Edward Street,Barraba,New South Wales,2347,,267822500,Public,Public,No,,-30.382482,150.605778
+52,52,Bass Coast Regional Health,235 Graham Street,Wonthaggi,Victoria,3995,,356713333,Public,Public,No,,-38.608747,145.580906
+53,53,Batemans Bay Hospital,7 Pacific Street,Batemans Bay,New South Wales,2536,,244751500,Public,Public,No,,-35.714055,150.182375
+54,54,Bathurst Health Service,361-365 Howick Street,Bathurst,New South Wales,2795,,263305311,Public,Public,Yes,,-33.406512,149.572699
+55,55,Bathurst Private Hospital,Gorman's Hill Road,Bathurst,New South Wales,2795,,263317766,Private,Private,No,,-33.435215,149.589242
+56,56,Batlow/Adelong Multi Purpose Service,61-81 Pioneer Street,Batlow,New South Wales,2730,,269414333,Public,Public,No,,-35.521951,148.147891
+57,57,Beaconsfield District Health Service,13 Bolton Street,Beaconsfield,Tasmania,7270,,367026060,Public,Public,No,,-41.193478,146.806719
+58,58,Beaudesert Hospital,64 Tina Street,Beaudesert,Queensland,4285,,755419111,Public,Public,No,,-27.984869,153.002536
+59,59,Beaufort & Skipton Health Service [Beaufort],28 Havelock Street,Beaufort,Victoria,3373,,353491600,Public,Public,No,,-37.431028,143.382284
+60,60,Beaufort & Skipton Health Service [Skipton],Blake Street,Skipton,Victoria,3361,,353401100,Public,Public,No,,-37.683998,143.367547
+61,61,Beechworth Health Service,52 Sydney Road,Beechworth,Victoria,3747,,357280200,Public,Public,No,,-36.349359,146.690739
+62,62,Bega Valley Private Hospital,31 Parker Street,Bega,New South Wales,2550,,264924144,Private,Private,No,,-36.673617,149.845812
+63,63,Beleura Private Hospital,925 Nepean Highway,Mornington,Victoria,3931,,359760888,Private,Private,Yes,,-38.225484,145.049136
+64,64,Bellbird Private Hospital,198 Canterbury Road,Blackburn South,Victoria,3130,,398452333,Private,Private,No,,-37.833073,145.156018
+65,65,Bellinger River District Hospital,43 Church Street,Bellingen,New South Wales,2454,,266595800,Public,Public,No,,-30.457256,152.893209
+66,66,Belmont Hospital,16 Croudace Bay Road,Belmont,New South Wales,2280,,249232000,Public,Public,Yes,,-33.024631,151.648181
+67,67,Benalla & District Memorial Hospital,45-53 Coster Street,Benalla,Victoria,3672,,357602222,Public,Public,No,,-36.555239,145.994675
+68,68,Bendigo Health Care Group [Anne Caudle],100 Barnard Street,Bendigo,Victoria,3550,,354546000,Public,Public,No,,-36.750919,144.280399
+69,69,Bentley Hospital,18-56 Mills Street,Bentley,Western Australia,6102,,894163666,Public,Public,Yes,,-32.005332,115.927922
+70,70,Berkeley Vale Private Hospital,Lorraine Avenue,Berkeley Vale,New South Wales,2261,,243899100,Private,Private,No,,-33.337061,151.432784
+71,71,Berrigan Multi Purpose Service,137-143 Memorial Place,Berrigan,New South Wales,2712,,358885300,Public,Public,No,,-35.662312,145.813035
+72,72,Berwick Eye and Surgicentre,22 Langmore Lane,Berwick,Victoria,3806,,397689210,Private,Private,No,,-38.033667,145.346487
+73,73,Bethesda Hospital,25 Queenslea Drive,Claremont,Western Australia,6010,,893406300,Private,Private,No,,-31.986967,115.778484
+74,74,Beverley Hospital,Sewell Street,Beverley,Western Australia,6304,,896463200,Public,Public,No,,-32.102825,116.922962
+75,75,Biggenden Hospital,Alice Street,Biggenden,Queensland,4621,,741276400,Public,Public,No,,-25.506406,152.051099
+76,76,Biloela Hospital,2 Hospital Road,Biloela,Queensland,4715,,749927000,Public,Public,No,,-24.395813,150.517491
+77,77,Bingara Multi Purpose Service,Keera Street,Bingara,New South Wales,2404,,267280100,Public,Public,No,,-29.864055,150.579235
+78,78,Blackall Hospital,Shamrock Street,Blackall,Queensland,4472,,746507700,Public,Public,No,,-24.422705,145.449349
+79,79,Blacktown Hospital,Blacktown Road,Blacktown,New South Wales,2148,,298818000,Public,Public,Yes,,-33.775552,150.917537
+80,80,Blackwater Hospital,Mackenzie Street,Blackwater,Queensland,4717,,749801800,Public,Public,No,,-23.571873,148.878219
+81,81,Blayney Multi Purpose Service,3 Osman Street,Blayney,New South Wales,2799,,263689000,Public,Public,No,,-33.537728,149.248988
+82,82,Blue Mountains Hospital,Lot 3 Woodlands Road,Katoomba,New South Wales,2780,,247846500,Public,Public,No,,-33.705329,150.32111
+83,83,Boddington Hospital,46-53 Hotham Avenue,Boddington,Western Australia,6390,,898834444,Public,Public,No,,-32.803715,116.475774
+84,84,Boggabri Multi Purpose Service,3 Wee Waa Street,Boggabri,New South Wales,2382,,267497000,Public,Public,No,,-30.711502,150.040014
+85,85,Bombala Multi Purpose Service,126-128 Wellington Street,Bombala,New South Wales,2632,,264585777,Public,Public,No,,-36.917513,149.235372
+86,86,Bonalbo Hospital,Clarence Way,Bonalbo,New South Wales,2469,,266651203,Public,Public,No,,-28.733777,152.622789
+87,87,Booleroo Centre District Hospital and Health Services,Stephens Street,Booleroo Centre,South Australia,5482,,886672211,Public,Public,No,,-32.877911,138.350958
+88,88,Boonah Hospital,11-17 Leonard Street,Boonah,Queensland,4310,,754633300,Public,Public,No,,-27.999128,152.678943
+89,89,Boorowa Multi Purpose Service,62-80 Dry Street,Boorowa,New South Wales,2586,,263853004,Public,Public,No,,-34.442822,148.727073
+90,90,Boort District Health,31 Kiniry Street,Boort,Victoria,3537,,354515200,Public,Public,No,,-36.111703,143.727285
+91,91,Bordertown Memorial Hospital,23 South Terrace,Bordertown,South Australia,5268,,887529000,Public,Public,No,,-36.312133,140.766438
+92,92,Bourke Multi Purpose Service,26 Tarcoon Street,Bourke,New South Wales,2840,,268708888,Public,Public,No,,-30.092823,145.947983
+93,93,Bourke Street Health Service,234 Bourke Street,Goulburn,New South Wales,2580,,248237800,Public,Public,No,,-34.748721,149.719321
+94,94,Bowen Hospital,Gregory Street,Bowen,Queensland,4805,,747868222,Public,Public,No,,-20.007104,148.240327
+95,95,Bowral Hospital,Lot 3 Mona Road,Bowral,New South Wales,2576,,248610200,Public,Public,No,,-34.485043,150.423796
+96,96,Box Hill Hospital,8 Arnold Street,Box Hill,Victoria,3128,,1300342255,Public,Public,Yes,,-37.813682,145.119094
+97,97,Boyup Brook Soldiers Memorial Hospital,Hospital Road,Boyup Brook,Western Australia,6244,,897650222,Public,Public,No,,-33.839231,116.390639
+98,98,Braeside Hospital,340 Prairie Vale Road,Prairiewood,New South Wales,2176,,296168600,Public,Public,No,,-33.861917,150.902192
+99,99,Braidwood Multi Purpose Service,77 Monkittee Street,Braidwood,New South Wales,2622,,248422566,Public,Public,No,,-35.443216,149.805302
+100,100,Brewarrina Multi Purpose Service,56 Doyle Street,Brewarrina,New South Wales,2839,,268305000,Public,Public,No,,-29.961627,146.863796
+101,101,Bridgetown Hospital,16-18 Peninsula Road,Bridgetown,Western Australia,6255,,897821222,Public,Public,No,,-33.951681,116.132183
+102,102,Brindabella Endoscopy and Day Surgery Centre,"Suite 7, 5 Dann Close",Garran,Australian Capital Territory,2605,,262827788,Private,Private,No,,-35.3495,149.1031
+103,103,Brisbane Endoscopy Services,Suites 16-18/259 McCullough Street,Sunnybank,Queensland,4109,,733441844,Private,Private,No,,-27.572418,153.061985
+104,104,Brisbane Private Hospital,259 Wickham Terrace,Brisbane,Queensland,4000,,738346111,Private,Private,Yes,,-27.464756,153.022642
+105,105,Brisbane Waters Private Hospital,21 Vidler Avenue,Woy Woy,New South Wales,2256,,243419522,Private,Private,No,,-33.495233,151.321708
+106,106,Broadmeadows Health Service,35 Johnstone Street,Broadmeadows,Victoria,3047,,383455000,Public,Public,Yes,,-37.684321,144.913106
+107,107,Broken Hill Hospital,176 Thomas Street,Broken Hill,New South Wales,2880,,880801333,Public,Public,Yes,,-31.947609,141.454703
+108,108,Broome Hospital,Robinson Street,Broome,Western Australia,6725,,891942222,Public,Public,No,,-17.960975,122.236289
+109,109,Bruce Rock Memorial Hospital,35 Dunstall Street,Bruce Rock,Western Australia,6418,,890611311,Public,Public,No,,-31.873038,118.146414
+110,110,Buderim Gastroenterology Centre,"Suite 5, 102 Wises Road",Maroochydore,Queensland,4558,,754754464,Private,Private,No,,-26.671731,153.084944
+111,111,Buderim Private Hospital,12 Elsa Wilson Drive,Buderim,Queensland,4556,,754303303,Private,Private,Yes,,-26.683988,153.092895
+112,112,Bulahdelah Hospital,Richmond Street,Bulahdelah,New South Wales,2423,,249879900,Public,Public,No,,-32.403949,152.210029
+113,113,Bulli Hospital,Hospital Road,Bulli,New South Wales,2516,,242844344,Public,Public,No,,-34.336667,150.907344
+114,114,Bunbury Hospital,Corner of Robertson Drive and Bussell Highway,Bunbury,Western Australia,6230,,897221000,Public,Public,Yes,,-33.366986,115.648183
+115,115,Bundaberg Base Hospital,Bourbong Street,Bundaberg,Queensland,4670,,741502222,Public,Public,Yes,,-24.868877,152.336157
+116,116,Bundoora Extended Care Centre,1231 Plenty Road,Bundoora,Victoria,3083,,394953100,Public,Public,No,,-37.701124,145.055569
+117,117,Burnside War Memorial Hospital,120 Kensington Road,Toorak Gardens,South Australia,5065,,882027222,Private,Private,No,,-34.927126,138.638878
+118,118,Burra Hospital,46 Commercial Street,Burra,South Australia,5417,,888922300,Public,Public,No,,-33.685486,138.934577
+119,119,Busselton Health Campus,Mill Road,Busselton,Western Australia,6280,,897536000,Public,Public,No,,-33.654351,115.319581
+120,120,Byron Central Hospital,54 Ewingsdale Road,Ewingsdale,New South Wales,2481,,266399400,Public,Public,No,,-28.637365,153.555898
+121,121,Caboolture Hospital,McKean Street,Caboolture,Queensland,4510,,754338888,Public,Public,Yes,,-27.080776,152.963623
+122,122,Caboolture Private Hospital,McKean Street,Caboolture,Queensland,4510,,754959400,Private,Private,No,,-27.080318,152.963628
+123,123,Cabrini Brighton,243 New Street,Brighton,Victoria,3186,,395088777,Private,Private,Yes,,-37.91165,144.991572
+124,124,Cabrini Health Elsternwick Rehabilitation - Glenhuntly Rd,494 Glenhuntly Road,Elsternwick,Victoria,3185,,395085200,Private,Private,No,,-37.88543,145.009328
+125,125,Cabrini Health Elsternwick Rehabilitation - Hopetoun,2-6 Hopetoun Street,Elsternwick,Victoria,3185,,395085100,Private,Private,No,,-37.884778,145.01039
+126,126,Cabrini Malvern,183 Wattletree Road,Malvern,Victoria,3144,,395081222,Private,Private,Yes,,-37.861641,145.0335
+127,127,Cabrini Prahran,646 High Street,Prahran,Victoria,3181,,395081000,Private,Private,No,,-37.854034,145.009017
+128,128,Cairns Day Surgery,156-160 Grafton Street,Cairns,Queensland,4870,,740515454,Private,Private,Yes,,-16.918973,145.771955
+129,129,Cairns Hospital,The Esplanade,Cairns,Queensland,4870,,742260000,Public,Public,Yes,,-16.912537,145.768522
+130,130,Cairns Private Hospital,1 Upward Street,Cairns,Queensland,4870,,740525200,Private,Private,Yes,,-16.918854,145.772282
+131,131,Caloundra Hospital,West Terrace,Caloundra,Queensland,4551,,754368500,Public,Public,No,,-26.800582,153.119759
+132,132,Caloundra Private Clinic,96 Beerburrum Street,Caloundra,Queensland,4551,,754911522,Private,Private,No,,-26.782379,153.125534
+133,133,Calvary Central Districts Hospital,25-37 Jarvis Road,Elizabeth Vale,South Australia,5112,,882504111,Private,Private,No,,-34.75542,138.656221
+134,134,Calvary Health Care Bethlehem,152 Como Parade West,Parkdale,Victoria,3195,,395962853,Public,Public,No,,-37.896962,145.013415
+135,135,Calvary Health Care Riverina,Hardy Avenue,Wagga Wagga,New South Wales,2650,,269253055,Private,Private,No,,-35.118702,147.352811
+136,136,Calvary Health Care Tasmania - Lenah Valley Campus,49 Augusta Road,Lenah Valley,Tasmania,7008,,362785333,Private,Private,Yes,,-42.866099,147.303614
+137,137,Calvary Health Care Tasmania - St John's Campus,30 Cascade Road,South Hobart,Tasmania,7004,,363237444,Private,Private,No,,-42.895314,147.305975
+138,138,Calvary Health Care Tasmania - St Luke's Campus,24 Lyttleton Street,Launceston,Tasmania,7250,,363353333,Private,Private,No,,-41.433895,147.149521
+139,139,Calvary Health Care Tasmania - St Vincent's Campus,5 Frederick Street,Launceston,Tasmania,7250,,363324999,Private,Private,No,,-41.441013,147.141308
+140,140,Calvary Hospital,91-101 Rocky Point Road,Kogarah,New South Wales,2217,,295533111,Public,Public,Yes,,-33.976132,151.136206
+141,141,Calvary John James Hospital,173 Strickland Crescent,Deakin,Australian Capital Territory,2600,,262818100,Private,Private,Yes,,-35.319869,149.095662
+142,142,Calvary Mater Newcastle Hospital,20 Edith Street,Waratah,New South Wales,2298,,249211211,Public,Public,Yes,,-32.899371,151.720858
+143,143,Calvary North Adelaide Hospital,89 Strangways Terrace,Nth Adelaide,South Australia,5006,,882399100,Private,Private,Yes,,-34.910003,138.589095
+144,144,Calvary Private Hospital Bruce,Corner of Belconnen Way and Haydon Drive,Bruce,Australian Capital Territory,2617,,262016363,Private,Private,No,,-35.252882,149.088646
+145,145,Calvary Public Hospital,Haydon Drive,Bruce,Australian Capital Territory,2617,,262016111,Public,Public,Yes,,-35.253321,149.089654
+146,146,Calvary Rehabilitation Hospital,18 North East Road,Walkerville,South Australia,5081,,881685700,Private,Private,No,,-34.891739,138.611481
+147,147,Calvary Wakefield Hospital,300 Wakefield Street,Adelaide,South Australia,5000,,884053333,Private,Private,Yes,,-34.927689,138.611154
+148,148,Camden Hospital,65 Menangle Road,Camden,New South Wales,2570,,246343000,Public,Public,No,,-34.062702,150.693297
+149,149,Campbell Town Multi Purpose Service,70 High Street,Campbell Town,Tasmania,7210,,367748000,Public,Public,No,,-41.926339,147.493107
+150,150,Campbelltown Hospital,Therry Road,Campbelltown,New South Wales,2560,,246343000,Public,Public,Yes,,-34.077651,150.806321
+151,151,Campbelltown Private Hospital,42 Parkside Crescent (Corner of Hyde Street),Campbelltown,New South Wales,2560,,246219111,Private,Private,No,,-34.075607,150.804948
+152,152,Canberra Imaging Group Angiography/Interventional Suite,173 Strickland Cresent,Deakin,Australian Capital Territory,2600,,262032092,Private,Private,No,,-35.318557,149.096004
+153,153,Canossa Private Hospital,169 Seventeen Mile Rocks Road,Oxley,Queensland,4075,,737175555,Private,Private,No,,-27.554703,152.963716
+154,154,Canowindra Hospital,Browns Avenue,Canowindra,New South Wales,2804,,263403033,Public,Public,No,,-33.557204,148.676576
+155,155,Canterbury Hospital,575 Canterbury Road,Campsie,New South Wales,2194,,297870000,Public,Public,Yes,,-33.919592,151.098275
+156,156,Capricorn Coast Hospital,8 Hoskyn Drive,Yeppoon,Queensland,4703,,749133000,Public,Public,No,,-23.143888,150.734519
+157,157,Caritas Christi Hospice [Kew],104 Studley Park Road,Kew,Victoria,3101,,392315000,Public,Public,No,,-37.804706,145.015557
+158,158,Carnarvon Hospital,Cleaver Street,Carnarvon,Western Australia,6701,,899410555,Public,Public,No,,-24.886592,113.658993
+159,159,Casey Hospital,52 Kangan Drive,Berwick,Victoria,3806,,387681200,Public,Public,Yes,,-38.045325,145.347181
+160,160,Casino Hospital,Hotham Street,Casino,New South Wales,2470,,266622111,Public,Public,No,,-28.859839,153.035827
+161,161,Casterton Memorial Hospital,63-69 Russell Street,Casterton,Victoria,3311,,355542555,Public,Public,No,,-37.589989,141.392283
+162,162,Castle Hill Day Surgery,72-74 Cecil Avenue,Castle Hill,New South Wales,2154,,288500500,Private,Private,No,,-33.73507,151.004099
+163,163,Castlecrag Private Hospital,150 Edinburgh Road,Castlecrag,New South Wales,2068,,299350200,Private,Private,No,,-33.801822,151.217045
+164,164,Castlemaine Health,142 Cornish Street,Castlemaine,Victoria,3450,,354711555,Public,Public,No,,-37.052539,144.212315
+165,165,Caulfield Hospital,260-294 Kooyong Road,Caulfield,Victoria,3162,,390766000,Public,Public,Yes,,-37.882707,145.016892
+166,166,Ceduna District Health Service,3 Eyre Highway,Ceduna,South Australia,5690,,886262110,Public,Public,No,,-32.119099,133.672317
+167,167,Central Coast Day Hospital,"Suite 1, Fountain Corporate, 2 Ilya Avenue",Erina,New South Wales,2250,,243673880,Private,Private,No,,-33.439692,151.384354
+168,168,Central Gippsland Health Service [Maffra],48 Kent Street,Maffra,Victoria,3860,,351470100,Public,Public,No,,-37.961032,146.983487
+169,169,Central Gippsland Health Service [Sale],155 Guthridge Parade,Sale,Victoria,3850,,351438600,Public,Public,No,,-38.108408,147.080637
+170,170,Central Yorke Peninsula Hospital (Maitland),65 Robert Street,Maitland,South Australia,5573,,888622626,Public,Public,No,,-34.370494,137.673947
+171,171,Centre for Digestive Diseases,"Level 1, 229 Great North Road",Five Dock,New South Wales,2046,,297134011,Private,Private,Yes,,-33.865117,151.130092
+172,172,Cessnock Hospital,24 View Street,Cessnock,New South Wales,2325,,249910555,Public,Public,No,,-32.827754,151.348396
+173,173,Charleville Hospital,72 King Street,Charleville,Queensland,4470,,746505000,Public,Public,No,,-26.410455,146.239228
+174,174,Charters Towers Hospital,137-139 Gill Street,Charters Towers,Queensland,4820,,747870333,Public,Public,No,,-20.076167,146.264097
+175,175,Charters Towers Rehabilitation Unit,35 Gladstone Road,Charters Towers,Queensland,4820,,747875200,Public,Public,No,,-20.076801,146.280459
+176,176,Chatswood Private Hospital,"Suite 1, 38B Albert Avenue",Chatswood,New South Wales,2067,,294134822,Private,Private,No,,-33.797612,151.185691
+177,177,Cherbourg Hospital,Fisher Street,Cherbourg,Queensland,4605,,741698800,Public,Public,No,,-26.291519,151.956324
+178,178,Chermside Day Hospital,1/956 Gympie Road,Chermside,Queensland,4032,,731203444,Private,Private,No,,-27.381971,153.029423
+179,179,Chesterville Day Hospital,28 Chesterville Road,Cheltenham,Victoria,3192,,395853777,Private,Private,No,,-37.96046,145.0568
+180,180,Childers Hospital,44 Broadhurst Street,Childers,Queensland,4660,,741921133,Public,Public,No,,-25.239416,152.273286
+181,181,Chinchilla Hospital,Slessar Street,Chinchilla,Queensland,4413,,746628888,Public,Public,No,,-26.741337,150.634939
+182,182,Chris O’Brien Lifehouse,119-143 Missenden Road,Camperdown,New South Wales,2050,,228514000,Private,Private,Yes,,-33.890577,151.182234
+183,183,Clare Hospital,47 Farrell Flat Road,Clare,South Australia,5453,,888426500,Public,Public,No,,-33.829588,138.614416
+184,184,Clermont Hospital,Francis Street,Clermont,Queensland,4721,,749834000,Public,Public,No,,-22.826219,147.632174
+185,185,Cleve District Hospital and Aged Care,North Terrace,Cleve,South Australia,5640,,886282665,Public,Public,No,,-33.697779,136.494162
+186,186,Cloncurry Hospital,1 Musgrave Street,Cloncurry,Queensland,4824,,747424500,Public,Public,No,,-20.704166,140.527571
+187,187,Cobar Health Service,Lerida Road,Cobar,New South Wales,2835,,268302111,Public,Public,No,,-31.509026,145.825266
+188,188,Cobram District Hospital,24-32 Broadway Street,Cobram,Victoria,3644,,358710777,Public,Public,No,,-35.916273,145.651029
+189,189,Coffs Day Hospital,69 Albany Street,Coffs Harbour,New South Wales,2450,,266001000,Private,Private,No,,-30.300233,153.115865
+190,190,Coffs Harbour Hospital,345 Pacific Highway,Coffs Harbour,New South Wales,2450,,266567000,Public,Public,Yes,,-30.317579,153.093667
+191,191,Cohuna District Hospital,144-158 King George Street,Cohuna,Victoria,3568,,354565300,Public,Public,No,,-35.800063,144.214911
+192,192,Colac Area Health,2-28 Connor Street,Colac,Victoria,3250,,352325100,Public,Public,No,,-38.341201,143.582854
+193,193,Coledale Hospital,636 Lawrence Hargrave Drive,Coledale,New South Wales,2515,,242670111,Public,Public,No,,-34.283797,150.950796
+194,194,Colin Street Day Hospital,51 Colin Street,West Perth,Western Australia,6005,,893214256,Private,Private,No,,-31.949358,115.841569
+195,195,Collarenebri Multi Purpose Service,Walgett Street,Collarenebri,New South Wales,2833,,267564800,Public,Public,No,,-29.544889,148.581901
+196,196,Collie Hospital,Corner of Steere and Deakin Streets,Collie,Western Australia,6225,,897351333,Public,Public,No,,-33.351403,116.162223
+197,197,Collinsville Hospital,Garrick Street,Collinsville,Queensland,4804,,747854777,Public,Public,No,,-20.546108,147.838146
+198,198,Concord Hospital,Hospital Road,Concord,New South Wales,2139,,297675000,Public,Public,Yes,,-33.837288,151.092664
+199,199,Condobolin Health Service,Madline Street,Condobolin,New South Wales,2877,,268901500,Public,Public,No,,-33.082332,147.154161
+200,200,Coober Pedy Hospital and Health Service,Lot 89 Hospital Road,Coober Pedy,South Australia,5723,,886725009,Public,Public,No,,-29.004893,134.762066
+201,201,Cooktown Hospital,48 Hope Street,Cooktown,Queensland,4895,,740430100,Public,Public,No,,-15.478067,145.249616
+202,202,Coolah Multi Purpose Service,111-135 Martin Street,Coolah,New South Wales,2843,,263779100,Public,Public,No,,-31.821473,149.710049
+203,203,Coolamon Multi Purpose Service,Doctor Buchanan Drive,Coolamon,New South Wales,2701,,269273303,Public,Public,No,,-34.819885,147.199329
+204,204,Coolenberg Day Surgery,60 Lake Road,Port Macquarie,New South Wales,2444,,265840368,Private,Private,Yes,,-31.439829,152.909473
+205,205,Cooma Hospital,Bent Street,Cooma,New South Wales,2630,,264553222,Public,Public,No,,-36.241389,149.130499
+206,206,Coonabarabran Health Service,101-103 Edwards Street,Coonabarabran,New South Wales,2357,,268266100,Public,Public,No,,-31.274791,149.284779
+207,207,Coonamble Multi Purpose Service,150 Castlereagh Street,Coonamble,New South Wales,2829,,268271100,Public,Public,No,,-30.964803,148.387527
+208,208,Cootamundra Hospital,120 Mackay Street,Cootamundra,New South Wales,2590,,269420444,Public,Public,No,,-34.634386,148.012796
+209,209,Coral Tree Family Centre,Badajoz And Twin Roads,North Ryde,New South Wales,2113,,298875830,Public,Public,No,,-33.804256,151.126212
+210,210,Corowa Hospital,74 Guy Street,Corowa,New South Wales,2646,,260331333,Public,Public,No,,-35.993528,146.383541
+211,211,Corrigin Hospital,49 Kirkwood Street,Corrigin,Western Australia,6375,,890630333,Public,Public,No,,-32.324419,117.878816
+212,212,Corymbia House,92 David Street,Dandenong,Victoria,3175,,397913533,Private,Private,No,,-37.977201,145.21715
+213,213,Cowell District Hospital and Aged Care,17 South Terrace,Cowell,South Australia,5602,,886292437,Public,Public,No,,-33.685299,136.921405
+214,214,Cowra Health Service,64 Liverpool Street,Cowra,New South Wales,2794,,263409000,Public,Public,No,,-33.832137,148.692376
+215,215,Craigieburn Health Service,274-304 Craigieburn Road,Craigieburn,Victoria,3064,,383383000,Public,Public,No,,-37.596015,144.91928
+216,216,Cranbourne Integrated Care Centre,140-154 Sladen Street,Cranbourne,Victoria,3977,,359906789,Public,Public,No,,-38.113312,145.280832
+217,217,Creswick District Hospital,1 Napier Street,Creswick,Victoria,3363,,353452403,Public,Public,No,,-37.421192,143.891533
+218,218,Crookwell Hospital,17 Kialla Road,Crookwell,New South Wales,2583,,248321300,Public,Public,No,,-34.464222,149.467427
+219,219,Crows Nest Day Surgery,"Level 1, 22 Clarke Street",Crows Nest,New South Wales,2065,,299555677,Private,Private,Yes,,-33.825083,151.199293
+220,220,Crystal Brook and District Hospital,Edmund Terrace,Crystal Brook,South Australia,5523,,886361100,Public,Public,No,,-33.354297,138.213243
+221,221,Culcairn Multi Purpose Service,51-55 Balfour Street,Culcairn,New South Wales,2660,,260298203,Public,Public,No,,-35.667399,147.042104
+222,222,Cumberland Hospital,1-11 Hainsworth Street,Westmead,New South Wales,2145,,298403000,Public,Public,Yes,,-33.80159,150.995246
+223,223,Cummins and District Memorial Hospital,19-21 Tumby Bay Road,Cummins,South Australia,5631,,886882629,Public,Public,No,,-34.264155,135.73316
+224,224,Cunderdin Hospital,Cubbine Road,Cunderdin,Western Australia,6407,,896352222,Public,Public,No,,-31.654404,117.244226
+225,225,Cunnamulla Hospital,56 Wicks Street,Cunnamulla,Queensland,4490,,746558100,Public,Public,No,,-28.071658,145.690405
+226,226,Dalby Hospital,Hospital Road,Dalby,Queensland,4405,,746690555,Public,Public,No,,-27.167153,151.278905
+227,227,Dalwallinu Hospital,Myers Street,Dalwallinu,Western Australia,6609,,896610200,Public,Public,No,,-30.277229,116.656544
+228,228,Dame Phyllis Frost Centre - Marmak unit,Riding-Boundary Road,Deer Park,Victoria,3023,,386840000,Public,Public,No,,-37.781307,144.742309
+229,229,Dandenong Campus,105-135 David Street,Dandenong,Victoria,3175,,395541000,Public,Public,Yes,,-37.976459,145.218529
+230,230,Darwin Private Hospital,Rocklands Drive,Tiwi,Northern Territory,810,,889206011,Private,Private,Yes,,-12.357357,130.881789
+231,231,David Berry Hospital,85 Tannery Road,Berry,New South Wales,2535,,244641001,Public,Public,No,,-34.775909,150.712819
+232,232,Daylesford District Hospital,13 Hospital Street,Daylesford,Victoria,3460,,353216500,Public,Public,No,,-37.337365,144.145774
+233,233,Dee Why Endoscopy Unit,"Level 4, Suite 4402, Dee Why Grand, 834 Pittwater Road",Dee Why,New South Wales,2099,,299826333,Private,Private,No,,-33.75674,151.28363
+234,234,Delegate Multi Purpose Service,15 Craigie Street,Delegate,New South Wales,2633,,264598000,Public,Public,No,,-37.04496,148.945958
+235,235,Deloraine District Hospital,East Barrack Street,Deloraine,Tasmania,7304,,367012111,Public,Public,No,,-41.528033,146.659605
+236,236,Deniliquin Hospital,411 Charlotte Street,Deniliquin,New South Wales,2710,,358822800,Public,Public,No,,-35.524044,144.963301
+237,237,Denman Multi Purpose Service,51-53 Ogilvie Street,Denman,New South Wales,2328,,265473999,Public,Public,No,,-32.389483,150.684453
+238,238,Denmark Hospital and Health Service,50 Scotsdale Road,Denmark,Western Australia,6333,,898480600,Public,Public,No,,-34.957977,117.353489
+239,239,Dental Health Services Victoria,720 Swanston Street,Carlton,Victoria,3053,,393411000,Public,Public,No,,-37.799299,144.964529
+240,240,Derby Hospital,Clarendon Street,Derby,Western Australia,6728,,891933333,Public,Public,No,,-17.306339,123.633399
+241,241,Diagnostic Endoscopy Centre,601/438 Victoria Street,Darlinghurst,New South Wales,2010,,283826622,Private,Private,No,,-33.879519,151.220852
+242,242,Dimboola District Hospital,32-36 Anderson Street,Dimboola,Victoria,3414,,353891301,Public,Public,No,,-36.449887,142.024286
+243,243,Dirranbandi Hospital,Corner of Jane and Cowildi Streets,Dirranbandi,Queensland,4486,,746258222,Public,Public,No,,-28.579349,148.229159
+244,244,Djerriwarrh Health Service [Bacchus Marsh],29-35 Grant Street,Bacchus Marsh,Victoria,3340,,353672000,Public,Public,No,,-37.678267,144.433264
+245,245,Dongara Eneabba Mingenew Health Service,48 Blenheim Road,Dongara,Western Australia,6525,,899270200,Public,Public,No,,-29.265173,114.934179
+246,246,Donnybrook Hospital,Bentley Street,Donnybrook,Western Australia,6239,,897804333,Public,Public,No,,-33.576942,115.816547
+247,247,Donvale Rehabilitation Hospital,1119 Doncaster Road,Donvale,Victoria,3111,,398411400,Private,Private,No,,-37.789836,145.171655
+248,248,Doomadgee Hospital,Sharpe Street,Doomadgee,Queensland,4830,,747458800,Public,Public,No,,-17.942527,138.825267
+249,249,Dorrigo Multi Purpose Service,14 Beech Street,Dorrigo,New South Wales,2453,,266927700,Public,Public,No,,-30.340625,152.713882
+250,250,Dorset Rehabilitation Centre,146 Derby Street,Pascoe Vale,Victoria,3044,,383719477,Private,Private,No,,-37.723402,144.947436
+251,251,Dubbo Hospital,Myall Street,Dubbo,New South Wales,2830,,268096809,Public,Public,Yes,,-32.239339,148.620772
+252,252,Dudley-Orange Private Hospital,261 March Street,Orange,New South Wales,2800,,263628122,Private,Private,No,,-33.282219,149.121236
+253,253,Dumbleyung Memorial Hospital,Mcintyre Street,Dumbleyung,Western Australia,6350,,898635222,Public,Public,No,,-33.310409,117.740499
+254,254,Dunedoo Multi Purpose Service,70 Digilah Street,Dunedoo,New South Wales,2844,,263703000,Public,Public,No,,-32.017204,149.397366
+255,255,Dungog Hospital,58 Hospital Road,Dungog,New South Wales,2420,,249957000,Public,Public,No,,-32.401948,151.746157
+256,256,Dysart Hospital,Queen Elizabeth Drive,Dysart,Queensland,4745,,749411911,Public,Public,No,,-22.582729,148.353044
+257,257,East Grampians Health Service [Ararat],Lot 5B Girdlestone Street,Ararat,Victoria,3377,,353529300,Public,Public,No,,-37.278816,142.932858
+258,258,East Grampians Health Service [Willaura],Delacombe Way,Willaura,Victoria,3379,,353541600,Public,Public,No,,-37.544798,142.74587
+259,259,East Wimmera Health Service [Birchip],26 Duncan Street,Birchip,Victoria,3483,,354777100,Public,Public,No,,-35.980167,142.915891
+260,260,East Wimmera Health Service [Charlton],4 Menzies Street,Charlton,Victoria,3525,,354776800,Public,Public,No,,-36.271037,143.345889
+261,261,East Wimmera Health Service [Donald],7 Aitken Avenue,Donald,Victoria,3480,,354786200,Public,Public,No,,-36.366895,142.976583
+262,262,East Wimmera Health Service [St Arnaud],52 North Western Road,St Arnaud,Victoria,3478,,354772100,Public,Public,No,,-36.609275,143.246676
+263,263,East Wimmera Health Service [Wycheproof],19 Grandview Street,Wycheproof,Victoria,3527,,354780700,Public,Public,No,,-36.078447,143.233779
+264,264,Eastern Heart Clinic,"Level 3, Campus Centre Building, Prince of Wales Hospital, Barker Street",Randwick,New South Wales,2031,,293820700,Private,Private,No,,-33.920616,151.237986
+265,265,Echuca Regional Health,9-27 Francis Street,Echuca,Victoria,3564,,354855000,Public,Public,No,,-36.138186,144.748369
+266,266,Edenhope and District Memorial Hospital,128-134 Elizabeth Street,Edenhope,Victoria,3318,,355859800,Public,Public,No,,-37.035323,141.288829
+267,267,Eidsvold Hospital,Cracow Road,Eidsvold,Queensland,4627,,741657100,Public,Public,No,,-25.382639,151.125494
+268,268,Ellen Barron Family Centre,Hamilton Road,Chermside,Queensland,4032,,731396500,Public,Public,No,,-27.385905,153.025152
+269,269,Elliston Hospital,6 Memorial Terrace,Elliston,South Australia,5670,,886879001,Public,Public,No,,-33.647912,134.892443
+270,270,Emerald Hospital,69 Hospital Road,Emerald,Queensland,4720,,749879400,Public,Public,No,,-23.514826,148.154989
+271,271,Epping Surgery Centre,"Suite 3, Oxford Place, 44-46 Oxford Street",Epping,New South Wales,2121,,298686555,Private,Private,No,,-33.771132,151.083676
+272,272,Epworth Cliveden,29 Simpson Street,East Melbourne,Victoria,3002,,394197122,Private,Private,No,,-37.815662,144.987547
+273,273,Epworth Eastern,1 Arnold Street,Box Hill,Victoria,3128,,388077100,Private,Private,Yes,,-37.814678,145.119368
+274,274,Epworth Freemasons [Clarendon Street],166 Clarendon Street,East Melbourne,Victoria,3002,,394833833,Private,Private,Yes,,-37.810694,144.984107
+275,275,Epworth Freemasons [Victoria Parade],320 Victoria Parade,East Melbourne,Victoria,3002,,394188188,Private,Private,No,,-37.809284,144.98212
+276,276,Epworth Geelong,1 Epworth Place,Waurn Ponds,Victoria,3216,,352717777,Private,Private,Yes,,-38.193882,144.302472
+277,277,Epworth Hawthorn,50 Burwood Road,Hawthorn,Victoria,3122,,394155777,Private,Private,No,,-37.821229,145.023405
+278,278,Epworth Rehabilitation Brighton,85 Wilson Street,Brighton,Victoria,3186,,395919200,Private,Private,No,,-37.913689,145.002815
+279,279,Epworth Rehabilitation Camberwell,888 Toorak Road,Camberwell,Victoria,3124,,398092444,Private,Private,No,,-37.846223,145.054689
+280,280,Epworth Rehabilitation Richmond,89 Bridge Road,Richmond,Victoria,3121,,394266666,Private,Private,No,,-37.817419,144.993503
+281,281,Epworth Richmond,89 Bridge Road,Richmond,Victoria,3121,,394266666,Private,Private,Yes,,-37.817433,144.993029
+282,282,Esk Hospital,30 Highland Street,Esk,Queensland,4312,,754244600,Public,Public,No,,-27.240398,152.418179
+283,283,Esperance Hospital,Hicks Street,Esperance,Western Australia,6450,,890710888,Public,Public,No,,-33.856188,121.892205
+284,284,Esperance Multi Purpose Centre,Chapman Avenue,Dover,Tasmania,7117,,362989200,Public,Public,No,,-43.314749,147.016209
+285,285,Essendon Private Hospital,35 Rosehill Road,West Essendon,Victoria,3040,,393379577,Private,Private,No,,-37.748597,144.885403
+286,286,Eudunda Hospital,40 Ward Street,Eudunda,South Australia,5374,,885662007,Public,Public,No,,-34.175482,139.090586
+287,287,Eugowra Multipurpose Service,Cooper Street,Eugowra,New South Wales,2806,,268504000,Public,Public,No,,-33.424421,148.366799
+288,288,Exmouth Hospital,Lyon Street,Exmouth,Western Australia,6707,,899493666,Public,Public,No,,-21.928276,114.119882
+289,289,Eye-Tech Day Surgeries,"Level 5, St Andrews Place, 33 North Street",Spring Hill,Queensland,4000,,738314244,Private,Private,Yes,,-27.461026,153.021898
+290,290,Eye-Tech Day Surgeries Southside,22-26 Sanders Street,Upper Mt Gravatt,Queensland,4122,,734202666,Private,Private,Yes,,-27.557642,153.082042
+291,291,Fairfield Hospital,Corner of Polding Street and Prairie Vale Road,Prairiewood,New South Wales,2176,,296168111,Public,Public,Yes,,-33.860117,150.904339
+292,292,Figtree Private Hospital,1 Suttor Place,Figtree,New South Wales,2525,,242555000,Private,Private,Yes,,-34.440199,150.851024
+293,293,Finley Hospital,20-22 Dawe Avenue,Finley,New South Wales,2713,,358831133,Public,Public,No,,-35.641725,145.568139
+294,294,Fiona Stanley Hospital,11 Robin Warren Drive,Murdoch,Western Australia,6150,,861522222,Public,Public,Yes,,-32.07012,115.846909
+295,295,Fitzroy Crossing Hospital,Fallon Road,Fitzroy Crossing,Western Australia,6765,,891661777,Public,Public,No,,-18.191439,125.562765
+296,296,Flinders Island Multi Purpose Centre,James Street,Whitemark,Tasmania,7255,,363592122,Public,Public,No,,-40.121173,148.017059
+297,297,Flinders Medical Centre,Flinders Drive,Bedford Park,South Australia,5042,,882045511,Public,Public,Yes,,-35.022229,138.569439
+298,298,Flinders Private Hospital,1 Flinders Drive,Bedford Park,South Australia,5042,,882753333,Private,Private,Yes,,-35.020629,138.568089
+299,299,Forster Private Hospital,29-41 South Street,Forster,New South Wales,2428,,265551333,Private,Private,No,,-32.188561,152.514079
+300,300,Frances Perry House,"Levels 6 and 7, Corner of Grattan Street and Flemington Road",Parkville,Victoria,3052,,393445000,Private,Private,Yes,,-37.798758,144.955135
+301,301,Frankston Hospital,2 Hastings Road,Frankston,Victoria,3199,,397847777,Public,Public,Yes,,-38.150791,145.128428
+302,302,Frankston Private Hospital,24-28 Frankston Flinders Road,Frankston,Victoria,3199,,387961300,Private,Private,No,,-38.154662,145.132902
+303,303,Fremantle Hospital,Alma Street,Fremantle,Western Australia,6160,,894313333,Public,Public,Yes,,-32.058263,115.751448
+304,304,Friendly Society Private Hospital,19-23 Bingera Street,Bundaberg,Queensland,4670,,743311000,Private,Private,Yes,,-24.870831,152.3429
+305,305,Fullarton Private Hospital,293-295 Fullarton Road,Parkside,South Australia,5063,,882720233,Private,Private,No,,-34.949265,138.624852
+306,306,Gatton Hospital,97-103 William Street,Gatton,Queensland,4343,,754684188,Public,Public,No,,-27.566778,152.276269
+307,307,Gawler Health Service,21 Hutchinson Road,Gawler East,South Australia,5118,,885212000,Public,Public,No,,-34.593743,138.755044
+308,308,Gayndah Hospital,69 Warton Street,Gayndah,Queensland,4625,,741613500,Public,Public,No,,-25.631384,151.604531
+309,309,George Town Hospital and Community Health Centre,47 Anne Street,George Town,Tasmania,7253,,367026020,Public,Public,No,,-41.103782,146.821149
+310,310,Geraldton Hospital,51-85 Shenton Street,Geraldton,Western Australia,6530,,899562222,Public,Public,Yes,,-28.782808,114.610844
+311,311,Gilgandra Multi Purpose Service,6 Chelmsford Avenue,Gilgandra,New South Wales,2827,,268805900,Public,Public,No,,-31.704565,148.664889
+312,312,Gin Gin Hospital,5 King Street,Gin Gin,Queensland,4671,,741572222,Public,Public,No,,-24.985707,151.953449
+313,313,Gippsland Southern Health Service - Korumburra,69-75 Bridge Street,Korumburra,Victoria,3950,,356542777,Public,Public,No,,-38.430328,145.828249
+314,314,Gippsland Southern Health Service - Leongatha,66 Koonawarra Road,Leongatha,Victoria,3953,,356675555,Public,Public,No,,-38.487171,145.950343
+315,315,Gladstone Hospital,Park Street,Gladstone,Queensland,4680,,749763200,Public,Public,No,,-23.850654,151.248532
+316,316,Glen Eira Day Surgery,544 Hawthorn Road,Caulfield South,Victoria,3162,,395956600,Private,Private,No,,-37.900377,145.019265
+317,317,Glen Innes Hospital,94 Taylor Street,Glen Innes,New South Wales,2370,,267390200,Public,Public,No,,-29.733293,151.731673
+318,318,Glenelg Community Hospital Inc,5 Farrell Street,Glenelg South,South Australia,5045,,882945555,Private,Private,No,,-34.990189,138.512321
+319,319,Glenferrie Private Hospital,29 Hilda Crescent,Hawthorn,Victoria,3122,,390093800,Private,Private,No,,-37.819459,145.031544
+320,320,Glengarry Private Hospital,53 Arnisdale Road,Duncraig,Western Australia,6023,,894470111,Private,Private,Yes,,-31.834253,115.784826
+321,321,Glenside Health Services,226 Fullarton Road,Glenside,South Australia,5065,,870871000,Public,Public,Yes,,-34.943429,138.627714
+322,322,Gloucester Hospital,166-182 Church Street,Gloucester,New South Wales,2422,,265385000,Public,Public,No,,-32.014787,151.958556
+323,323,Gnowangerup Hospital,Yougenup Road,Gnowangerup,Western Australia,6335,,898272222,Public,Public,No,,-33.930469,118.002927
+324,324,Gold Coast Private Hospital,14 Hill Street,Southport,Queensland,4215,,755300300,Private,Private,Yes,,-27.962084,153.385112
+325,325,Gold Coast University Hospital,1 Hospital Boulevard,Southport,Queensland,4215,,756870000,Public,Public,Yes,,-27.958896,153.381173
+326,326,Golf Links Road Rehabilitation Centre,125 Golf Links Road,Frankston,Victoria,3199,,397837277,Public,Public,No,,-38.173447,145.149769
+327,327,Goodooga Health Service,49 Hammond Street,Goodooga,New South Wales,2831,,268206200,Public,Public,No,,-29.110249,147.456114
+328,328,Goomalling Hospital,Forrest Street,Goomalling,Western Australia,6460,,896290100,Public,Public,No,,-31.303928,116.831102
+329,329,Goondiwindi Hospital,Bowen Street,Goondiwindi,Queensland,4390,,745782400,Public,Public,No,,-28.547951,150.302302
+330,330,Gordonvale Hospital,1-11 Highleigh Road,Gordonvale,Queensland,4865,,740433100,Public,Public,No,,-17.087337,145.786159
+331,331,Gosford Hospital,76 Holden Street,Gosford,New South Wales,2250,,243202111,Public,Public,Yes,,-33.419451,151.340328
+332,332,Goulburn Hospital,130 Goldsmith Street,Goulburn,New South Wales,2580,,248273111,Public,Public,Yes,,-34.747527,149.712806
+333,333,Goulburn Valley Health [Shepparton],2 Graham Street,Shepparton,Victoria,3630,,358322322,Public,Public,Yes,,-36.363625,145.404911
+334,334,Goulburn Valley Health [Tatura],64-68 Park Street,Tatura,Victoria,3616,,358248400,Public,Public,No,,-36.439082,145.225535
+335,335,Goulburn Valley Health [Waranga],14 Coyle Street,Rushworth,Victoria,3612,,358518050,Public,Public,No,,-36.587827,145.008593
+336,336,Gove Hospital,80 Matthew Flinders Way,Nhulunbuy,Northern Territory,880,,889870211,Public,Public,No,,-12.18602,136.777874
+337,337,Gower Wilson Multi Purpose Service,Lagoon Road,Lord Howe Island,New South Wales,2898,,265632000,Public,Public,No,,-31.535603,159.071307
+338,338,Grafton Base Hospital,174 Arthur Street,Grafton,New South Wales,2460,,266402222,Public,Public,No,,-29.674807,152.941274
+339,339,Graylands Selby-Lemnos and Special Care Health Service,Brockway Road,Mount Claremont,Western Australia,6010,,893476600,Public,Public,Yes,,-31.961447,115.790855
+340,340,Greenslopes Day Surgery,687 Logan Road,Greenslopes,Queensland,4120,,1800802562,Private,Private,No,,-27.510139,153.052889
+341,341,Greenslopes Private Hospital,Newdegate Street,Greenslopes,Queensland,4120,,733947111,Private,Private,Yes,,-27.513052,153.046942
+342,342,Greenwich Hospital,97-115 River Road,Greenwich,New South Wales,2065,,299038333,Public,Public,No,,-33.827329,151.183376
+343,343,Grenfell Multi Purpose Service,80-96 Cowra Road,Grenfell,New South Wales,2810,,263491700,Public,Public,No,,-33.894286,148.167843
+344,344,Griffith Hospital,1 Noorebar Avenue,Griffith,New South Wales,2680,,269695555,Public,Public,No,,-34.282121,146.043774
+345,345,Griffith Rehabilitation Hospital,13 Dunrobin Road,Hove,South Australia,5048,,882984299,Private,Private,No,,-35.010285,138.523859
+346,346,Gulargambone Multi Purpose Service,47 Bourbah Street,Gulargambone,New South Wales,2828,,268274200,Public,Public,No,,-31.329812,148.469216
+347,347,Gulgong Multi Purpose Service,34 Goolma Road,Gulgong,New South Wales,2852,,263743400,Public,Public,No,,-32.366871,149.521893
+348,348,Gumeracha District Soldiers' Memorial Hospital,2 Albert Street,Gumeracha,South Australia,5233,,882099200,Public,Public,No,,-34.826269,138.881575
+349,349,Gundagai Hospital,50 Tor Street,Gundagai,New South Wales,2722,,269406300,Public,Public,No,,-35.051394,148.101764
+350,350,Gunnedah Hospital,2 Marquis Street,Gunnedah,New South Wales,2380,,267418000,Public,Public,No,,-30.983146,150.251339
+351,351,Guyra Multi Purpose Service,44-48 Sole Street,Guyra,New South Wales,2365,,267384000,Public,Public,No,,-30.213889,151.679112
+352,352,Gympie Hospital,12 Henry Street,Gympie,Queensland,4570,,754898444,Public,Public,No,,-26.184353,152.658258
+353,353,Gympie Private Hospital,78-82 Channon Street,Gympie,Queensland,4570,,754830500,Private,Private,No,,-26.184392,152.664191
+354,354,Halls Creek Hospital,70 Roberta Avenue,Halls Creek,Western Australia,6770,,891689222,Public,Public,No,,-18.226008,127.666046
+355,355,Hampstead Rehabilitation Centre,207-255 Hampstead Road,Northfield,South Australia,5085,,882221600,Public,Public,Yes,,-34.860704,138.620381
+356,356,Harvey Hospital,42 Hayward Street,Harvey,Western Australia,6220,,897822222,Public,Public,No,,-33.077554,115.896749
+357,357,Hawker Memorial Hospital,Cradock Road,Hawker,South Australia,5434,,886484007,Public,Public,No,,-31.893389,138.427841
+358,358,Hawkesbury Hospital,2 Day Street,Windsor,New South Wales,2756,,245605555,Public,Public,No,,-33.610712,150.820804
+359,359,Hay Hospital,351 Murray Street,Hay,New South Wales,2711,,269908700,Public,Public,No,,-34.500349,144.851433
+360,360,Healesville Hospital and Yarra Valley Health,377 Maroondah Highway,Healesville,Victoria,3777,,359624300,Public,Public,No,,-37.646879,145.529032
+361,361,Healthscope Independence Services,13 Corporate Drive,Moorabbin,Victoria,3189,,385518888,Private,Private,Yes,,-37.947818,145.081172
+362,362,HealthWest (West Coast District Hospital at Queenstown),Orr Street,Queenstown,Tasmania,7467,,364713300,Public,Public,No,,-42.081122,145.558303
+363,363,Heathcote Health,39 Hospital Street,Heathcote,Victoria,3523,,354310900,Public,Public,No,,-36.925786,144.709499
+364,364,Hedland Health Campus,34 Colebatch Way,South Hedland,Western Australia,6722,,891741410,Public,Public,No,,-20.413541,118.598178
+365,365,Heidelberg Endoscopy & Day Surgery Centre,177-179 Northern Road,Heidelberg Heights,Victoria,3081,,394582200,Private,Private,No,,-37.730589,145.060271
+366,366,Heidelberg Repatriation Hospital [Heidelberg West],300 Waterdale Road,Heidelberg West,Victoria,3081,,394965000,Public,Public,Yes,,-37.755973,145.04749
+367,367,Henty Multi Purpose Service,7 Keighran Street,Henty,New South Wales,2658,,269294999,Public,Public,No,,-35.515801,147.031847
+368,368,Herberton Hospital,23 Grace Street,Herberton,Queensland,4887,,740961000,Public,Public,No,,-17.379371,145.38175
+369,369,Hervey Bay Hospital,Corner of Nissen and Uraween Roads,Pialba,Queensland,4655,,741206666,Public,Public,Yes,,-25.298697,152.820639
+370,370,Hervey Bay Surgical Hospital,146-150 Boat Harbour Drive,Pialba,Queensland,4655,,741944000,Private,Private,No,,-25.287202,152.834651
+371,371,Hesse Rural Health Service [Winchelsea],8 Gosney Street,Winchelsea,Victoria,3241,,352671200,Public,Public,No,,-38.243369,143.985357
+372,372,Heywood Rural Health,21 Barclay Street,Heywood,Victoria,3304,,355270555,Public,Public,No,,-38.137788,141.624256
+373,373,Hillcrest Rockhampton Private Hospital,4 Talford Street,Rockhampton,Queensland,4700,,749321321,Private,Private,No,,-23.377595,150.496076
+374,374,Hillston Hospital,48C Burns Street,Hillston,New South Wales,2675,,269617200,Public,Public,No,,-33.478793,145.539032
+375,375,Hobart Private Hospital,Argyle Street,Hobart,Tasmania,7000,,362143000,Private,Private,Yes,,-42.880752,147.329886
+376,376,Hobsons Bay Endoscopy Centre Altona,Corner of Queen and Sargood Streets,Altona,Victoria,3018,,393988800,Private,Private,Yes,,-37.869448,144.828494
+377,377,Hobsons Bay Endoscopy Centre Sydenham,566 Melton Highway,Sydenham,Victoria,3037,,383616400,Private,Private,Yes,,-37.693365,144.758677
+378,378,Hobsons Bay Endoscopy Centre Werribee,179 Princes Highway,Werribee,Victoria,3030,,397318000,Private,Private,Yes,,-37.890649,144.686494
+379,379,Holbrook Hospital,Bowler Street,Holbrook,New South Wales,2644,,260362522,Public,Public,No,,-35.723991,147.320276
+380,380,Hollywood Private Hospital,Monash Avenue,Nedlands,Western Australia,6009,,893466000,Private,Private,Yes,,-31.969693,115.809148
+381,381,Holmesglen Private Hospital,490 South Road,Moorabbin,Victoria,3189,,395679000,Private,Private,Yes,,-37.935738,145.050581
+382,382,Holy Spirit Northside Private Hospital,627 Rode Road,Chermside,Queensland,4032,,733263000,Private,Private,Yes,,-27.390688,153.022728
+383,383,Home Hill Hospital,Tenth Avenue,Home Hill,Queensland,4806,,747905700,Public,Public,No,,-19.661764,147.416759
+384,384,Hopewell Hospice,88 Allied Drive,Arundel,Queensland,4214,,755632930,Private,Private,No,,-27.938981,153.380619
+385,385,Hornsby Ku-ring-gai Hospital,36-76 Palmerston Road,Hornsby,New South Wales,2077,,294779123,Public,Public,Yes,,-33.701448,151.112941
+386,386,Hughenden Hospital,14 Richmond Hill Drive,Hughenden,Queensland,4821,,747412800,Public,Public,No,,-20.8424,144.1892
+387,387,Hunter New England Mater Mental Health Service,Edith Street,Waratah,New South Wales,2298,,240335000,Public,Public,Yes,,-32.897873,151.720669
+388,388,Hunter Valley Private Hospital,20 Mawson Street,Shortland,New South Wales,2307,,249443744,Private,Private,No,,-32.883085,151.695054
+389,389,Hunters Hill Private Hospital,9 Mount Street,Hunters Hill,New South Wales,2110,,288769300,Private,Private,No,,-33.835273,151.150172
+390,390,Huon Eldercare,3278 Huon Highway,Franklin,Tasmania,7113,,362647100,Public,Public,No,,-43.080869,147.016382
+391,391,Hurstville Private,37 Gloucester Road,Hurstville,New South Wales,2220,,295797777,Private,Private,No,,-33.962333,151.095989
+392,392,Illawarra Mental Health Services,,,New South Wales,2500,,,Public,Public,No,,-34.42623,150.891252
+393,393,Ingham Hospital,2-16 Mcilwraith Street,Ingham,Queensland,4850,,747203000,Public,Public,No,,-18.652293,146.164222
+394,394,Inglewood & District Health Service,3 Hospital Street,Inglewood,Victoria,3517,,354317000,Public,Public,No,,-36.572147,143.873755
+395,395,Inglewood Hospital,Cunningham Highway,Inglewood,Queensland,4387,,746520888,Public,Public,No,,-28.417647,151.061856
+396,396,Injune Hospital,Fifth Avenue,Injune,Queensland,4454,,746261188,Public,Public,No,,-25.847096,148.562471
+397,397,Innisfail Hospital,87 Rankin Street,Innisfail,Queensland,4860,,740161411,Public,Public,No,,-17.518939,146.030049
+398,398,Inverell Hospital,41 Swanbrook Road,Inverell,New South Wales,2360,,267219500,Public,Public,No,,-29.770728,151.130139
+399,399,Ipswich Day Hospital,10 Churchill Street,Ipswich,Queensland,4305,,732828800,Private,Private,No,,-27.6184,152.7608
+400,400,Ipswich Hospital,Chelmsford Avenue,Ipswich,Queensland,4305,,738101111,Public,Public,Yes,,-27.619465,152.759313
+401,401,Ivanhoe Hospital,11 Columbus Street,Ivanhoe,New South Wales,2878,,269902200,Public,Public,No,,-32.898193,144.298904
+402,402,Jamestown Hospital and Health Service,South Terrace,Jamestown,South Australia,5491,,886641406,Public,Public,No,,-33.212265,138.616249
+403,403,Jandowae Hospital,13 Dalby Street,Jandowae,Queensland,4410,,746684555,Public,Public,No,,-26.781016,151.105313
+404,404,Jerilderie Multi Purpose Service,33-39 Southey Street,Jerilderie,New South Wales,2716,,358861300,Public,Public,No,,-35.356628,145.720596
+405,405,Jessie McPherson Private Hospital,246 Clayton Road,Clayton,Victoria,3168,,395942776,Private,Private,Yes,,-37.9201,145.1225
+406,406,John Fawkner Private Hospital,275 Moreland Road,Coburg,Victoria,3058,,393852500,Private,Private,Yes,,-37.754369,144.958398
+407,407,John Flynn Private Hospital,42 Inland Drive,Tugun,Queensland,4224,,755989000,Private,Private,Yes,,-28.153911,153.488616
+408,408,John Hunter Hospital,Lookout Road,New Lambton,New South Wales,2305,,249213000,Public,Public,Yes,,-32.922177,151.692438
+409,409,Jolimont Endoscopy,19/201 Wellington Parade Sth,East Melbourne,Victoria,3002,,396548033,Private,Private,No,,-37.816762,144.978596
+410,410,Joondalup Health Campus (Private),Corner of Grand Boulevard and Shenton Avenue,Joondalup,Western Australia,6027,,894009400,Private,Private,Yes,,-31.738788,115.77034
+411,411,Joondalup Health Campus (Public),Shenton Avenue,Joondalup,Western Australia,6027,,894009030,Public,Public,Yes,,-31.738788,115.771737
+412,412,Joyce Palmer Health Service,Beach Road,Palm Island,Queensland,4816,,747525100,Public,Public,No,,-18.732733,146.578731
+413,413,Julia Creek Hospital,1 Burke Street,Julia Creek,Queensland,4823,,747464000,Public,Public,No,,-20.656096,141.749875
+414,414,Junee Multi Purpose Service,67 Broadway Street,Junee,New South Wales,2663,,269248200,Public,Public,No,,-34.866914,147.581314
+415,415,Justice Health Services,1300 Anzac Parade,Malabar,New South Wales,2036,,297003000,Public,Public,Yes,,-33.96907,151.243206
+416,416,Kahlyn Day Centre,40 Briant Road,Magill,South Australia,5072,,883310811,Private,Private,No,,-34.916913,138.669951
+417,417,Kalamunda Hospital,Elizabeth Street,Kalamunda,Western Australia,6076,,892578100,Public,Public,No,,-31.966471,116.060267
+418,418,Kalbarri Health Centre,Kaiber Street,Kalbarri,Western Australia,6536,,899370100,Public,Public,No,,-27.712843,114.161574
+419,419,Kalgoorlie Hospital,Piccadilly Street,Kalgoorlie,Western Australia,6430,,890805888,Public,Public,Yes,,-30.740839,121.470122
+420,420,Kangaroo Island Health Service,3 to 7 The Esplanade,Kingscote,South Australia,5223,,885534200,Public,Public,No,,-35.652693,137.641289
+421,421,Kapunda Hospital,26 Nash Street,Kapunda,South Australia,5373,,885662007,Public,Public,No,,-34.330289,138.921679
+422,422,Kareena Private Hospital,86 Kareena Road,Caringbah,New South Wales,2229,,297170000,Private,Private,Yes,,-34.034986,151.114186
+423,423,Karitane Mothercraft Society,Corner of The Horsley Drive and Mitchell Street,Carramar,New South Wales,2163,,297942300,Public,Public,No,,-33.879777,150.965763
+424,424,Karoonda and District Soldiers' Memorial Hospital,13 Stokes Road,Karoonda,South Australia,5307,,885791111,Public,Public,No,,-35.094226,139.889429
+425,425,Karratha Health Campus,"62 Balmoral Road, Pegs Creek",Karratha,Western Australia,6714,,891447777,Public,Public,Yes,,-20.732208,116.839511
+426,426,Katanning Hospital,Clive Street,Katanning,Western Australia,6317,,898216222,Public,Public,No,,-33.683032,117.563409
+427,427,Katherine Hospital,Gorge Road,Katherine,Northern Territory,850,,889739211,Public,Public,No,,-14.439002,132.272129
+428,428,Kawana Private Hospital,14/5 Innovation Parkway,Birtinya,Queensland,4575,,754139100,Private,Private,No,,-26.733825,153.122164
+429,429,Kellerberrin Memorial Hospital,51-63 Gregory Street,Kellerberrin,Western Australia,6410,,890456222,Public,Public,No,,-31.628902,117.716531
+430,430,Kempsey Hospital,119 River Street,Kempsey,New South Wales,2440,,265626155,Public,Public,No,,-31.067841,152.820038
+431,431,Kenmore Hospital,Taralga Road,Kenmore,New South Wales,2580,,248273303,Public,Public,No,,-34.721253,149.751344
+432,432,Kerang District Health,13 Burgoyne Street,Kerang,Victoria,3579,,354509200,Public,Public,No,,-35.724287,143.916563
+433,433,Kiama Hospital,Bonaira Street,Kiama,New South Wales,2533,,242331033,Public,Public,No,,-34.682937,150.850514
+434,434,Kilcoy Hospital,19 Brown Street,Kilcoy,Queensland,4515,,754224411,Public,Public,No,,-26.941009,152.561495
+435,435,Kimba District Hospital and Aged Care,15 Martin Terrace,Kimba,South Australia,5641,,886272400,Public,Public,No,,-33.143552,136.416013
+436,436,King Edward Memorial Hospital for Women,374 Bagot Road,Subiaco,Western Australia,6008,,893402222,Public,Public,Yes,,-31.950093,115.818576
+437,437,King Island Multi Purpose Centre,Edward Street,Currie,Tasmania,7256,,364629900,Public,Public,No,,-39.931673,143.855453
+438,438,Kingaroy Hospital,166 Youngman Street,Kingaroy,Queensland,4610,,741629200,Public,Public,No,,-26.532454,151.838307
+439,439,Kingston Centre [Cheltenham],400 Warrigal Road,Cheltenham,Victoria,3192,,392651000,Public,Public,Yes,,-37.955018,145.078969
+440,440,Kingston Soldiers' Memorial Hospital,Corner of Cooke and Young Streets,Kingston SE,South Australia,5275,,887670222,Public,Public,No,,-36.835501,139.848763
+441,441,Kingsway Day Surgery,"Level 1, 533 Kingsway",Miranda,New South Wales,2228,,297170700,Private,Private,No,,-34.034096,151.103827
+442,442,Kirwan Rehabilitation Unit,138 Thuringowa Drive,Kirwan,Queensland,4817,,747999800,Public,Public,No,,-19.303796,146.731627
+443,443,Knox Private Hospital,262 Mountain Highway,Wantirna,Victoria,3152,,392107000,Private,Private,Yes,,-37.849645,145.228035
+444,444,Kojonup Hospital,Spring Street,Kojonup,Western Australia,6395,,898312222,Public,Public,No,,-33.829481,117.152903
+445,445,Kondinin Districts Health Service,130 Graham Street,Kondinin,Western Australia,6367,,898891000,Public,Public,No,,-32.488949,118.265439
+446,446,Kooweerup Regional Health Service,215 Rossiter Road,Koo Wee Rup,Victoria,3981,,359979679,Public,Public,No,,-38.200653,145.484433
+447,447,Kununoppin Health Service,Leake Street,Kununoppin,Western Australia,6489,,896832044,Public,Public,No,,-31.109682,117.922889
+448,448,Kununurra Hospital,96 Coolibah Drive,Kununurra,Western Australia,6743,,891664222,Public,Public,No,,-15.775404,128.734229
+449,449,Kurri Kurri Hospital,432 Lang Street,Kurri Kurri,New South Wales,2327,,249363200,Public,Public,No,,-32.825017,151.463018
+450,450,Kyabram & District Health Service,88 Fenaughty Street,Kyabram,Victoria,3620,,358570200,Public,Public,No,,-36.315539,145.042705
+451,451,Kyneton District Health Service,7-25 Caroline Chisholm Drive,Kyneton,Victoria,3444,,354229900,Public,Public,No,,-37.254431,144.469742
+452,452,Kyogle Multi Purpose Service,199 Summerland Way,Kyogle,New South Wales,2474,,266321522,Public,Public,No,,-28.627124,153.001742
+453,453,La Trobe Private Hospital,Corner Kingsbury Drive & Plenty Road,Bundoora,Victoria,3083,,394738900,Private,Private,No,,-37.716679,145.044334
+454,454,Lachlan Health Service - Forbes,Lot 1 Elgin Street,Forbes,New South Wales,2871,,268507100,Public,Public,No,,-33.396281,148.013831
+455,455,Lachlan Health Service - Parkes,2 Morrissey Way,Parkes,New South Wales,2870,,268612400,Public,Public,No,,-33.151507,148.169757
+456,456,Lady Davidson Private Hospital,Bobbin Head Road,North Turramurra,New South Wales,2074,,294880111,Private,Private,Yes,,-33.726718,151.139119
+457,457,Laidley Hospital,75 William Street,Laidley,Queensland,4341,,754668100,Public,Public,No,,-27.632725,152.400015
+458,458,Lake Cargelligo Multi Purpose Service,Uabba Street,Lake Cargelligo,New South Wales,2672,,268981200,Public,Public,No,,-33.292027,146.374304
+459,459,Lake Grace Hospital,Stubbs Street,Lake Grace,Western Australia,6353,,898902222,Public,Public,No,,-33.102524,118.452658
+460,460,Lake Macquarie Private Hospital,3 Sydney Street,Gateshead,New South Wales,2290,,249433122,Private,Private,Yes,,-32.981232,151.691719
+461,461,Lameroo District Health Service,1A Vardon Terrace,Lameroo,South Australia,5302,,885764600,Public,Public,No,,-35.328203,140.514643
+462,462,Latrobe Regional Hospital [Traralgon],10 Village Avenue,Traralgon,Victoria,3844,,351738000,Public,Public,Yes,,-38.218475,146.471335
+463,463,Launceston General Hospital,274-280 Charles Street,Launceston,Tasmania,7250,,367776777,Public,Public,Yes,,-41.446634,147.142059
+464,464,Laura and District Hospital,Mill Street,Laura,South Australia,5480,,886632568,Public,Public,No,,-33.174925,138.298687
+465,465,Laverton Hospital,Beria Road,Laverton,Western Australia,6440,,890882600,Public,Public,No,,-28.626817,122.399861
+466,466,Lawrence Hargrave Private Hospital,72 Phillip Street,Thirroul,New South Wales,2515,,242672811,Private,Private,No,,-34.310173,150.917631
+467,467,Leeton Hospital,1 Myall Street,Leeton,New South Wales,2705,,269531111,Public,Public,No,,-34.545222,146.408831
+468,468,Leigh Creek Health Service,Black Oak Drive,Leigh Creek,South Australia,5731,,886786022,Public,Public,No,,-30.593186,138.399925
+469,469,Leonora Hospital,Sadie Canning Drive,Leonora,Western Australia,6438,,890804300,Public,Public,No,,-28.894319,121.337492
+470,470,Lightning Ridge Multi Purpose Service,Lot 25 Pandora Street,Lightning Ridge,New South Wales,2834,,268299999,Public,Public,No,,-29.429973,147.981869
+471,471,Linacre Private Hospital,12 Linacre Road,Hampton,Victoria,3188,,395989666,Private,Private,No,,-37.942699,145.003259
+472,472,Lismore Hospital,60 Uralba Street,Lismore,New South Wales,2480,,266218000,Public,Public,Yes,,-28.809191,153.291045
+473,473,Lithgow Hospital,2 Col Drewe Drive,Lithgow,New South Wales,2790,,263502300,Public,Public,No,,-33.498751,150.127701
+474,474,Liverpool Day Surgery,105-119 Longstaff Avenue,Chipping Norton,New South Wales,2170,,296014488,Private,Private,No,,-33.926324,150.953704
+475,475,Liverpool Eye Surgery,1-11 Moore Street,Liverpool,New South Wales,2170,,297347000,Private,Private,No,,-33.922953,150.926861
+476,476,Liverpool Hospital,Lot 2 Elizabeth Street,Liverpool,New South Wales,2170,,298283000,Public,Public,Yes,,-33.919966,150.930776
+477,477,Lockhart Hospital,53-55 Hebden Street,Lockhart,New South Wales,2656,,269307100,Public,Public,No,,-35.222378,146.719064
+478,478,Logan Endoscopy Services,2-3/3276 Mt Lindesay Hwy,Browns Plains,Queensland,4118,,738092893,Private,Private,Yes,,-27.659112,153.038795
+479,479,Logan Hospital,Corner of Armstrong and Loganlea Roads,Meadowbrook,Queensland,4131,,732998899,Public,Public,Yes,,-27.670169,153.141732
+480,480,Long Jetty Health Care Centre,Wyong Road,Killarney Vale,New South Wales,2261,,243367700,Public,Public,No,,-33.369012,151.468538
+481,481,Longreach Hospital,Jabiru Street,Longreach,Queensland,4730,,746584700,Public,Public,No,,-23.439033,144.260873
+482,482,Lorne Community Hospital,1 Albert Street,Lorne,Victoria,3232,,352894300,Public,Public,No,,-38.545513,143.980743
+483,483,Lourdes Hospital Dubbo,80-110 Cobbora Road,Dubbo,New South Wales,2830,,268418500,Public,Public,No,,-32.238511,148.627361
+484,484,Loxton Hospital Complex,Drabsch Street,Loxton,South Australia,5333,,885848555,Public,Public,No,,-34.454695,140.564296
+485,485,Lyell McEwin Hospital,Haydown Road,Elizabeth Vale,South Australia,5112,,881829000,Public,Public,Yes,,-34.747607,138.664798
+486,486,Mackay Base Hospital,475 Bridge Road,Mackay,Queensland,4740,,748856000,Public,Public,Yes,,-21.145792,149.155325
+487,487,Mackay Rehabilitation Hospital,57 Norris Road,North Mackay,Queensland,4740,,749423848,Private,Private,No,,-21.113723,149.166763
+488,488,Mackay Specialist Day Hospital,85 Willetts Road,North Mackay,Queensland,4740,,749420777,Private,Private,Yes,,-21.129471,149.16544
+489,489,Macksville Hospital,14-22 Boundary Street,Macksville,New South Wales,2447,,265680666,Public,Public,No,,-30.713725,152.919838
+490,490,Maclean Hospital,21 Union Street,Maclean,New South Wales,2463,,266400111,Public,Public,No,,-29.454219,153.201094
+491,491,Macquarie Hospital,1 Wicks Road,North Ryde,New South Wales,2113,,298881222,Public,Public,Yes,,-33.802312,151.124818
+492,492,Macquarie University Hospital,3 Technology Place,Macquarie University,New South Wales,2109,,298123000,Private,Private,Yes,,-33.773484,151.117877
+493,493,Madison Day Surgery,3/25-29 Hunter St,Hornsby,New South Wales,2077,,284450633,Private,Private,No,,-33.703145,151.100395
+494,494,Maitland Hospital,550-560 High Street,Maitland,New South Wales,2320,,249392000,Public,Public,Yes,,-32.726723,151.545887
+495,495,Maldon Hospital,Chapel Street,Maldon,Victoria,3463,,354752000,Public,Public,No,,-36.992672,144.063677
+496,496,Maleny Hospital,17 Bean Street,Maleny,Queensland,4552,,754205000,Public,Public,No,,-26.754893,152.844972
+497,497,Mallee Track Health & Community Service [Ouyen],28 Britt Street,Ouyen,Victoria,3490,,350921111,Public,Public,No,,-35.074349,142.312345
+498,498,Mallee Track Health & Community Service [Sea Lake],33-43 McClelland Avenue,Sea Lake,Victoria,3533,,350702155,Public,Public,No,,-35.500395,142.858003
+499,499,Malvern Private Hospital,5 Winton Vale Crescent,Malvern East,Victoria,3145,,398859621,Private,Private,No,,-37.866954,145.060765
+500,500,Manangatang & District Hospital,37 Pioneer Street,Manangatang,Victoria,3546,,350351500,Public,Public,No,,-35.050955,142.880512
+501,501,Manilla Hospital,143 Court Street,Manilla,New South Wales,2346,,267854000,Public,Public,No,,-30.745717,150.732249
+502,502,Manning Hospital,26 York Street,Taree,New South Wales,2430,,265929111,Public,Public,Yes,,-31.910418,152.454485
+503,503,Manningham Day Procedure Centre,"Suite 304, Level 3 Manningham Medical Centre 200 High Street",Templestowe Lower,Victoria,3107,,388500590,Private,Private,No,,-37.773471,145.115662
+504,504,Mannum District Hospital,Parker Street,Mannum,South Australia,5238,,885690200,Public,Public,No,,-34.916481,139.308614
+505,505,Mansfield District Hospital,53 Highett Street,Mansfield,Victoria,3722,,357758800,Public,Public,No,,-37.057574,146.086149
+506,506,Mareeba Hospital,21 Lloyd Street,Mareeba,Queensland,4880,,740929333,Public,Public,No,,-16.987117,145.424468
+507,507,Margaret River Hospital,Farrelly Street,Margaret River,Western Australia,6285,,897570400,Public,Public,No,,-33.952162,115.071229
+508,508,Maroondah Hospital [East Ringwood],Davey Drive,Ringwood East,Victoria,3135,,1300342255,Public,Public,Yes,,-37.806884,145.254535
+509,509,Maryborough District Health Service [Dunolly],20 Havelock Street,Dunolly,Victoria,3472,,354681000,Public,Public,No,,-36.855269,143.735139
+510,510,Maryborough District Health Service [Maryborough],75-87 Clarendon Street,Maryborough,Victoria,3465,,354610333,Public,Public,No,,-37.044781,143.737692
+511,511,Maryborough Hospital,185 Walker Street,Maryborough,Queensland,4650,,741228222,Public,Public,No,,-25.522131,152.689855
+512,512,Maryvale Private Hospital,286 Maryvale Road,Morwell,Victoria,3840,,351321200,Private,Private,No,,-38.215028,146.418561
+513,513,Masada Private Hospital,26 Balaclava Road,St Kilda,Victoria,3183,,390381300,Private,Private,No,,-37.869799,145.003096
+514,514,Mater Adult Hospital,Raymond Terrace,South Brisbane,Queensland,4101,,731638111,Public,Public,Yes,,-27.485488,153.028103
+515,515,Mater Children's Private Brisbane,Raymond Terrace,South Brisbane,Queensland,4101,,731638111,Private,Private,No,,-27.48485,153.027436
+516,516,Mater Hospital Pimlico,21 - 37 Fulham Road,Pimlico,Queensland,4812,,747274444,Private,Private,Yes,,-19.288482,146.786528
+517,517,Mater Hospital Sydney,25 Rocklands Road,North Sydney,New South Wales,2060,,299007300,Private,Private,Yes,,-33.831152,151.201247
+518,518,Mater Misericordiae Day Unit,1 Wellington Street,Mackay,Queensland,4740,,749535990,Private,Private,No,,-21.139073,149.181984
+519,519,Mater Misericordiae Hospital Bundaberg,313 Bourbong Street,Bundaberg,Queensland,4670,,741539539,Private,Private,No,,-24.870766,152.330412
+520,520,Mater Misericordiae Hospital Gladstone,50 Rossella Street,Gladstone,Queensland,4680,,749713713,Private,Private,No,,-23.850526,151.247469
+521,521,Mater Misericordiae Hospital Mackay,76 Willetts Road,Mackay,Queensland,4740,,749655666,Private,Private,Yes,,-21.129416,149.166033
+522,522,Mater Misericordiae Hospital Rockhampton,Ward Street,Rockhampton,Queensland,4700,,749313313,Private,Private,Yes,,-23.398033,150.497444
+523,523,Mater Mothers' Hospital,Raymond Terrace,South Brisbane,Queensland,4101,,731631918,Public,Public,Yes,,-27.485436,153.027001
+524,524,Mater Mothers' Private Brisbane,Raymond Terrace,South Brisbane,Queensland,4101,,731638111,Private,Private,Yes,,-27.485992,153.027747
+525,525,Mater Private Hospital Brisbane,301 Vulture Street,South Brisbane,Queensland,4101,,731638111,Private,Private,Yes,,-27.483975,153.028777
+526,526,Mater Private Hospital Redland,Weippin Street,Cleveland,Queensland,4163,,731637444,Private,Private,No,,-27.540811,153.25043
+527,527,Mater Women's and Children's Hospital Hyde Park,12 Oxford Street,Hyde Park,Queensland,4812,,747274444,Private,Private,No,,-19.276512,146.798978
+528,528,May Shaw District Nursing Centre,37 Wellington Street,Swansea,Tasmania,7190,,362579100,Public,Public,No,,-42.127383,148.076788
+529,529,McLaren Vale & Districts War Memorial Hospital Inc,3 Aldersey Street,McLaren Vale,South Australia,5171,,883236600,Public,Public,No,,-35.221405,138.544962
+530,530,Meekatharra Hospital,Savage Street,Meekatharra,Western Australia,6642,,899810600,Public,Public,No,,-26.591366,118.491861
+531,531,Melbourne MediBrain & MediSleep Centre,631 Inkerman Road,Caulfield North,Victoria,3161,,395048400,Private,Private,No,,-37.869064,145.018774
+532,532,Melbourne Oral & Facial Surgery,"Level 12, 63 Exhibition Street",Melbourne,Victoria,3000,,396544844,Private,Private,No,,-37.814488,144.971391
+533,533,Melbourne Private Hospital,Royal Parade,Parkville,Victoria,3052,,383413400,Private,Private,Yes,,-37.798272,144.957025
+534,534,Melton Health,195-209 Barries Road,Melton West,Victoria,3337,,397477600,Public,Public,No,,-37.686449,144.558284
+535,535,Menindee Health Service,Perry Street,Menindee,New South Wales,2879,,880914209,Public,Public,No,,-32.390335,142.414869
+536,536,Meningie and Districts Memorial Hospital and Health Services,2 South Terrace,Meningie,South Australia,5264,,885752777,Public,Public,No,,-35.693212,139.335565
+537,537,Mercy Care Hospital - Albury,550 Poole Street,Albury,New South Wales,2640,,260421400,Public,Public,No,,-36.069221,146.916764
+538,538,Mercy Care Hospital - Young,69 Demondrille Street,Young,New South Wales,2594,,263828444,Public,Public,No,,-34.321003,148.288693
+539,539,Mercy Health - O'Connell Family Centre,6 Mont Albert Road,Canterbury,Victoria,3126,,384167600,Public,Public,No,,-37.816688,145.061729
+540,540,Mercy Hospital for Women,163 Studley Road,Heidelberg,Victoria,3084,,384584444,Public,Public,Yes,,-37.756075,145.061008
+541,541,Merredin Health Service,Kitchener Road,Merredin,Western Australia,6415,,890813222,Public,Public,No,,-31.485204,118.276491
+542,542,Merriwa Multi Purpose Service,MacKenzie Street,Merriwa,New South Wales,2329,,265325000,Public,Public,No,,-32.142714,150.361316
+543,543,Mersey Community Hospital,Bass Highway,Latrobe,Tasmania,7307,,364785500,Public,Public,No,,-41.229052,146.422445
+544,544,MetroRehab Hospital,275 Addison Road,Petersham,New South Wales,2049,,285854900,Private,Private,No,,-33.899441,151.155602
+545,545,Metwest Surgical,17 Hereward Highway,Blacktown,New South Wales,2148,,296227667,Private,Private,No,,-33.774236,150.912421
+546,546,Midlands Multi Purpose Centre,13 Church Street,Oatlands,Tasmania,7120,,362545030,Public,Public,No,,-42.299353,147.369522
+547,547,Mildura Base Hospital,Ontario Avenue,Mildura,Victoria,3502,,350223333,Public,Public,Yes,,-34.185634,142.143348
+548,548,Mildura Private Hospital,220-228 Thirteenth Street,Mildura,Victoria,3500,,350222611,Private,Private,No,,-34.18479,142.145705
+549,549,Miles Hospital,26 Colamba Street,Miles,Queensland,4415,,746285600,Public,Public,No,,-26.658236,150.191023
+550,550,Millicent and Districts Hospital and Health Service,Mount Gambier Road,Millicent,South Australia,5280,,887334755,Public,Public,No,,-37.598354,140.358924
+551,551,Millmerran Hospital,50 Commens Street,Millmerran,Queensland,4357,,746953111,Public,Public,No,,-27.878928,151.26267
+552,552,Milton Ulladulla Hospital,104-106 Princes Highway,Milton,New South Wales,2538,,244551333,Public,Public,No,,-35.317313,150.438918
+553,553,Miranda Eye Surgical Centre,Suite 4/16-22 Willock Avenue,Miranda,New South Wales,2228,,295404586,Private,Private,No,,-34.03244,151.101631
+554,554,Mitcham Private Hospital,27 Doncaster East Road,Mitcham,Victoria,3132,,392103222,Private,Private,Yes,,-37.810436,145.194808
+555,555,Mitchell Hospital,95 Ann Street,Mitchell,Queensland,4465,,746231277,Public,Public,No,,-26.489913,147.972493
+556,556,Modbury Hospital,41-69 Smart Road,Modbury,South Australia,5092,,881612000,Public,Public,Yes,,-34.834166,138.690505
+557,557,Mogo Day Surgery,2-4 Charles Street,Mogo,New South Wales,2536,,244743774,Private,Private,No,,-35.782893,150.14387
+558,558,Molong Health Service,King Street,Molong,New South Wales,2866,,263923300,Public,Public,No,,-33.087622,148.859724
+559,559,Mona Vale Hospital,Coronation Street,Mona Vale,New South Wales,2103,,299980333,Public,Public,Yes,,-33.685353,151.306618
+560,560,Monash Medical Centre [Clayton],246 Clayton Road,Clayton,Victoria,3168,,395946666,Public,Public,Yes,,-37.921176,145.123128
+561,561,Monash Medical Centre [Moorabbin],823-865 Centre Road,East Bentleigh,Victoria,3165,,399288111,Public,Public,Yes,,-37.920697,145.063197
+562,562,Monto Hospital,35 Flinders Street,Monto,Queensland,4630,,741669300,Public,Public,No,,-24.866424,151.112501
+563,563,Montserrat Day Hospital Gaythorne,383-391 Samford Road,Gaythorne,Queensland,4051,,735503550,Private,Private,No,,-27.417069,152.982237
+564,564,Moora Hospital,Dandaragan Road,Moora,Western Australia,6510,,896510222,Public,Public,No,,-30.639557,116.001119
+565,565,Moranbah Hospital,Elliott Street,Moranbah,Queensland,4744,,749414600,Public,Public,No,,-22.002125,148.055287
+566,566,Morawa Health Service,Caulfield Road,Morawa,Western Australia,6623,,899710200,Public,Public,No,,-29.212897,116.002986
+567,567,Moree Hospital,Alice Street,Moree,New South Wales,2400,,267570000,Public,Public,No,,-29.470678,149.839648
+568,568,Morisset Hospital,Dora Street,Morisset,New South Wales,2264,,249730222,Public,Public,Yes,,-33.128549,151.512816
+569,569,Mornington Island Hospital,Lardyl Street,Mornington Island,Queensland,4871,,747457209,Public,Public,No,,-16.665534,139.178559
+570,570,Moruya Hospital,2-10 River Street,Moruya,New South Wales,2537,,244742666,Public,Public,No,,-35.904137,150.070774
+571,571,Mossman Hospital,9 Hospital Street,Mossman,Queensland,4873,,740841200,Public,Public,No,,-16.464031,145.368025
+572,572,Mount Barker District Soldiers' Memorial Hospital,Wellington Road,Mount Barker,South Australia,5251,,883931777,Public,Public,No,,-35.081813,138.870277
+573,573,Mount Druitt Hospital,75 Railway Street,Mount Druitt,New South Wales,2770,,298811555,Public,Public,Yes,,-33.765929,150.829646
+574,574,Mount Gambier and Districts Health Service,276-300 Wehl Street North,Mount Gambier,South Australia,5290,,887211200,Public,Public,No,,-37.805003,140.786662
+575,575,Mount Gambier Private Hospital,276-300 Wehl Street North,Mount Gambier,South Australia,5290,,887211412,Private,Private,No,,-37.805952,140.786887
+576,576,Mount Hospital,150 Mounts Bay Road,West Perth,Western Australia,6005,,894811822,Private,Private,Yes,,-31.958534,115.845401
+577,577,Mount Isa Base Hospital,30 Camooweal Street,Mount Isa,Queensland,4825,,747444444,Public,Public,No,,-20.730919,139.493815
+578,578,Mount Morgan Hospital,Black Street,Mount Morgan,Queensland,4714,,749125100,Public,Public,No,,-23.645094,150.392639
+579,579,Mount Pleasant District Hospital,28 Hospital Road,Mount Pleasant,South Australia,5235,,885680000,Public,Public,No,,-34.773855,139.054212
+580,580,Mount Wilga Private Hospital,66 Rosamond Street,Hornsby,New South Wales,2077,,298475000,Private,Private,No,,-33.692829,151.092939
+581,581,Moura Hospital,14 Nott Street,Moura,Queensland,4718,,749972900,Public,Public,No,,-24.575948,149.975999
+582,582,Moyne Health Services [Port Fairy],30-36 Villiers Street,Port Fairy,Victoria,3284,,355680100,Public,Public,No,,-38.381599,142.227523
+583,583,Mudgee Health Service,Meares Street,Mudgee,New South Wales,2850,,263786222,Public,Public,No,,-32.603229,149.588179
+584,584,Mullewa Health Service,Elder Street,Mullewa,Western Australia,6630,,899616200,Public,Public,No,,-28.535991,115.510017
+585,585,Mundubbera Hospital,96 Leichhardt Street,Mundubbera,Queensland,4626,,741655200,Public,Public,No,,-25.587619,151.293282
+586,586,Mungindi Hospital,Barwon Street,Mungindi,Queensland,2406,,267056100,Public,Public,No,,-28.972817,148.989061
+587,587,Murgon Hospital,Coronation Drive,Murgon,Queensland,4605,,741699600,Public,Public,No,,-26.239075,151.950702
+588,588,Murray Bridge Soldiers' Memorial Hospital,96 Swanport Road,Murray Bridge,South Australia,5253,,885356777,Public,Public,No,,-35.128911,139.280462
+589,589,Murray District Hospital,McKay Street,Pinjarra,Western Australia,6208,,895317222,Public,Public,No,,-32.639709,115.871589
+590,590,Murray Valley Private Hospital,Nordsvan Drive,Wodonga,Victoria,3690,,260553100,Private,Private,No,,-36.138419,146.876478
+591,591,Murrumburrah-Harden Hospital,54 Swift Street,Harden,New South Wales,2587,,263862200,Public,Public,No,,-34.555254,148.360186
+592,592,Murwillumbah Hospital,8 Ewing Street,Murwillumbah,New South Wales,2484,,266721822,Public,Public,No,,-28.323417,153.400811
+593,593,Muswellbrook Hospital,36 Brentwood Street,Muswellbrook,New South Wales,2333,,265422000,Public,Public,No,,-32.264545,150.900263
+594,594,Nambour Day Surgery,115 Howard Street,Nambour,Queensland,4560,,754763700,Private,Private,Yes,,-26.626321,152.96409
+595,595,Nambour General Hospital,Hospital Road,Nambour,Queensland,4560,,754706600,Public,Public,Yes,,-26.621659,152.952249
+596,596,Nambour Selangor Private Hospital,62 Netherton Street,Nambour,Queensland,4560,,754597444,Private,Private,No,,-26.618265,152.955949
+597,597,Nanango Hospital,135 Brisbane Street,Nanango,Queensland,4615,,741716700,Public,Public,No,,-26.666405,152.007833
+598,598,Nannup Hospital,Carey Street,Nannup,Western Australia,6275,,897563800,Public,Public,No,,-33.982797,115.76723
+599,599,Naracoorte Health Service,101 Jenkins Terrace,Naracoorte,South Australia,5271,,887628100,Public,Public,No,,-36.966849,140.743693
+600,600,Narembeen Memorial Hospital,Ada Street,Narembeen,Western Australia,6369,,890646222,Public,Public,No,,-32.061618,118.391289
+601,601,Narrabri Hospital,11 Cameron Street,Narrabri,New South Wales,2390,,267992800,Public,Public,No,,-30.325869,149.777108
+602,602,Narrandera Hospital,54 Adams Street,Narrandera,New South Wales,2700,,269510200,Public,Public,No,,-34.743181,146.547661
+603,603,Narrogin Hospital,Williams Road,Narrogin,Western Australia,6312,,898810333,Public,Public,No,,-32.937341,117.168459
+604,604,Narromine Health Service,128 Cathundral Street,Narromine,New South Wales,2821,,268899600,Public,Public,No,,-32.24261,148.239201
+605,605,Nathalia District Hospital,36-44 McDonnell Street,Nathalia,Victoria,3638,,358669444,Public,Public,No,,-36.054754,145.204324
+606,606,National Capital Private Hospital,Corner of Gilmore Crescent and Hospital Road,Garran,Australian Capital Territory,2605,,262226666,Private,Private,No,,-35.344872,149.101944
+607,607,Nepean Hospital,Derby Street,Kingswood,New South Wales,2747,,247342000,Public,Public,Yes,,-33.759865,150.712627
+608,608,Nepean Private Hospital,1-9 Barber Avenue,Kingswood,New South Wales,2747,,247327333,Private,Private,Yes,,-33.759775,150.715206
+609,609,Neringah Hospital,4-12 Neringah Avenue,Wahroonga,New South Wales,2076,,294882200,Public,Public,No,,-33.717856,151.114556
+610,610,New Farm Clinic,22 Sargent Street,New Farm,Queensland,4005,,732549100,Private,Private,Yes,,-27.473623,153.045879
+611,611,New Norfolk District Hospital,3 Richmond Street,New Norfolk,Tasmania,7140,,361661300,Public,Public,No,,-42.781315,147.059179
+612,612,Newcastle Private Hospital,14 Lookout Road,New Lambton Heights,New South Wales,2305,,249418400,Private,Private,Yes,,-32.922537,151.698371
+613,613,Newman Hospital,54 Mindarra Drive,Newman,Western Australia,6753,,891758333,Public,Public,No,,-23.354824,119.736503
+614,614,"Next Step Drug And Alcohol Services, East Perth",32 Moore Street,East Perth,Western Australia,6004,,892191919,Public,Public,No,,-31.953405,115.869171
+615,615,Nimbin Multi Purpose Service,35 Cullen Street,Nimbin,New South Wales,2480,,266891400,Public,Public,No,,-28.597371,153.223185
+616,616,Noarlunga Hospital,Alexander Kelly Drive,Noarlunga Centre,South Australia,5168,,883849222,Public,Public,No,,-35.139879,138.500218
+617,617,Noosa Hospital,111 Goodchap Street,Noosaville,Queensland,4566,,754559200,Private,Private,No,,-26.403209,153.046309
+618,618,Normanton Hospital,Brown Street,Normanton,Queensland,4890,,747452100,Public,Public,No,,-17.678739,141.086425
+619,619,Norseman Hospital,Talbot Street,Norseman,Western Australia,6443,,890399200,Public,Public,No,,-32.198566,121.767663
+620,620,North East Soldiers' Memorial Hospital and Community Service Centre (Scottsdale Hospital),28 Fosters Road,Scottsdale,Tasmania,7260,,367788522,Public,Public,No,,-41.154294,147.521324
+621,621,North Eastern Rehabilitation Centre,134-144 Ford Street,Ivanhoe,Victoria,3079,,394748900,Private,Private,No,,-37.763424,145.031344
+622,622,North Lakes Day Hospital,7 Endeavour Boulevard,North Lakes,Queensland,4509,,738336755,Private,Private,No,,-27.238984,153.021947
+623,623,North Midlands Health Service,Thomas Street,Three Springs,Western Australia,6519,,899543200,Public,Public,No,,-29.534221,115.759184
+624,624,North Queensland Day Surgical Centre,119 Kings Road,Pimlico,Queensland,4812,,747252677,Private,Private,Yes,,-19.279643,146.791468
+625,625,North Shore Private Hospital,3 Westbourne Street,St Leonards,New South Wales,2065,,284253000,Private,Private,Yes,,-33.820622,151.189159
+626,626,North West Private Hospital,137 Flockton Street,Everton Park,Queensland,4053,,732463133,Private,Private,Yes,,-27.393992,152.992705
+627,627,North West Regional Hospital,23 Brickport Road,Burnie,Tasmania,7320,,364306666,Public,Public,Yes,,-41.048385,145.880842
+628,628,Northam Hospital,Robinson Street,Northam,Western Australia,6401,,896901300,Public,Public,No,,-31.649582,116.657681
+629,629,Northampton Kalbarri Health Service,Stephen Street,Northampton,Western Australia,6535,,899340200,Public,Public,No,,-28.351194,114.635119
+630,630,Northeast Health Wangaratta,35-47 Green Street,Wangaratta,Victoria,3677,,357225111,Public,Public,Yes,,-36.354035,146.313889
+631,631,Northern Beaches Hospital,105 Frenchs Forest Road (West),Frenchs Forest,New South Wales,2086,,291055000,Public,Public,Yes,,-33.750646,151.23377
+632,632,Northern Yorke Peninsula Health Service (Wallaroo),1 Ernest Terrace,Wallaroo,South Australia,5556,,888230200,Public,Public,No,,-33.927738,137.636783
+633,633,Northpark Private Hospital,Corner of Plenty and Greenhills Roads,Bundoora,Victoria,3083,,394680100,Private,Private,Yes,,-37.691208,145.061631
+634,634,Northside Clinic,2 Greenwich Road,Greenwich,New South Wales,2065,,294333555,Private,Private,No,,-33.825156,151.188367
+635,635,Northside Cremorne Clinic,3 Harrison Street,Cremorne,New South Wales,2090,,299098577,Private,Private,No,,-33.833425,151.222886
+636,636,Northside Macarthur Clinic,92-96 Dumaresq Street,Campbelltown,New South Wales,2560,,246405555,Private,Private,No,,-34.071999,150.816958
+637,637,Northside West Clinic,23-27 Lytton Street,Wentworthville,New South Wales,2145,,288332222,Private,Private,No,,-33.811188,150.974575
+638,638,Norwest Private Hospital,11 Norbrik Drive,Bella Vista,New South Wales,2153,,288828882,Private,Private,Yes,,-33.744941,150.953608
+639,639,Nowra Private Hospital,Weeroona Place,Nowra,New South Wales,2541,,244244700,Private,Private,No,,-34.893534,150.606551
+640,640,Numurkah & District Health Service,2 Katamatite Road,Numurkah,Victoria,3636,,358620555,Public,Public,No,,-36.100001,145.443695
+641,641,Nyngan Multi Purpose Service,Hospital Road,Nyngan,New South Wales,2825,,268351700,Public,Public,No,,-31.560024,147.208772
+642,642,Oakey Hospital,Corner Beale and Fitzpatrick Streets,Oakey,Queensland,4401,,746914888,Public,Public,No,,-27.424079,151.719088
+643,643,Oberon Multi Purpose Service,67-73 North Street,Oberon,New South Wales,2787,,263367200,Public,Public,No,,-33.705249,149.853596
+644,644,Omeo District Health,12 Easton Street,Omeo,Victoria,3898,,351590100,Public,Public,No,,-37.098142,147.597321
+645,645,Onslow Hospital,Second Avenue,Onslow,Western Australia,6710,,891843200,Public,Public,No,,-21.643238,115.115389
+646,646,Orange Day Surgery Centre,60-62 McNamara Street,Orange,New South Wales,2800,,263603699,Private,Private,No,,-33.283027,149.102737
+647,647,Orange Health Service,1530 Forest Road,Orange,New South Wales,2800,,263693000,Public,Public,Yes,,-33.317316,149.093953
+648,648,Orbost Regional Health,104 Boundary Road,Orbost,Victoria,3888,,351546666,Public,Public,No,,-37.701844,148.464957
+649,649,Oromax Day Surgery,"Level 3, 1 Hutt Street",Adelaide,South Australia,5000,,882323525,Private,Private,No,,-34.925331,138.611441
+650,650,Orroroo and District Health Service,Pekina Road,Orroroo,South Australia,5431,,886581023,Public,Public,No,,-32.738519,138.607206
+651,651,Orygen Inpatient Unit,35 Mavis Street,Footscray,Victoria,3011,,383457550,Public,Public,No,,-37.791926,144.886617
+652,652,Osborne Park Hospital,Osborne Place,Stirling,Western Australia,6021,,893468000,Public,Public,Yes,,-31.885976,115.804717
+653,653,Otway Health & Community Services [Apollo Bay],37-43 Mclachlan Street,Apollo Bay,Victoria,3233,,352378500,Public,Public,No,,-38.753853,143.664264
+654,654,Oxford Day Surgery and Dermatology,"Suite 4, 1st Floor, 416-418 Oxford Street",Mount Hawthorn,Western Australia,6016,,861401000,Private,Private,No,,-31.922727,115.841536
+655,655,Oxford Day Surgery Centre,54 Oxford Terrace,Unley,South Australia,5061,,883731755,Private,Private,Yes,,-34.949659,138.608408
+656,656,Pacific Private Day Hospital,123 Nerang Street,Southport,Queensland,4215,,755566222,Private,Private,No,,-27.970407,153.407829
+657,657,Pambula Hospital,Merimbola Street,Pambula,New South Wales,2549,,264958200,Public,Public,No,,-36.926316,149.879232
+658,658,Paraburdoo Hospital,Lot 608 Rocklea Road,Paraburdoo,Western Australia,6754,,891598222,Public,Public,No,,-23.203031,117.670633
+659,659,Parkside Cosmetic Surgery,7 Unley Road,Parkside,South Australia,5063,,883570300,Private,Private,No,,-34.941936,138.606952
+660,660,Parkwynd Private Hospital,137 East Terrace,Adelaide,South Australia,5000,,882233294,Private,Private,No,,-34.928514,138.614276
+661,661,Peak Hill Multipurpose Service,111 Newell Highway,Peak Hill,New South Wales,2869,,268617100,Public,Public,No,,-32.735907,148.199615
+662,662,Peel Health Campus,110 Lakes Road,Mandurah,Western Australia,6210,,895318000,Public,Public,Yes,,-32.532573,115.763504
+663,663,Pemberton Hospital,Railway Cresent,Pemberton,Western Australia,6260,,897764000,Public,Public,No,,-34.444875,116.031954
+664,664,Peninsula Private Hospital Queensland,Corner of George and Florence Streets,Kippa-Ring,Queensland,4021,,738839300,Private,Private,No,,-27.230696,153.093087
+665,665,Peninsula Private Hospital Victoria,525 McClelland Drive,Frankston,Victoria,3199,,397883466,Private,Private,Yes,,-38.157557,145.169552
+666,666,Pennant Hills Day Surgery,361 Pennant Hills Rd,Pennant Hills,New South Wales,2120,,294810048,Private,Private,Yes,,-33.738295,151.074354
+667,667,Penola War Memorial Hospital,18 Church Street,Penola,South Australia,5277,,887372311,Public,Public,No,,-37.382873,140.836465
+668,668,Perfect Vision Day Surgery,3/25-29 Hunter Street,Hornsby,New South Wales,2077,,131340,Private,Private,Yes,,-33.70323,151.100259
+669,669,Perth Children’s Hospital,15 Hospital Avenue,Nedlands,Western Australia,6009,,864562222,Public,Public,Yes,,-31.969503,115.817165
+670,670,Perth Clinic,27-29 Havelock Street,West Perth,Western Australia,6005,,894814888,Private,Private,No,,-31.950874,115.843266
+671,671,Peter MacCallum Cancer Centre,305 Grattan Street,Melbourne,Victoria,3000,,396561111,Public,Public,Yes,,-37.80001,144.956607
+672,672,Peterborough Soldiers' Memorial Hospital,23 Hurlstone Street,Peterborough,South Australia,5422,,886510400,Public,Public,No,,-32.980786,138.830344
+673,673,Pindara Day Procedure Centre,13 Carrara Street,Benowa,Queensland,4217,,755889588,Private,Private,Yes,,-28.008508,153.39373
+674,674,Pindara Private Hospital,Allchurch Avenue,Benowa,Queensland,4217,,755889888,Private,Private,Yes,,-28.007076,153.393569
+675,675,Pine Rivers Private Hospital,34 Dixon Street,Strathpine,Queensland,4500,,738817222,Private,Private,No,,-27.308361,152.994832
+676,676,Pingelly Health Centre,Corner of Somerset St and Brown St,Pingelly,Western Australia,6308,,898872222,Public,Public,No,,-32.533042,117.089789
+677,677,Pinnaroo Soldiers' Memorial Hospital,Bundey Terrace,Pinnaroo,South Australia,5304,,885779222,Public,Public,No,,-35.257499,140.902447
+678,678,Plantagenet Hospital,Langton Road,Mount Barker,Western Australia,6324,,898921222,Public,Public,No,,-34.626092,117.654561
+679,679,Port Augusta Hospital and Regional Health Services,71 Hospital Road,Port Augusta,South Australia,5700,,886687500,Public,Public,No,,-32.509417,137.776279
+680,680,Port Broughton and District Hospital and Health Service,Bay Street,Port Broughton,South Australia,5522,,886352200,Public,Public,No,,-33.601287,137.934379
+681,681,Port Kembla Hospital,89-91 Cowper Street,Warrawong,New South Wales,2502,,242238000,Public,Public,No,,-34.485923,150.881778
+682,682,Port Lincoln Health Service,39 Oxford Terrace,Port Lincoln,South Australia,5606,,886832200,Public,Public,No,,-34.72408,135.850201
+683,683,Port Macquarie Hospital,1-31 Wrights Road,Port Macquarie,New South Wales,2444,,265812000,Public,Public,Yes,,-31.452336,152.878304
+684,684,Port Macquarie Private Hospital,Lake Road,Port Macquarie,New South Wales,2444,,265835655,Private,Private,No,,-31.442073,152.909375
+685,685,Port Pirie Regional Health Service,Alexander Street,Port Pirie,South Australia,5540,,886384500,Public,Public,No,,-33.177339,138.005533
+686,686,Portland District Health,Bentinck Street,Portland,Victoria,3305,,355210333,Public,Public,No,,-38.340713,141.606087
+687,687,Portland Hospital,20 Green Street,Portland,New South Wales,2847,,263592666,Public,Public,No,,-33.358415,149.978565
+688,688,Pregnancy Advisory Centre,21 Belmore Terrace,Woodville Park,South Australia,5011,,882433999,Public,Public,No,,-34.87999,138.542962
+689,689,Prince of Wales Hospital,320-346 Barker Street,Randwick,New South Wales,2031,,293822222,Public,Public,Yes,,-33.918492,151.23938
+690,690,Prince of Wales Private Hospital,Barker Street,Randwick,New South Wales,2031,,296504000,Private,Private,Yes,,-33.918492,151.238659
+691,691,Princess Alexandra Hospital,199 Ipswich Road,Woolloongabba,Queensland,4102,,731762111,Public,Public,Yes,,-27.499402,153.033542
+692,692,Proserpine Hospital,26-34 Taylor Street,Proserpine,Queensland,4800,,748139400,Public,Public,No,,-20.400017,148.584976
+693,693,QEII Family Centre,129 Carruthers Street,Curtin,Australian Capital Territory,2605,,262052333,Public,Public,No,,-35.323284,149.079172
+694,694,Quairading Hospital,Harris Street,Quairading,Western Australia,6383,,896451100,Public,Public,No,,-32.014481,117.402627
+695,695,Queanbeyan Hospital,16 Erin Street,Queanbeyan,New South Wales,2620,,261507000,Public,Public,No,,-35.347685,149.232294
+696,696,Queen Elizabeth Centre [Noble Park],53 Thomas Street,Noble Park,Victoria,3174,,395492777,Public,Public,No,,-37.972053,145.178285
+697,697,Queen Elizabeth II Jubilee Hospital,Corner of Kessels and Troughton Roads,Coopers Plains,Queensland,4108,,732756111,Public,Public,Yes,,-27.559673,153.048852
+698,698,Queensland Children’s Hospital,501 Stanley Street,South Brisbane,Queensland,4101,,730681111,Public,Public,Yes,,-27.484305,153.026717
+699,699,Queensland Eye Hospital,55 Little Edward Street,Spring Hill,Queensland,4000,,732369844,Private,Private,No,,-27.4613,153.024547
+700,700,Quilpie Hospital,30 Gyrica Street,Quilpie,Queensland,4480,,746560100,Public,Public,No,,-26.616519,144.274617
+701,701,Quirindi Hospital,Nowland Street,Quirindi,New South Wales,2343,,267460200,Public,Public,No,,-31.500345,150.676621
+702,702,Quorn Health Service,Hospital Road,Quorn,South Australia,5433,,886487888,Public,Public,No,,-32.350917,138.038138
+703,703,Radiation Oncology Institute - Gosford,41 William Street,Gosford,New South Wales,2250,,243498000,Private,Private,Yes,,-33.427046,151.345848
+704,704,Radiation Oncology Institute - The Sydney Adventist Hospital Wahroonga,185 Fox Valley Road,Wahroonga,New South Wales,2076,,294879300,Private,Private,Yes,,-33.733389,151.098606
+705,705,Ravensthorpe Health Centre,Martin Street,Ravensthorpe,Western Australia,6346,,898382211,Public,Public,No,,-33.584918,120.045461
+706,706,Redcliffe Hospital,Anzac Avenue,Redcliffe,Queensland,4020,,738837777,Public,Public,Yes,,-27.228269,153.105245
+707,707,Redland Hospital,Weippin Street,Cleveland,Queensland,4163,,734883111,Public,Public,Yes,,-27.539992,153.251379
+708,708,Renmark Paringa District Hospital,Ral Ral Avenue,Renmark,South Australia,5341,,885804100,Public,Public,No,,-34.164836,140.745205
+709,709,Richmond Hospital,Gallagher Drive,Richmond,Queensland,4822,,747416100,Public,Public,No,,-20.738726,143.150471
+710,710,Ringwood Private Hospital,36 Mt Dandenong Road,Ringwood,Victoria,3135,,388044000,Private,Private,No,,-37.811523,145.243629
+711,711,Rivercity Private Hospital,401 Milton Road,Auchenflower,Queensland,4066,,,Private,Private,No,,-27.473491,152.995132
+712,712,Riverina Day Surgery,2-8 Meurant Avenue,Wagga Wagga,New South Wales,2650,,269256256,Private,Private,Yes,,-35.120903,147.353809
+713,713,Riverland General Hospital,Maddern Street,Berri,South Australia,5343,,885802400,Public,Public,No,,-34.276054,140.600984
+714,714,Riverlands Drug and Alcohol Centre,Hunter Street,Lismore,New South Wales,2480,,266207600,Public,Public,No,,-28.80834,153.29112
+715,715,Riverton District Soldiers' Memorial Hospital,23 Moorhouse Terrace,Riverton,South Australia,5412,,888472300,Public,Public,No,,-34.160353,138.742657
+716,716,Robina Hospital,2 Bayberry Lane,Robina,Queensland,4226,,756686000,Public,Public,Yes,,-28.072198,153.377284
+717,717,Robina Procedure Centre,"4110, Level 3, Robina Town Centre",Robina,Queensland,4230,,755927999,Private,Private,No,,-28.077603,153.3843
+718,718,Robinvale District Health Services,128-132 Latje Road,Robinvale,Victoria,3549,,350518111,Public,Public,No,,-34.584146,142.781367
+719,719,Rochester & Elmore District Health Service,1 Pascoe Street,Rochester,Victoria,3561,,354844400,Public,Public,No,,-36.366579,144.697751
+720,720,Rockhampton Hospital,Canning Street,Rockhampton,Queensland,4700,,749206211,Public,Public,Yes,,-23.379525,150.494542
+721,721,Rockingham General Hospital,Elanora Drive,Cooloongup,Western Australia,6168,,895994000,Public,Public,Yes,,-32.291359,115.770899
+722,722,Roebourne Hospital,42-44 Hampton Street,Roebourne,Western Australia,6718,,891820200,Public,Public,No,,-20.776317,117.143955
+723,723,Roma Hospital,197-234 Mcdowall Street,Roma,Queensland,4455,,746242700,Public,Public,No,,-26.568828,148.775846
+724,724,Rosebud Hospital,1527 Point Nepean Road,Rosebud,Victoria,3939,,359860666,Public,Public,No,,-38.362168,144.884899
+725,725,Rosebud SurgiCentre,1537 Point Nepean Road,Rosebud West,Victoria,3940,,359860500,Private,Private,Yes,,-38.361748,144.883554
+726,726,Roxby Downs Health Service,16-28 Burgoyne Street,Roxby Downs,South Australia,5725,,886719020,Public,Public,No,,-30.562778,136.894261
+727,727,Royal Adelaide Hospital,Port Road,Adelaide,South Australia,5000,,870740000,Public,Public,Yes,,-34.920973,138.587393
+728,728,Royal Brisbane & Women's Hospital,Butterfield Street,Herston,Queensland,4006,,736468111,Public,Public,Yes,,-27.446972,153.027888
+729,729,Royal Children's Hospital [Parkville],50 Flemington Road,Parkville,Victoria,3052,,393455522,Public,Public,Yes,,-37.794997,144.950859
+730,730,Royal Darwin Hospital,Rocklands Drive,Tiwi,Northern Territory,810,,889228888,Public,Public,Yes,,-12.355806,130.881789
+731,731,Royal Hobart Hospital,48 Liverpool Street,Hobart,Tasmania,7000,,362228308,Public,Public,Yes,,-42.880028,147.330136
+732,732,Royal Hospital for Women,Barker Street,Randwick,New South Wales,2031,,293826111,Public,Public,Yes,,-33.919035,151.237938
+733,733,Royal Melbourne Hospital [Parkville],300 Grattan Street,Parkville,Victoria,3050,,393427000,Public,Public,Yes,,-37.799259,144.956864
+734,734,Royal Melbourne Hospital- Royal Park Campus,34-54 Poplar Road,Parkville,Victoria,3052,,383872000,Public,Public,Yes,,-37.778813,144.948049
+735,735,Royal North Shore Hospital,1 Reserve Road,St Leonards,New South Wales,2065,,299267111,Public,Public,Yes,,-33.821312,151.189735
+736,736,Royal Perth Hospital Wellington Street Campus,Wellington Street,Perth,Western Australia,6000,,892242244,Public,Public,Yes,,-31.954242,115.8663
+737,737,Royal Prince Alfred Hospital,50 Missenden Road,Camperdown,New South Wales,2050,,295156111,Public,Public,Yes,,-33.889251,151.182926
+738,738,Royal Prince Alfred Institute of Rheumatology & Orthopaedics,57 - 59 Missenden Road,Camperdown,New South Wales,2050,,,Public,Public,No,,-33.88828,151.180707
+739,739,Royal Rehabilitation Hospital,227-259 Morrison Road,Ryde,New South Wales,2112,,298071144,Public,Public,No,,-33.821772,151.107845
+740,740,Royal Talbot Rehabilitation Centre [Kew],1 Yarra Boulevard,Kew,Victoria,3101,,394907500,Public,Public,No,,-37.789522,145.023715
+741,741,Royal Women's Hospital [Parkville],20 Flemington Road,Parkville,Victoria,3052,,383452000,Public,Public,Yes,,-37.798772,144.954825
+742,742,Rural Northwest Health [Hopetoun],12 Mitchell Place,Hopetoun,Victoria,3396,,350832000,Public,Public,No,,-35.732201,142.366411
+743,743,Rural Northwest Health [Warracknabeal],18 Dimboola Road,Warracknabeal,Victoria,3393,,353961200,Public,Public,No,,-36.252614,142.381609
+744,744,Ryde Hospital,Denistone Road,Eastwood,New South Wales,2122,,298587888,Public,Public,Yes,,-33.795482,151.089756
+745,745,Rylstone Multi Purpose Service,24 Fitzgerald Street,Rylstone,New South Wales,2849,,263578100,Public,Public,No,,-32.804085,149.975652
+746,746,Sacred Heart Hospice,170 Darlinghurst Road,Darlinghurst,New South Wales,2010,,283829444,Public,Public,No,,-33.880525,151.219237
+747,747,San Day Surgery Hornsby,1A Northcote Road,Hornsby,New South Wales,2077,,294778888,Private,Private,Yes,,-33.701961,151.110612
+748,748,Sandringham Hospital,193 Bluff Road,Sandringham,Victoria,3191,,390761000,Public,Public,No,,-37.961049,145.018157
+749,749,Sarina Hospital,1 Hospital Street,Sarina,Queensland,4737,,749438777,Public,Public,No,,-21.421151,149.210268
+750,750,Scone Hospital,Stafford Street,Scone,New South Wales,2337,,265402100,Public,Public,No,,-32.051525,150.876864
+751,751,Selby Authorised Lodge,6 Lemnos Street,Shenton Park,Western Australia,6008,,,Public,Public,No,,-31.958204,115.80199
+752,752,Seymour District Memorial Hospital,1 Brettoneaux Street,Seymour,Victoria,3660,,357936100,Public,Public,No,,-37.018384,145.138771
+753,753,Shellharbour Hospital,15-17 Madigan Boulevarde,Mount Warrigal,New South Wales,2528,,242952500,Public,Public,Yes,,-34.558987,150.840947
+754,754,Shepparton Private Hospital,20 Fitzgerald Street,Shepparton,Victoria,3630,,358321200,Private,Private,No,,-36.359183,145.410825
+755,755,Shoalhaven Hospital,2 Shoalhaven Street,Nowra,New South Wales,2541,,244213111,Public,Public,Yes,,-34.868767,150.595736
+756,756,Short Street Day Surgery,1/2 Short Street,Southport,Queensland,4215,,755284011,Private,Private,Yes,,-27.970813,153.416975
+757,757,Singleton Hospital,Lot 20 Dangar Road,Singleton,New South Wales,2330,,265719222,Public,Public,No,,-32.567087,151.185736
+758,758,Sir Charles Gairdner Hospital,Hospital Avenue,Nedlands,Western Australia,6009,,864573333,Public,Public,Yes,,-31.968291,115.815467
+759,759,Smithton District Hospital,74 Brittons Road,Smithton,Tasmania,7330,,364789520,Public,Public,No,,-40.850159,145.129609
+760,760,Snowtown Hospital and Health Service,South Terrace,Snowtown,South Australia,5520,,888650100,Public,Public,No,,-33.786936,138.212768
+761,761,South Burnett Private Hospital,31 Markwell Street,Kingaroy,Queensland,4610,,741621444,Private,Private,No,,-26.543051,151.836891
+762,762,South Coast District Hospital,Bay Road,Victor Harbor,South Australia,5211,,885520500,Public,Public,No,,-35.561171,138.606447
+763,763,South East Regional Hospital,4 Virginia Drive,Bega,New South Wales,2550,,264919999,Public,Public,No,,-36.68905,149.858549
+764,764,South Eastern Private,Corner of Princes Highway and Heatherton Road,Noble Park,Victoria,3174,,395496655,Private,Private,Yes,,-37.966243,145.191922
+765,765,South Gippsland Hospital [Foster],87 Station Road,Foster,Victoria,3960,,356839777,Public,Public,No,,-38.658319,146.207031
+766,766,South Pacific Private,24 Beach Street,Curl Curl,New South Wales,2096,,299053667,Private,Private,No,,-33.775143,151.291425
+767,767,South Perth Hospital,76 South Terrace,South Perth,Western Australia,6952,,893670222,Private,Private,Yes,,-31.988465,115.862816
+768,768,South West Healthcare [Camperdown],9 Robinson Street,Camperdown,Victoria,3260,,355937300,Public,Public,No,,-38.237101,143.137714
+769,769,South West Healthcare [Warrnambool],Ryot Street,Warrnambool,Victoria,3280,,355631666,Public,Public,Yes,,-38.380085,142.472977
+770,770,Southern Cross Hospital,Coolgardie Road (Great Eastern Highway),Southern Cross,Western Australia,6426,,890812222,Public,Public,No,,-31.230709,119.337829
+771,771,Southern Highlands Private Hospital,93-95 Bowral Street,Bowral,New South Wales,2576,,248629400,Private,Private,No,,-34.484223,150.422882
+772,772,Southern Yorke Peninsula Health Service (Yorketown),19 Waterloo Bay Road,Yorketown,South Australia,5576,,888521200,Public,Public,No,,-35.020989,137.604939
+773,773,Southport Day Hospital,"Level 1, 98 Marine Parade",Southport,Queensland,4215,,755557800,Private,Private,No,,-27.96245,153.413046
+774,774,Southside Endoscopy Centre,66 Bryants Road,Loganholme,Queensland,4129,,738012220,Private,Private,Yes,,-27.662981,153.17828
+775,775,Spendelove Private Hospital,24 Spendelove Avenue,Southport,Queensland,4215,,755030911,Private,Private,Yes,,-27.973494,153.4084
+776,776,SPORTSMED SA Hospital & Day Surgery,32 Payneham Road,Stepney,South Australia,5069,,881301100,Private,Private,No,,-34.913521,138.624987
+777,777,Springsure Hospital,Woodbine Street,Springsure,Queensland,4722,,749841200,Public,Public,No,,-24.120122,148.084762
+778,778,Springwood Hospital,7-9 Huntley Grange Road,Springwood,New South Wales,2777,,247510300,Public,Public,No,,-33.690486,150.571129
+779,779,St Andrew's Hospital,350 South Terrace,Adelaide,South Australia,5000,,884082111,Private,Private,Yes,,-34.934224,138.614963
+780,780,St Andrew's Ipswich Private Hospital,Corner of Roderick and Pring Streets,Ipswich,Queensland,4305,,738169999,Private,Private,Yes,,-27.618799,152.763079
+781,781,St Andrew's Toowoomba Hospital,280 North Street,Toowoomba,Queensland,4350,,746463000,Private,Private,Yes,,-27.539156,151.933665
+782,782,St Andrew's War Memorial Hospital,457 Wickham Terrace,Spring Hill,Queensland,4000,,738344444,Private,Private,Yes,,-27.461224,153.021011
+783,783,St George Hospital NSW,30 Gray Street,Kogarah,New South Wales,2217,,291131111,Public,Public,Yes,,-33.966969,151.133776
+784,784,St George Hospital Qld,1 Victoria Street,St George,Queensland,4487,,746202222,Public,Public,No,,-28.0272,148.592683
+785,785,St George Private Hospital,1 South Street,Kogarah,New South Wales,2217,,295985555,Private,Private,Yes,,-33.966952,151.136055
+786,786,St George's Health Service- Aged Care,283 Cotham Road,Kew,Victoria,3101,,398160444,Public,Public,Yes,,-37.809085,145.052585
+787,787,St Helens District Hospital,Circassion Street,St Helens,Tasmania,7216,,363875570,Public,Public,No,,-41.323159,148.248814
+788,788,St Helen's Private Hospital,186 Macquarie Street,Hobart,Tasmania,7000,,362216444,Private,Private,No,,-42.886839,147.325791
+789,789,St John of God Ballarat Hospital,101 Drummond Street North,Ballarat,Victoria,3350,,353202111,Private,Private,Yes,,-37.558544,143.847406
+790,790,St John of God Bendigo Hospital,133-145 Lily Street,Bendigo,Victoria,3550,,354343434,Private,Private,Yes,,-36.762043,144.263298
+791,791,St John of God Berwick Hospital,75 Kangan Drive,Berwick,Victoria,3806,,387845000,Private,Private,Yes,,-38.034499,145.344974
+792,792,St John of God Bunbury Hospital,Corner of Roberston Drive and Bussell Highway,Bunbury,Western Australia,6230,,897221600,Private,Private,Yes,,-33.365947,115.648869
+793,793,St John of God Burwood Hospital,13 Grantham Street,Burwood,New South Wales,2134,,297159200,Private,Private,No,,-33.869832,151.100538
+794,794,St John of God Frankston Rehabilitation Hospital,255-265 Cranbourne Road,Frankston,Victoria,3199,,397883333,Private,Private,No,,-38.153035,145.155926
+795,795,St John of God Geelong Hospital,80 Myers Street,Geelong,Victoria,3220,,352268888,Private,Private,Yes,,-38.151567,144.357679
+796,796,St John of God Geraldton Hospital,12 Hermitage Street,Geraldton,Western Australia,6530,,899658888,Private,Private,No,,-28.784383,114.616439
+797,797,St John of God Midland Private Hospital,1 Clayton Street,Midland,Western Australia,6056,,894624500,Private,Private,No,,-31.894611,116.00748
+798,798,St John of God Midland Public Hospital,1 Clayton Street,Midland,Western Australia,6056,,894624000,Public,Public,Yes,,-31.894832,116.008852
+799,799,St John of God Mt Lawley Hospital,Thirlmere Road,Mount Lawley,Western Australia,6050,,893709222,Private,Private,Yes,,-31.936721,115.884926
+800,800,St John of God Murdoch Hospital,100 Murdoch Drive,Murdoch,Western Australia,6150,,893661111,Private,Private,Yes,,-32.067919,115.844659
+801,801,St John of God Pinelodge Clinic,1480 Heatherton Road,Dandenong,Victoria,3175,,387939444,Private,Private,No,,-37.970226,145.213143
+802,802,St John of God Richmond Hospital,177 Grose Vale Road,North Richmond,New South Wales,2754,,245706100,Private,Private,No,,-33.591946,150.702473
+803,803,St John of God Subiaco Hospital,12 Salvado Road,Subiaco,Western Australia,6008,,893826111,Private,Private,Yes,,-31.941246,115.826282
+804,804,St John of God Warrnambool Hospital,136 Botanic Road,Warrnambool,Victoria,3280,,355640600,Private,Private,No,,-38.371405,142.478749
+805,805,St Joseph's Hospital,Normanby Road,Auburn,New South Wales,2144,,296498941,Public,Public,No,,-33.848659,151.028339
+806,806,St Luke's Hospital,18 Roslyn Street,Potts Point,New South Wales,2011,,293560200,Private,Private,No,,-33.874188,151.225836
+807,807,St Margaret's Hospital,65 Military Road,Semaphore,South Australia,5019,,882429111,Public,Public,No,,-34.846418,138.480466
+808,808,St Marys Community Health Centre,Gardiners Creek Road,St Marys,Tasmania,7215,,363875555,Public,Public,No,,-41.576062,148.181244
+809,809,St Stephen's Hospital Hervey Bay,1 Medical Place,Urraween,Queensland,4655,,741201200,Private,Private,No,,-25.299851,152.823273
+810,810,St Vincent’s Hospital [Darlinghurst],390 Victoria Street,Darlinghurst,New South Wales,2010,,283821111,Public,Public,Yes,,-33.879692,151.221125
+811,811,St Vincent's Hospital [Fitzroy],41 Victoria Parade,Fitzroy,Victoria,3065,,392882211,Public,Public,Yes,,-37.806545,144.975231
+812,812,St Vincents Private Hospital [Lismore],20 Dalley Street,Lismore,New South Wales,2480,,266279600,Private,Private,No,,-28.819949,153.287381
+813,813,St Vincent's Private Hospital Brisbane,411 Main Street,Kangaroo Point,Queensland,4169,,732401111,Private,Private,Yes,,-27.473334,153.03542
+814,814,St Vincent's Private Hospital East Melbourne,159 Grey Street,East Melbourne,Victoria,3002,,399286555,Private,Private,Yes,,-37.811733,144.984164
+815,815,St Vincent's Private Hospital Fitzroy,59-61 Victoria Parade,Fitzroy,Victoria,3065,,394117111,Private,Private,Yes,,-37.807993,144.976029
+816,816,St Vincent's Private Hospital Kew,5 Studley Avenue,Kew,Victoria,3101,,398518888,Private,Private,No,,-37.806567,145.023694
+817,817,St Vincent's Private Hospital Toowoomba,22-36 Scott Street,Toowoomba,Queensland,4350,,746904000,Private,Private,Yes,,-27.565675,151.971551
+818,818,St Vincent's Private Sydney,406 Victoria Street,Darlinghurst,New South Wales,2010,,283827111,Private,Private,Yes,,-33.880698,151.219462
+819,819,Stanthorpe Hospital,8 McGregor Terrace,Stanthorpe,Queensland,4380,,746833400,Public,Public,No,,-28.660927,151.928397
+820,820,State Forensic Mental Health Service,Brockway Road,Mount Claremont,Western Australia,6010,,893476960,Public,Public,No,,-31.960937,115.788431
+821,821,Stawell Regional Health,27-29 Sloane Street,Stawell,Victoria,3380,,353588500,Public,Public,No,,-37.059577,142.781603
+822,822,Stirling Hospital,20 Milan Terrace,Stirling,South Australia,5152,,883390200,Private,Private,No,,-35.007274,138.714859
+823,823,Strathalbyn and District Health Service,14 Alfred Place,Strathalbyn,South Australia,5255,,885365333,Public,Public,No,,-35.257674,138.893558
+824,824,Strathfield Private Hospital,3 Everton Road,Strathfield,New South Wales,2135,,297457444,Private,Private,No,,-33.872059,151.097544
+825,825,Streaky Bay Hospital,1 Flinders Drive,Streaky Bay,South Australia,5680,,886261009,Public,Public,No,,-32.792776,134.217524
+826,826,Subiaco Private Hospital,"Suite 9, 1 Salvado Road",Subiaco,Western Australia,6008,,865556599,Private,Private,No,,-31.9434,115.826
+827,827,Sunbury Day Hospital,7 Macedon Street,Sunbury,Victoria,3429,,397328600,Public,Public,No,,-37.576998,144.732674
+828,828,Sunnybank Private Hospital,245 McCullough Street,Sunnybank,Queensland,4109,,733449444,Private,Private,Yes,,-27.572541,153.061051
+829,829,Sunshine Coast Day Surgery,Second Ave & Memorial Avenue,Maroochydore,Queensland,4558,,754449033,Private,Private,Yes,,-26.655373,153.096157
+830,830,Sunshine Coast Haematology and Oncology Clinic,10 King Street,Buderim,Queensland,4556,,754790000,Private,Private,No,,-26.657299,153.094955
+831,831,Sunshine Coast University Hospital,6 Doherty Street,Birtinya,Queensland,4575,,752020000,Public,Public,Yes,,-26.74681,153.113812
+832,832,Sunshine Coast University Private Hospital,3 Doherty Street,Birtinya,Queensland,4575,,753906000,Private,Private,Yes,,-26.74422,153.114563
+833,833,Sunshine Hospital,176 Furlong Road,St Albans,Victoria,3021,,383451333,Public,Public,Yes,,-37.759179,144.816477
+834,834,Surat Hospital,Ivan Street,Surat,Queensland,4417,,746265166,Public,Public,No,,-27.156595,149.063787
+835,835,Sutherland Heart Clinic,"Level 2, The Sutherland Hospital, The Kingsway",Caringbah,New South Wales,2229,,295408555,Private,Private,No,,-34.037931,151.114153
+836,836,Sutherland Hospital,430 Kingsway,Caringbah,New South Wales,2229,,295407111,Public,Public,Yes,,-34.037288,151.115151
+837,837,Swan Hill District Health [Nyah],Monash Avenue,Nyah West,Victoria,3595,,350302572,Public,Public,No,,-35.186052,143.355428
+838,838,Swan Hill District Health [Swan Hill],48 Splatt Street,Swan Hill,Victoria,3585,,350339300,Public,Public,No,,-35.340588,143.556514
+839,839,Sydney Adventist Hospital,185 Fox Valley Road,Wahroonga,New South Wales,2076,,294879111,Private,Private,Yes,,-33.733379,151.099874
+840,840,Sydney Children's Hospital,High Street,Randwick,New South Wales,2031,,293821111,Public,Public,Yes,,-33.917179,151.238334
+841,841,Sydney Day Surgery - Prince Alfred,"RPAH Medical Centre - Suite 106, 100 Carillon Avenue",Newtown,New South Wales,2042,,295505600,Private,Private,No,,-33.8912,151.1835
+842,842,Sydney Dental Hospital,2 Chalmers Street,Surry Hills,New South Wales,2010,,292933200,Public,Public,No,,-33.884469,151.207811
+843,843,Sydney Hospital / Sydney Eye Hospital,8 Macquarie Street,Sydney,New South Wales,2000,,293827111,Public,Public,No,,-33.867929,151.212575
+844,844,Sydney Southwest Private Hospital,40 Bigge Street,Liverpool,New South Wales,2170,,298210333,Private,Private,No,,-33.917876,150.927499
+845,845,Tailem Bend District Hospital,74 Princes Highway,Tailem Bend,South Australia,5260,,885725800,Public,Public,No,,-35.254803,139.452692
+846,846,Tallangatta Health Service,25 Barree Street,Tallangatta,Victoria,3700,,260715200,Public,Public,No,,-36.213705,147.183709
+847,847,Tamara Private Hospital,2-6 Dean Street,Tamworth,New South Wales,2340,,267661955,Private,Private,No,,-31.077535,150.921764
+848,848,Tamworth Hospital,31 Dean Street,Tamworth,New South Wales,2340,,267677700,Public,Public,Yes,,-31.074079,150.924199
+849,849,Tanunda War Memorial Hospital,15 Mill Street,Tanunda,South Australia,5352,,885632398,Public,Public,No,,-34.528082,138.960859
+850,850,Tara Hospital,15 Bilton Street,Tara,Queensland,4421,,746787900,Public,Public,No,,-27.273674,150.456368
+851,851,Taroom Hospital,Miller Street,Taroom,Queensland,4420,,746289900,Public,Public,No,,-25.638818,149.798669
+852,852,Tasman Health and Community Service,1614 Nubeena Road,Nubeena,Tasmania,7184,,362509000,Public,Public,No,,-43.096752,147.742831
+853,853,Temora Hospital,169 Loftus Street,Temora,New South Wales,2666,,269800200,Public,Public,No,,-34.443942,147.542616
+854,854,Tennant Creek Hospital,41 Schmidt Street,Tennant Creek,Northern Territory,860,,889624399,Public,Public,No,,-19.647791,134.186893
+855,855,Tenterfield Hospital,1-5 Naas Street,Tenterfield,New South Wales,2372,,267395200,Public,Public,No,,-29.045083,152.013552
+856,856,Terang & Mortlake Health Service [Terang],13 Austin Avenue,Terang,Victoria,3264,,355920222,Public,Public,No,,-38.239388,142.902119
+857,857,Texas Hospital,Mingoola Road,Texas,Queensland,4385,,746533200,Public,Public,No,,-28.855978,151.179481
+858,858,The Alfred,55 Commercial Road,Prahran,Victoria,3181,,390762000,Public,Public,Yes,,-37.846087,144.981937
+859,859,The Avenue Hospital,40 The Avenue,Windsor,Victoria,3181,,395297377,Private,Private,Yes,,-37.854809,144.998513
+860,860,The Bays Hospital,Vale Street,Mornington,Victoria,3931,,359752009,Private,Private,Yes,,-38.223524,145.040939
+861,861,The Bendigo Hospital,62 Lucan Street,Bendigo,Victoria,3550,,354546000,Public,Public,Yes,,-36.748727,144.283372
+862,862,The Border Cancer Hospital,201-239 Borella Road,Albury,New South Wales,2640,,260641400,Private,Private,No,,-36.078399,146.938123
+863,863,The Cairns Clinic,253 Sheridan Street,Cairns,Queensland,4870,,740507000,Private,Private,No,,-16.910828,145.76209
+864,864,The Canberra Hospital,Yamba Drive,Garran,Australian Capital Territory,2605,,251240000,Public,Public,Yes,,-35.345777,149.100898
+865,865,The Children's Hospital at Westmead,178 Hawkesbury Road,Westmead,New South Wales,2145,,298450000,Public,Public,Yes,,-33.801554,150.991759
+866,866,The Eye Hospital,262 Charles Street,Launceston,Tasmania,7250,,363344960,Private,Private,Yes,,-41.444592,147.141609
+867,867,The Geelong Clinic,98 Townsend Road,St Albans Park,Victoria,3219,,352481155,Private,Private,No,,-38.182406,144.393267
+868,868,The Hills Clinic Kellyville,15-17 Memorial Avenue,Kellyville,New South Wales,2155,,1300122144,Private,Private,No,,-33.716759,150.952057
+869,869,The Hills Private Hospital,499 Windsor Road,Baulkham Hills,New South Wales,2153,,296393333,Private,Private,No,,-33.743476,150.9825
+870,870,The Hobart Clinic,31 Chipmans Road,Rokeby,Tasmania,7019,,362479960,Private,Private,Yes,,-42.905613,147.435278
+871,871,The Kilmore & District Hospital,Rutledge Street,Kilmore,Victoria,3764,,357342000,Public,Public,No,,-37.301794,144.957915
+872,872,The McKellar Centre,45-95 Ballarat Road,North Geelong,Victoria,3215,,352792222,Public,Public,No,,-38.118795,144.335728
+873,873,The Melbourne Clinic,130 Church Street,Richmond,Victoria,3121,,394294688,Private,Private,Yes,,-37.814361,144.998739
+874,874,The Memorial Hospital,Sir Edwin Smith Avenue,North Adelaide,South Australia,5006,,883663800,Private,Private,Yes,,-34.912733,138.599385
+875,875,The Mornington Centre,Corner of Tyalla Grove and Separation Street,Mornington,Victoria,3931,,359762733,Public,Public,No,,-38.230174,145.041697
+876,876,The Northern Hospital [Epping],185 Cooper Street,Epping,Victoria,3076,,384058000,Public,Public,Yes,,-37.653417,145.014381
+877,877,The Park Centre For Mental Health,Corner of Ellerton Drive and Wolston Park Road,Wacol,Queensland,4076,,732718222,Public,Public,Yes,,-27.600413,152.910246
+878,878,The Peter James Centre [East Burwood],321-345 Burwood Highway,Forest Hill,Victoria,3131,,398811888,Public,Public,Yes,,-37.852712,145.164542
+879,879,The Prince Charles Hospital,Rode Road,Chermside,Queensland,4032,,731394000,Public,Public,Yes,,-27.390497,153.021955
+880,880,The Queen Elizabeth Hospital,28 Woodville Road,Woodville,South Australia,5011,,882226000,Public,Public,Yes,,-34.884179,138.534039
+881,881,The Royal Victorian Eye & Ear Hospital,32 Gisborne Street,East Melbourne,Victoria,3002,,399298666,Public,Public,No,,-37.808978,144.976245
+882,882,The Skin & Cancer Foundation Australia,7 Ashley Lane,Westmead,New South Wales,2145,,288333000,Private,Private,No,,-33.8072,150.98879
+883,883,The Southport Private Hospital,21 Spendelove Avenue,Southport,Queensland,4215,,756718000,Private,Private,No,,-27.973078,153.407852
+884,884,The Sydney Clinic,22-24 Murray Street,Bronte,New South Wales,2024,,293898888,Private,Private,No,,-33.901383,151.260988
+885,885,The Sydney Private Hospital Incorporating the NSW Eye Centre,63 Victoria Street,Ashfield,New South Wales,2131,,297970555,Private,Private,No,,-33.894,151.1299
+886,886,The Townsville Hospital,100 Angus Smith Drive,Douglas,Queensland,4814,,744331111,Public,Public,Yes,,-19.320683,146.762092
+887,887,The Tweed Hospital,14 Powell Street,Tweed Heads,New South Wales,2485,,755361133,Public,Public,Yes,,-28.177216,153.545458
+888,888,The Valley Private Hospital,Corner of Police and Gladstone Roads,Mulgrave,Victoria,3170,,397909333,Private,Private,Yes,,-37.938409,145.213122
+889,889,The Victoria Clinic,324 Malvern Road,Prahran,Victoria,3181,,395260200,Private,Private,No,,-37.847714,144.997225
+890,890,The Victorian Rehabilitation Centre,499 Springvale Road,Glen Waverley,Victoria,3150,,395662777,Private,Private,Yes,,-37.898227,145.161425
+891,891,The Wesley Hospital,451 Coronation Drive,Auchenflower,Queensland,4066,,732327000,Private,Private,Yes,,-27.478335,152.997971
+892,892,Theodore Hospital,The Boulevard,Theodore,Queensland,4719,,749903000,Public,Public,No,,-24.943109,150.075277
+893,893,Thomas Walker Hospital,Hospital Road,Concord West,New South Wales,2138,,297362288,Public,Public,No,,-33.832336,151.097897
+894,894,Thursday Island Hospital,163 Douglas Street,Thursday Island,Queensland,4875,,740690200,Public,Public,No,,-10.588,142.21156
+895,895,Tibooburra Hospital,Sturt Street,Tibooburra,New South Wales,2880,,880913302,Public,Public,No,,-29.433211,142.012817
+896,896,Timboon & District Healthcare Service,21 Hospital Road,Timboon,Victoria,3268,,355586000,Public,Public,No,,-38.486231,142.976717
+897,897,Tingha Multi Purpose Service,Inverell Road,Tingha,New South Wales,2369,,267233901,Public,Public,No,,-29.950779,151.206732
+898,898,Tocumwal Hospital,Adams Street,Tocumwal,New South Wales,2714,,358742166,Public,Public,No,,-35.815407,145.568996
+899,899,Tom Price Hospital,862 Mine Road,Tom Price,Western Australia,6751,,891595222,Public,Public,No,,-22.695367,117.790271
+900,900,Tomaree Hospital,2 Trevally Street,Nelson Bay,New South Wales,2315,,249840700,Public,Public,No,,-32.720053,152.158858
+901,901,Toosey Memorial Hospital (Longford),10 Archer Street,Longford,Tasmania,7301,,363911202,Public,Public,No,,-41.593091,147.119486
+902,902,Toowong Private Hospital,496 Milton Road,Toowong,Queensland,4066,,737218000,Private,Private,No,,-27.47736,152.99125
+903,903,Toowoomba Hospital,Pechey Street,Toowoomba,Queensland,4350,,746166000,Public,Public,Yes,,-27.569872,151.944433
+904,904,Toowoomba Surgicentre,18 Scott Street,Toowoomba,Queensland,4350,,746593100,Private,Private,No,,-27.566341,151.973785
+905,905,Tottenham Multipurpose Service,Lot 10 Moondana Street,Tottenham,New South Wales,2873,,268916200,Public,Public,No,,-32.242711,147.358031
+906,906,Townsville Day Surgery,1 Martinez Avenue,West End,Queensland,4810,,747254500,Private,Private,No,,-19.268889,146.782836
+907,907,Trangie Multi Purpose Service,28 Harris Street,Trangie,New South Wales,2823,,268808200,Public,Public,No,,-32.030813,147.976355
+908,908,Tresillian Care Centres,McKenzie Street,Belmore,New South Wales,2192,,297870800,Public,Public,No,,-33.918732,151.097526
+909,909,"Tresillian Family Care Centre, Kingswood",1b Barber Avenue,Kingswood,New South Wales,2747,,247342124,Public,Public,No,,-33.758161,150.714392
+910,910,Trundle Multi Purpose Health Service,44 Brookview Street,Trundle,New South Wales,2875,,268921900,Public,Public,No,,-32.921078,147.704315
+911,911,Tullamore Multi Purpose Health Service,1 Hinkler Street,Tullamore,New South Wales,2874,,268913100,Public,Public,No,,-32.635114,147.568997
+912,912,Tully Hospital,Bryant Street,Tully,Queensland,4854,,740684144,Public,Public,No,,-17.927624,145.924146
+913,913,Tumbarumba Multi Purpose Service,4 Mitchell Street,Tumbarumba,New South Wales,2653,,269489600,Public,Public,No,,-35.778706,148.006203
+914,914,Tumby Bay Hospital and Health Services,8-11 Esplanade,Tumby Bay,South Australia,5605,,886882007,Public,Public,No,,-34.372292,136.103932
+915,915,Tumut Hospital,105 Simpson Street,Tumut,New South Wales,2720,,269470800,Public,Public,No,,-35.307265,148.219552
+916,916,Tweddle Child & Family Health Centre [Footscray],53 Adelaide Street,Footscray,Victoria,3011,,396891577,Public,Public,No,,-37.797407,144.887421
+917,917,Tweed Day Surgery,38-44 Boyd Street,Tweed Heads,New South Wales,2485,,755995522,Private,Private,No,,-28.179019,153.539989
+918,918,Ulladulla Endoscopy and Medical Centre,111 Princes Highway,Ulladulla,New South Wales,2539,,244555422,Private,Private,No,,-35.358764,150.473481
+919,919,University Hospital Geelong,Bellerine Street,Geelong,Victoria,3220,,342150000,Public,Public,Yes,,-38.151533,144.364964
+920,920,Upper Murray Health & Community Services [Corryong],20 Kiell Street,Corryong,Victoria,3707,,260763200,Public,Public,No,,-36.198711,147.902798
+921,921,Urana Multi Purpose Service,127-129 Princess Street,Urana,New South Wales,2645,,269208106,Public,Public,No,,-35.325419,146.267316
+922,922,Urbenville Multi Purpose Service,45 Beaury Street,Urbenville,New South Wales,2475,,266341600,Public,Public,No,,-28.471511,152.543029
+923,923,Ursula Frayne Centre,35 Mavis Street,Footscray,Victoria,3011,,393197000,Public,Public,No,,-37.791148,144.886747
+924,924,Vegetable Creek Multi Purpose Service Emmaville,13-33 Glen Innes Road,Emmaville,New South Wales,2371,,267347900,Public,Public,No,,-29.450547,151.599204
+925,925,Victoria Parade Surgery Centre,"Level 1, 100 Victoria Parade",East Melboune,Victoria,3002,,396504000,Private,Private,No,,-37.808521,144.97476
+926,926,Victorian Institute of Forensic Mental Health,Yarra Bend Road,Fairfield,Victoria,3078,,386840000,Public,Public,Yes,,-37.78931,145.012975
+927,927,Victorian Institute of Forensic Mental Health Prison Health Service,317 Spencer Street,Melbourne,Victoria,3001,,386840000,Public,Public,No,,-37.812763,144.950757
+928,928,Vision Day Surgery Camberwell,27 Denmark Hill Road,Camberwell,Victoria,3123,,398821347,Private,Private,Yes,,-37.83252,145.0556
+929,929,Vision Day Surgery Chatswood,"Level 3, 270 Victoria Avenue",Chatswood,New South Wales,2086,,294249999,Private,Private,Yes,,-33.795181,151.187314
+930,930,Vision Day Surgery Eastern,852 Whitehorse Road,Box Hill,Victoria,3128,,398804333,Private,Private,Yes,,-37.817591,145.119433
+931,931,Vision Day Surgery Footscray,89 Paisley Street,Footscray,Victoria,3011,,396899233,Private,Private,Yes,,-37.800508,144.895155
+932,932,Vision Day Surgery Hurstville,8-10 Woniora Road,Hurstville,New South Wales,2220,,295852585,Private,Private,Yes,,-33.966949,151.100439
+933,933,Vision Day Surgery Rivercity,401 Milton Road,Auchenflower,Queensland,4066,,737363000,Private,Private,Yes,,-27.473726,152.995579
+934,934,Vision Eye Institute,600 St Kilda Road,Melbourne,Victoria,3004,,395212175,Private,Private,Yes,,-37.850605,144.980304
+935,935,Wagga Endoscopy Centre,50 Best Street,Wagga Wagga,New South Wales,2650,,269212711,Private,Private,No,,-35.115815,147.365914
+936,936,Wagga Wagga Hospital,260-280 Edward Street,Wagga Wagga,New South Wales,2650,,259431000,Public,Public,Yes,,-35.118083,147.356915
+937,937,Wagin Hospital,Warwick Street,Wagin,Western Australia,6315,,898613444,Public,Public,No,,-33.304662,117.347319
+938,938,Waikerie Health Service,1 Lawrie Terrace,Waikerie,South Australia,5330,,885410555,Public,Public,No,,-34.182447,139.984917
+939,939,Waikiki Private Hospital,221 Willmott Drive,Waikiki,Western Australia,6169,,895500222,Private,Private,No,,-32.310552,115.763147
+940,940,Walcha Multi Purpose Service,Middle Street,Walcha,New South Wales,2354,,267742366,Public,Public,No,,-30.987818,151.591415
+941,941,Walcott Street Surgical Centre,41 Walcott Street,Mount Lawley,Western Australia,6050,,892279004,Private,Private,Yes,,-31.936554,115.874141
+942,942,Walgett Multipurpose Service,141 Fox Street,Walgett,New South Wales,2832,,268286000,Public,Public,No,,-30.030646,148.115959
+943,943,Wangaratta Private Hospital,134-150 Templeton Street,Wangaratta,Victoria,3677,,357222678,Private,Private,No,,-36.349299,146.312423
+944,944,Wantirna Health,251 Mountain Highway,Wantirna,Victoria,3152,,399551200,Public,Public,No,,-37.848525,145.225902
+945,945,War Memorial Hospital,125 Birrell Street,Waverley,New South Wales,2024,,293690100,Public,Public,No,,-33.897496,151.253816
+946,946,Waratah Private Hospital,31 Dora Street,Hurstville,New South Wales,2220,,295980000,Private,Private,No,,-33.963651,151.100464
+947,947,Warialda Multi Purpose Service,Long Street,Warialda,New South Wales,2402,,267289000,Public,Public,No,,-29.538835,150.579567
+948,948,Warners Bay Private Hospital,Fairfax Road,Warners bay,New South Wales,2282,,249584288,Private,Private,No,,-32.965262,151.641204
+949,949,Warren Hospital,16 Hospital Avenue,Manjimup,Western Australia,6258,,897725100,Public,Public,No,,-34.240969,116.154112
+950,950,Warren Multi Purpose Service,Lot 176 Dr Kater Drive,Warren,New South Wales,2824,,268477200,Public,Public,No,,-31.693958,147.835679
+951,951,Warringal Private Hospital,216 Burgundy Street,Heidelberg,Victoria,3084,,392741300,Private,Private,Yes,,-37.754419,145.060728
+952,952,Warwick Hospital,56 Locke Street,Warwick,Queensland,4370,,746603900,Public,Public,No,,-28.224275,152.017983
+953,953,Wauchope Hospital,69 High Street,Wauchope,New South Wales,2446,,265808000,Public,Public,No,,-31.457239,152.728131
+954,954,Waverley Private Hospital,343-357 Blackburn Road,Mount Waverley,Victoria,3149,,398817700,Private,Private,Yes,,-37.884632,145.145798
+955,955,Wee Waa Hospital,60 Alma Street,Wee Waa,New South Wales,2388,,267950400,Public,Public,No,,-30.225439,149.448287
+956,956,Weipa Hospital,Lot 407 John Evans Drive,Weipa,Queensland,4874,,740823900,Public,Public,No,,-12.623419,141.881179
+957,957,Wellington Health Service,30 Thornton Street,Wellington,New South Wales,2820,,268408200,Public,Public,No,,-32.549741,148.951977
+958,958,Wentworth Hospital,Silver City Highway,Wentworth,New South Wales,2648,,350277111,Public,Public,No,,-34.109983,141.922481
+959,959,Wentworth Psychiatric Services,Derby Street,Penrith,New South Wales,2750,,247342000,Public,Public,No,,-33.760249,150.712613
+960,960,Werribee Mercy Hospital,300 Princes Highway,Werribee,Victoria,3030,,387543000,Public,Public,Yes,,-37.886587,144.698621
+961,961,Werris Creek Hospital,22-34 North Street,Werris Creek,New South Wales,2341,,267686600,Public,Public,No,,-31.346691,150.652513
+962,962,Wesley Hospital Ashfield,91 Milton Street,Ashfield,New South Wales,2131,,1300924522,Private,Private,No,,-33.8925,151.116666
+963,963,Wesley Hospital Kogarah,7 Blake Street,Kogarah,New South Wales,2217,,1300924522,Private,Private,No,,-33.968262,151.12896
+964,964,West Gippsland Healthcare Group [Warragul],41 Landsborough Street,Warragul,Victoria,3820,,356230611,Public,Public,No,,-38.173009,145.926804
+965,965,West Wimmera Health Service [Jeparit],2 Charles Street,Jeparit,Victoria,3423,,353914222,Public,Public,No,,-36.141132,141.984686
+966,966,West Wimmera Health Service [Kaniva],9 Farmers Street,Kaniva,Victoria,3419,,353914222,Public,Public,No,,-36.381386,141.246006
+967,967,West Wimmera Health Service [Nhill],45 Nelson Street,Nhill,Victoria,3418,,353914222,Public,Public,No,,-36.334003,141.655579
+968,968,West Wimmera Health Service [Rainbow],2 Swinbourne Avenue,Rainbow,Victoria,3424,,353914222,Public,Public,No,,-35.903874,141.995112
+969,969,West Wimmera Health Service [Rupanyup],89 Cromie Street,Rupanyup,Victoria,3388,,353631200,Public,Public,No,,-36.636571,142.631849
+970,970,Western District Health Service [Coleraine District Health Service],71 McLeod Street,Coleraine,Victoria,3315,,355532000,Public,Public,No,,-37.599913,141.692018
+971,971,Western District Health Service [Hamilton],20 Foster Street,Hamilton,Victoria,3300,,355518222,Public,Public,No,,-37.736495,142.030606
+972,972,Western District Health Service [Penshurst],146 Cobb Street,Penshurst,Victoria,3289,,355523000,Public,Public,No,,-37.877275,142.282487
+973,973,Western Gastroenterology Services,1/30 Eleanor Street,Footscray,Victoria,3011,,393183399,Private,Private,No,,-37.792005,144.885343
+974,974,Western Hospital,168 Cudmore Terrace,Henley Beach,South Australia,5022,,883561222,Private,Private,No,,-34.909971,138.49966
+975,975,Western Hospital [Footscray],160 Gordon Street,Footscray,Victoria,3011,,383456666,Public,Public,Yes,,-37.792298,144.887191
+976,976,Western Private Hospital,1-9 Marion Sreet,Footscray,Victoria,3011,,393183177,Private,Private,No,,-37.793045,144.885932
+977,977,Western Sydney Oncology & Infusion Centre,"Westmead Specialist Centre Level 2, 16-18 Mons Road",Westmead,New South Wales,2145,,288379800,Private,Private,Yes,,-33.802024,150.982879
+978,978,Westmead Hospital,166-174 Darcy Road,Westmead,New South Wales,2145,,288905555,Public,Public,Yes,,-33.804362,150.987811
+979,979,Westmead Private Hospital,Corner of Mons and Darcy Roads,Westmead,New South Wales,2145,,288379000,Private,Private,Yes,,-33.802865,150.982382
+980,980,Westmead Rehabilitation Hospital,7 Coleman Street,Merrylands,New South Wales,2160,,288333555,Private,Private,No,,-33.819288,150.981059
+981,981,Westminster Day Surgery,476 Wanneroo Road,Westminster,Western Australia,6061,,893495555,Private,Private,No,,-31.862769,115.829163
+982,982,Whyalla Hospital and Health Services,20 Wood Terrace,Whyalla,South Australia,5600,,886488300,Public,Public,Yes,,-33.033977,137.577559
+983,983,Wilcannia Multi Purpose Service,14 Ross Street,Wilcannia,New South Wales,2836,,880838777,Public,Public,No,,-31.557638,143.385336
+984,984,Williamstown Hospital,77B Railway Crescent,Williamstown,Victoria,3016,,393930100,Public,Public,Yes,,-37.863576,144.892339
+985,985,"Wilson Memorial Community Hospital, Murrurundi",59 O'Connell Street,Murrurundi,New South Wales,2338,,265469000,Public,Public,No,,-31.770408,150.834764
+986,986,Wimmera Base Hospital [Horsham],83 Baillie Street,Horsham,Victoria,3400,,353819111,Public,Public,No,,-36.712441,142.208522
+987,987,Windsor Private Hospital,20 The Avenue,Windsor,Victoria,3181,,395209520,Private,Private,No,,-37.856118,144.998213
+988,988,Wingham Hospital,32 Bungay Road,Wingham,New South Wales,2429,,265573400,Public,Public,No,,-31.878104,152.365179
+989,989,Winton Hospital,Bloomfield Street,Winton,Queensland,4735,,746572700,Public,Public,No,,-22.381189,143.040672
+990,990,Wollongong Day Surgery,354-358 Crown Street,Wollongong,New South Wales,2500,,242266955,Private,Private,Yes,,-34.42583,150.881346
+991,991,Wollongong Hospital,348 Crown Street,Wollongong,New South Wales,2500,,242225000,Public,Public,Yes,,-34.424938,150.883451
+992,992,Wollongong Private Hospital,360-364 Crown Street,Wollongong,New South Wales,2500,,242861000,Private,Private,Yes,,-34.425814,150.880729
+993,993,Wolper Jewish Hospital,8 Trelawney Street,Woollahra,New South Wales,2025,,293286077,Private,Private,No,,-33.884118,151.240739
+994,994,Women's and Children's Hospital,72 King William Road,North Adelaide,South Australia,5006,,881617000,Public,Public,Yes,,-34.911444,138.599631
+995,995,Women's at Sandringham,193 Bluff Road,Sandringham,Victoria,3191,,390761000,Public,Public,No,,-37.961049,145.018157
+996,996,Wondai Hospital,Bramston Street,Wondai,Queensland,4606,,741692600,Public,Public,No,,-26.323335,151.878658
+997,997,Wongan Hills Hospital,Ackland Street,Wongan Hills,Western Australia,6603,,896911222,Public,Public,No,,-30.894159,116.724843
+998,998,Woorabinda Hospital,1 Munns Drive,Woorabinda,Queensland,4702,,749132800,Public,Public,No,,-24.131492,149.455983
+999,999,Woy Woy Hospital,7 Kathleen Street,Woy Woy,New South Wales,2256,,243448444,Public,Public,No,,-33.496716,151.320952
+1000,1000,Wudinna Hospital,16-24 Richards Avenue,Wudinna,South Australia,5652,,886802254,Public,Public,No,,-33.050274,135.466983
+1001,1001,Wyalkatchem-Koorda and Districts Hospital,Honour Avenue,Wyalkatchem,Western Australia,6485,,896921222,Public,Public,No,,-31.176246,117.386212
+1002,1002,Wyalong Hospital,70 Ungarie Road,West Wyalong,New South Wales,2671,,269790000,Public,Public,No,,-33.916373,147.196483
+1003,1003,Wyndham Hospital,Minderoo Street,Wyndham,Western Australia,6740,,891610222,Public,Public,No,,-15.477793,128.127772
+1004,1004,Wyong Hospital,664 Pacific Highway,Hamlyn Terrace,New South Wales,2259,,243948000,Public,Public,Yes,,-33.261113,151.480761
+1005,1005,Yarra Ranges Health,25 Market Street,Lilydale,Victoria,3140,,1300342255,Public,Public,No,,-37.756319,145.351204
+1006,1006,Yarram & District Health Service,85-91 Commercial Road,Yarram,Victoria,3971,,351820222,Public,Public,No,,-38.556975,146.678316
+1007,1007,Yarrawonga District Health Service,33 Piper Street,Yarrawonga,Victoria,3730,,357438111,Public,Public,No,,-36.011547,146.006584
+1008,1008,Yass Hospital,145-147 Meehan Street,Yass,New South Wales,2582,,262202000,Public,Public,No,,-34.844072,148.906427
+1009,1009,Yea & District Memorial Hospital,45 Station Street,Yea,Victoria,3717,,357360400,Public,Public,No,,-37.213634,145.430724
+1010,1010,York Hospital,Trews Road,York,Western Australia,6302,,896410200,Public,Public,No,,-31.894392,116.757416
+1011,1011,Young Hospital,68 Allanan Street,Young,New South Wales,2594,,263828888,Public,Public,No,,-34.320383,148.288457

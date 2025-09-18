@@ -1,0 +1,15 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2
+1959-11-18,,6872def5-772f-427c-3053-de6e1c71ce0a,cb06b36d-7be5-a816-88bd-6f5c05706e11,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+2001-08-17,,59844213-b884-17cb-59e9-c07a73a06f41,6aa6ddcd-12a0-d856-7fb6-21efa8707ce8,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+1991-04-04,,6c434506-fb4b-3e3f-c19d-553dec3b6c17,4245c07f-80f6-21c1-8444-3be763ef6c6f,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+1991-04-04,,6c434506-fb4b-3e3f-c19d-553dec3b6c17,4245c07f-80f6-21c1-8444-3be763ef6c6f,84489001,SNOMED-CT,Mold (organism),allergy,environment,,,,,,
+1984-12-03,,4113255f-4e35-506a-ddef-4429caa17ffc,cf049760-af21-c467-378f-f5060f8e5a94,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+1984-12-03,,4113255f-4e35-506a-ddef-4429caa17ffc,cf049760-af21-c467-378f-f5060f8e5a94,84489001,SNOMED-CT,Mold (organism),allergy,environment,,,,,,
+1984-12-03,,4113255f-4e35-506a-ddef-4429caa17ffc,cf049760-af21-c467-378f-f5060f8e5a94,260147004,SNOMED-CT,House dust mite (organism),allergy,environment,,,,,,
+1984-12-03,,4113255f-4e35-506a-ddef-4429caa17ffc,cf049760-af21-c467-378f-f5060f8e5a94,264287008,SNOMED-CT,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1984-12-03,,4113255f-4e35-506a-ddef-4429caa17ffc,cf049760-af21-c467-378f-f5060f8e5a94,256277009,SNOMED-CT,Grass pollen (substance),allergy,environment,,,,,,
+1984-12-03,,4113255f-4e35-506a-ddef-4429caa17ffc,cf049760-af21-c467-378f-f5060f8e5a94,782576004,SNOMED-CT,Tree pollen (substance),allergy,environment,,,,,,
+1991-04-04,,6c434506-fb4b-3e3f-c19d-553dec3b6c17,4245c07f-80f6-21c1-8444-3be763ef6c6f,7984,RxNorm,Penicillin V,allergy,medication,404640003,Dizziness (finding),MILD,247472004,Wheal (finding),MILD
+1991-04-04,,6c434506-fb4b-3e3f-c19d-553dec3b6c17,4245c07f-80f6-21c1-8444-3be763ef6c6f,735029006,SNOMED-CT,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,271807003,Eruption of skin (disorder),MODERATE
+2002-04-24,,92675303-ca5b-136a-169b-e764c5753f06,8db9afee-a207-4fd2-6755-b5382a363da6,609328004,SNOMED-CT,Allergic disposition (finding),allergy,environment,,,,,,
+2002-04-24,,92675303-ca5b-136a-169b-e764c5753f06,8db9afee-a207-4fd2-6755-b5382a363da6,10831,RxNorm,Sulfamethoxazole / Trimethoprim,allergy,medication,,,,,,
