@@ -1,0 +1,31 @@
+{
+  "name": "AU MDD Overlay",
+  "remarks": [
+    "Overlay module to assign Major Depressive Disorder (MDD) at population-level prevalence",
+    "SNOMED 370143000"
+  ],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "distributed_transition": [
+        { "transition": "MDD", "distribution": 0.20 },
+        { "transition": "Terminal", "distribution": 0.80 }
+      ]
+    },
+    "MDD": {
+      "type": "ConditionOnset",
+      "codes": [
+        { "system": "SNOMED-CT", "code": "370143000", "display": "Major depressive disorder (disorder)" }
+      ],
+      "direct_transition": "Terminal"
+    },
+    "Terminal": { "type": "Terminal" }
+  },
+  "gmf_version": 2
+}
+
+
+
+
+
+

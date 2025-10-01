@@ -1,0 +1,519 @@
+Synthea with HAL (Health Adjustment Layer) Integration
+=====================================================
+Configuration:
+  HAL Config: hal/config/hal-config.json
+  Scenario: baseline_move
+  Patient Count: 100
+  State: Victoria
+
+Step 1: Running HAL preprocessing...
+-----------------------------------
+> Task :hal:compileJava UP-TO-DATE
+> Task :hal:processResources NO-SOURCE
+> Task :hal:classes UP-TO-DATE
+
+> Task :hal:run
+HAL (Health Analytics Layer) Pre-processor for Synthea
+Loading configuration from: hal/config/hal-config.json
+Scenario: Australian_AIHW_Baseline_2023
+Description: Baseline scenario using Australian Institute of Health and Welfare prevalence data
+Successfully loaded 10 disease mapping(s).
+
+Processing Synthea modules from: synthea/src/main/resources/modules
+MODIFIED: metabolic_syndrome_disease.json -> State: 'Veteran_Diabetes_Prevalence' | New Prevalence: 0.0670 | Source: AIHW 2023 - Veterans have similar diabetes rates
+
+Report of changes written to: synthea/build/hal_report.txt
+
+HAL pre-processing complete. Adjusted modules are in: synthea/build/modules_adjusted
+
+BUILD SUCCESSFUL in 645ms
+2 actionable tasks: 1 executed, 1 up-to-date
+✅ HAL preprocessing completed successfully
+
+Step 2: Verifying adjusted modules...
+-------------------------------------
+✅ Found      241 adjusted modules
+
+Step 3: Running Synthea with HAL-adjusted modules...
+----------------------------------------------------
+> Task :hal:compileJava UP-TO-DATE
+> Task :hal:processResources NO-SOURCE
+> Task :hal:classes UP-TO-DATE
+
+> Task :hal:run
+HAL (Health Analytics Layer) Pre-processor for Synthea
+Loading configuration from: hal/config/hal-config.json
+Scenario: Australian_AIHW_Baseline_2023
+Description: Baseline scenario using Australian Institute of Health and Welfare prevalence data
+Successfully loaded 10 disease mapping(s).
+
+Processing Synthea modules from: synthea/src/main/resources/modules
+MODIFIED: metabolic_syndrome_disease.json -> State: 'Veteran_Diabetes_Prevalence' | New Prevalence: 0.0670 | Source: AIHW 2023 - Veterans have similar diabetes rates
+
+Report of changes written to: synthea/build/hal_report.txt
+
+HAL pre-processing complete. Adjusted modules are in: synthea/build/modules_adjusted
+
+> Task :synthea:compileJava UP-TO-DATE
+> Task :synthea:processResources UP-TO-DATE
+> Task :synthea:classes UP-TO-DATE
+
+> Task :synthea:run
+Scanned 89 modules and 157 submodules.
+Loading submodule modules/allergies/allergy_panel.json
+Loading submodule modules/allergies/drug_allergy_incidence.json
+Loading submodule modules/allergies/environmental_allergy_incidence.json
+Loading submodule modules/allergies/food_allergy_incidence.json
+Loading submodule modules/allergies/immunotherapy.json
+Loading submodule modules/allergies/outgrow_env_allergies.json
+Loading submodule modules/allergies/outgrow_food_allergies.json
+Loading submodule modules/allergies/severe_allergic_reaction.json
+Loading submodule modules/anemia/anemia_sub.json
+Loading submodule modules/breast_cancer/chemotherapy_breast.json
+Loading submodule modules/breast_cancer/hormone_diagnosis.json
+Loading submodule modules/breast_cancer/hormonetherapy_breast.json
+Loading submodule modules/breast_cancer/surgery_therapy_breast.json
+Loading submodule modules/breast_cancer/tnm_diagnosis.json
+Loading submodule modules/contraceptives/clear_contraceptive.json
+Loading submodule modules/contraceptives/female_sterilization.json
+Loading submodule modules/contraceptives/implant_contraceptive.json
+Loading submodule modules/contraceptives/injectable_contraceptive.json
+Loading submodule modules/contraceptives/intrauterine_device.json
+Loading submodule modules/contraceptives/male_sterilization.json
+Loading submodule modules/contraceptives/oral_contraceptive.json
+Loading submodule modules/contraceptives/patch_contraceptive.json
+Loading submodule modules/contraceptives/ring_contraceptive.json
+Loading submodule modules/covid19/admission.json
+Loading submodule modules/covid19/determine_risk.json
+Loading Lookup Table: covid-19-severity-outcomes.csv
+Loading Lookup Table: covid-19-survival-outcomes.csv
+Loading submodule modules/covid19/diagnose_bacterial_infection.json
+Loading submodule modules/covid19/diagnose_blood_clot.json
+Loading submodule modules/covid19/end_outcomes.json
+Loading submodule modules/covid19/end_symptoms.json
+Loading submodule modules/covid19/infection.json
+Loading submodule modules/covid19/measurements_daily.json
+Loading submodule modules/covid19/measurements_frequent.json
+Loading submodule modules/covid19/measurements_vitals.json
+Loading submodule modules/covid19/medications.json
+Loading submodule modules/covid19/nonsurvivor_lab_values.json
+Loading submodule modules/covid19/outcomes.json
+Loading submodule modules/covid19/supplies_hospitalization.json
+Loading submodule modules/covid19/supplies_icu.json
+Loading submodule modules/covid19/supplies_intubation.json
+Loading submodule modules/covid19/survivor_lab_values.json
+Loading submodule modules/covid19/symptoms.json
+Loading submodule modules/covid19/treat_blood_clot.json
+Loading submodule modules/dermatitis/early_moderate_eczema_obs.json
+Loading submodule modules/dermatitis/early_severe_eczema_obs.json
+Loading submodule modules/dermatitis/mid_moderate_eczema_obs.json
+Loading submodule modules/dermatitis/mid_severe_eczema_obs.json
+Loading submodule modules/dermatitis/moderate_cd_obs.json
+Loading submodule modules/dermatitis/severe_cd_obs.json
+Loading submodule modules/dme/wheelchair.json
+Loading submodule modules/dme/wheelchair_end.json
+Loading submodule modules/encounter/anxiety_screening.json
+Loading submodule modules/encounter/depression_screening.json
+Loading submodule modules/encounter/fall_risk_screening.json
+Loading submodule modules/encounter/hark_screening.json
+Loading submodule modules/encounter/hospital_basic_labs.json
+Loading submodule modules/encounter/sdoh_hrsn.json
+Loading submodule modules/encounter/substance_use_screening.json
+Loading submodule modules/encounter/vitals.json
+Loading submodule modules/eye/intraocular_pressure.json
+Loading submodule modules/eye/ophthalmic_progression.json
+Loading submodule modules/eye/ophthalmic_tomography.json
+Loading submodule modules/eye/visual_acuity.json
+Loading submodule modules/heart/acs_anticoagulant.json
+Loading submodule modules/heart/acs_antiplatelet.json
+Loading submodule modules/heart/acs_arrival_medications.json
+Loading submodule modules/heart/acs_discharge_meds.json
+Loading submodule modules/heart/avrr/antithrombotic.json
+Loading submodule modules/heart/avrr/avrr_referral.json
+Loading submodule modules/heart/avrr/intraop_meds_blood.json
+Loading submodule modules/heart/avrr/outcomes.json
+Loading submodule modules/heart/avrr/preoperative.json
+Loading submodule modules/heart/avrr/savrr_operation.json
+Loading submodule modules/heart/avrr/savrr_postop.json
+Loading submodule modules/heart/avrr/sequence.json
+Loading submodule modules/heart/cabg/cabg_referral.json
+Loading submodule modules/heart/cabg/details.json
+Loading Lookup Table: cabg_details_operative_approach.csv
+Loading Lookup Table: cabg_details_num_grafts.csv
+Loading Lookup Table: cabg_details_num_art_cond.csv
+Loading submodule modules/heart/cabg/icu_meds_devices.json
+Loading submodule modules/heart/cabg/labs_common.json
+Loading submodule modules/heart/cabg/operation.json
+Loading submodule modules/heart/cabg/or_intraop.json
+Loading submodule modules/heart/cabg/or_labs_meds.json
+Loading submodule modules/heart/cabg/outcomes.json
+Loading submodule modules/heart/cabg/postop.json
+Loading submodule modules/heart/cabg/postop_blood.json
+Loading submodule modules/heart/cabg/preoperative.json
+Loading submodule modules/heart/cabg_sequence.json
+Loading submodule modules/heart/cardiac_labs.json
+Loading submodule modules/heart/chf_lab_work.json
+Loading submodule modules/heart/chf_lvad.json
+Loading submodule modules/heart/chf_meds.json
+Loading submodule modules/heart/chf_meds_hfmef.json
+Loading submodule modules/heart/chf_meds_hfref_nyha2.json
+Loading submodule modules/heart/chf_meds_hfref_nyha3.json
+Loading submodule modules/heart/chf_meds_hfref_nyha4.json
+Loading submodule modules/heart/chf_nyha_panel.json
+Loading submodule modules/heart/chf_transplant.json
+Loading submodule modules/heart/nsteacs_pathway.json
+Loading submodule modules/heart/operative_status.json
+Loading submodule modules/heart/or_blood.json
+Loading Lookup Table: or_blood_anemia_check.csv
+Loading Lookup Table: or_blood_platelet_check.csv
+Loading Lookup Table: or_blood_plasma_check.csv
+Loading submodule modules/heart/savrepair/operative_status.json
+Loading submodule modules/heart/savreplace/operative_status.json
+Loading submodule modules/heart/stemi_fibrinolytic.json
+Loading submodule modules/heart/stemi_pathway.json
+Loading submodule modules/heart/tavr/alt_access.json
+Loading submodule modules/heart/tavr/operation.json
+Loading submodule modules/heart/tavr/operative_status.json
+Loading submodule modules/heart/tavr/outcomes.json
+Loading submodule modules/heart/tavr/postop.json
+Loading submodule modules/heart/vhd_risks.json
+Loading submodule modules/hiv/art_sequence.json
+Loading submodule modules/hiv/art_sequence_1987_1994.json
+Loading submodule modules/hiv/art_sequence_1995_1996.json
+Loading submodule modules/hiv/art_sequence_1997_2002.json
+Loading submodule modules/hiv/art_sequence_2003_2005.json
+Loading submodule modules/hiv/art_sequence_2006_2014.json
+Loading submodule modules/hiv/art_sequence_2015.json
+Loading submodule modules/hiv/hiv_baseline.json
+Loading submodule modules/hiv/hiv_cd4.json
+Loading Lookup Table: hiv_stage.csv
+Loading submodule modules/hiv/hiv_oi_prophylaxis.json
+Loading submodule modules/hiv/hiv_screening.json
+Loading submodule modules/hiv/hiv_viral_load.json
+Loading submodule modules/hiv/stop_all_art_meds.json
+Loading submodule modules/injuries/broken_jaw.json
+Loading submodule modules/lung_cancer/lung_cancer_probabilities.json
+Loading submodule modules/medications/ace_arb.json
+Loading Lookup Table: ace_arb_ingredient_distribution.csv
+Loading Lookup Table: ace_arb_amlodipine_benazepril_product_distribution.csv
+Loading Lookup Table: ace_arb_benazepril_product_distribution.csv
+Loading Lookup Table: ace_arb_benazepril_hydrochlorothiazide_product_distribution.csv
+Loading Lookup Table: ace_arb_enalapril_product_distribution.csv
+Loading Lookup Table: ace_arb_hydrochlorothiazide_lisinopril_product_distribution.csv
+Loading Lookup Table: ace_arb_hydrochlorothiazide_losartan_product_distribution.csv
+Loading Lookup Table: ace_arb_hydrochlorothiazide_valsartan_product_distribution.csv
+Loading Lookup Table: ace_arb_irbesartan_product_distribution.csv
+Loading Lookup Table: ace_arb_lisinopril_product_distribution.csv
+Loading Lookup Table: ace_arb_losartan_product_distribution.csv
+Loading Lookup Table: ace_arb_quinapril_product_distribution.csv
+Loading Lookup Table: ace_arb_ramipril_product_distribution.csv
+Loading Lookup Table: ace_arb_sacubitril_valsartan_product_distribution.csv
+Loading Lookup Table: ace_arb_telmisartan_product_distribution.csv
+Loading Lookup Table: ace_arb_valsartan_product_distribution.csv
+Loading submodule modules/medications/beta_blocker.json
+Loading Lookup Table: beta_blocker_ingredient_distribution.csv
+Loading Lookup Table: beta_blocker_atenolol_product_distribution.csv
+Loading Lookup Table: beta_blocker_bisoprolol_product_distribution.csv
+Loading Lookup Table: beta_blocker_bisoprolol_hydrochlorothiazide_product_distribution.csv
+Loading Lookup Table: beta_blocker_carvedilol_product_distribution.csv
+Loading Lookup Table: beta_blocker_labetalol_product_distribution.csv
+Loading Lookup Table: beta_blocker_metoprolol_product_distribution.csv
+Loading Lookup Table: beta_blocker_nebivolol_product_distribution.csv
+Loading Lookup Table: beta_blocker_propranolol_product_distribution.csv
+Loading submodule modules/medications/ear_infection_antibiotic.json
+Loading submodule modules/medications/emergency_inhaler.json
+Loading Lookup Table: emergency_inhaler_ingredient_distribution.csv
+Loading Lookup Table: emergency_inhaler_albuterol_product_distribution.csv
+Loading Lookup Table: emergency_inhaler_levalbuterol_product_distribution.csv
+Loading submodule modules/medications/hypertension_medication.json
+Loading submodule modules/medications/maintenance_inhaler.json
+Loading Lookup Table: maintenance_inhaler_ingredient_distribution.csv
+Loading Lookup Table: maintenance_inhaler_beclomethasone_product_distribution.csv
+Loading Lookup Table: maintenance_inhaler_budesonide_product_distribution.csv
+Loading Lookup Table: maintenance_inhaler_fluticasone_product_distribution.csv
+Loading Lookup Table: maintenance_inhaler_mometasone_product_distribution.csv
+Loading submodule modules/medications/moderate_opioid_pain_reliever.json
+Loading submodule modules/medications/otc_antihistamine.json
+Loading submodule modules/medications/otc_pain_reliever.json
+Loading submodule modules/medications/statin.json
+Loading Lookup Table: statin_ingredient_distribution.csv
+Loading Lookup Table: statin_atorvastatin_product_distribution.csv
+Loading Lookup Table: statin_ezetimibe_simvastatin_product_distribution.csv
+Loading Lookup Table: statin_lovastatin_product_distribution.csv
+Loading Lookup Table: statin_pitavastatin_product_distribution.csv
+Loading Lookup Table: statin_pravastatin_product_distribution.csv
+Loading Lookup Table: statin_rosuvastatin_product_distribution.csv
+Loading Lookup Table: statin_simvastatin_product_distribution.csv
+Loading submodule modules/medications/strong_opioid_pain_reliever.json
+Loading submodule modules/metabolic_syndrome/amputations.json
+Loading submodule modules/metabolic_syndrome/diabetic_retinopathy_diagnoses.json
+Loading submodule modules/metabolic_syndrome/diabetic_retinopathy_progression.json
+Loading submodule modules/metabolic_syndrome/dme_supplies.json
+Loading submodule modules/metabolic_syndrome/kidney_conditions.json
+Loading submodule modules/metabolic_syndrome/medications.json
+Loading submodule modules/snf/skilled_nursing_facility.json
+Loading submodule modules/surgery/general_anesthesia.json
+Loading submodule modules/total_joint_replacement/functional_status_assessments.json
+Loading submodule modules/uti/abx_tx.json
+Loading submodule modules/uti/ambulatory_eval.json
+Loading submodule modules/uti/ambulatory_path.json
+Loading submodule modules/uti/ed_bundle.json
+Loading submodule modules/uti/ed_eval.json
+Loading submodule modules/uti/ed_path.json
+Loading submodule modules/uti/gu_pregnancy_check.json
+Loading submodule modules/uti/hpi.json
+Loading submodule modules/uti/lab_follow_up.json
+Loading submodule modules/uti/labs.json
+Loading submodule modules/uti/telemed_path.json
+Loading submodule modules/veterans/veteran_suicide_probabilities.json
+Loading submodule modules/weight_loss/mend_week.json
+Loading module modules/acute_myeloid_leukemia.json
+Loading Lookup Table: AML.csv
+Loading module modules/allergic_rhinitis.json
+Loading module modules/allergies.json
+Loading module modules/anemia___unknown_etiology.json
+Loading module modules/appendicitis.json
+Loading module modules/asthma.json
+Loading module modules/atopy.json
+Loading module modules/atrial_fibrillation.json
+Loading module modules/attention_deficit_disorder.json
+Loading module modules/bone_marrow_transplant.json
+Loading module modules/breast_cancer.json
+Loading module modules/bronchitis.json
+Loading module modules/cerebral_palsy.json
+Loading module modules/chronic_kidney_disease.json
+Loading module modules/colorectal_cancer.json
+Loading module modules/congestive_heart_failure.json
+Loading module modules/contraceptive_maintenance.json
+Loading module modules/contraceptives.json
+Loading module modules/copd.json
+Loading module modules/covid19.json
+Loading Lookup Table: covid19_prob.csv
+Loading module modules/cystic_fibrosis.json
+Loading module modules/dementia.json
+Loading module modules/dental_and_oral_examination.json
+Loading module modules/dentures.json
+Loading module modules/dermatitis.json
+Loading module modules/diabetic_retinopathy_treatment.json
+Loading Lookup Table: diabetic_retinopathy_followup.csv
+Loading module modules/dialysis.json
+Loading module modules/ear_infections.json
+Loading module modules/epilepsy.json
+Loading module modules/female_reproduction.json
+Loading module modules/fibromyalgia.json
+Loading module modules/food_allergies.json
+Loading module modules/gallstones.json
+Loading module modules/gout.json
+Loading module modules/hiv_care.json
+Loading Lookup Table: hiv_care.csv
+Loading module modules/hiv_diagnosis.json
+Loading Lookup Table: hiv_mortality_later.csv
+Loading Lookup Table: hiv_mortality_early.csv
+Loading Lookup Table: hiv_mortality_very_early.csv
+Loading Lookup Table: hiv_diagnosis_early.csv
+Loading Lookup Table: hiv_diagnosis_later.csv
+Loading module modules/home_health_treatment.json
+Loading module modules/home_hospice_snf.json
+Loading module modules/homelessness.json
+Loading module modules/hospice_treatment.json
+Loading module modules/hypertension.json
+Loading module modules/hypothyroidism.json
+Loading module modules/injuries.json
+Loading module modules/kidney_transplant.json
+Loading module modules/lung_cancer.json
+Loading module modules/lupus.json
+Loading module modules/mTBI.json
+Loading module modules/med_rec.json
+Loading module modules/mend_program.json
+Loading module modules/metabolic_syndrome_care.json
+Loading module modules/metabolic_syndrome_disease.json
+Loading module modules/myocardial_infarction.json
+Loading module modules/opioid_addiction.json
+Loading module modules/osteoarthritis.json
+Loading module modules/osteoporosis.json
+Loading module modules/pregnancy.json
+Loading module modules/prescribing_opioids_for_chronic_pain_and_treatment_of_oud.json
+Loading module modules/rheumatoid_arthritis.json
+Loading module modules/self_harm.json
+Loading module modules/sepsis.json
+Loading module modules/sexual_activity.json
+Loading module modules/sinusitis.json
+Loading module modules/sleep_apnea.json
+Loading module modules/sore_throat.json
+Loading module modules/spina_bifida.json
+Loading module modules/stable_ischemic_heart_disease.json
+Loading module modules/stroke.json
+Loading module modules/total_joint_replacement.json
+Loading module modules/trigger_bone_marrow_transplant.json
+Loading module modules/urinary_tract_infections.json
+Loading Lookup Table: uti.csv
+Loading Lookup Table: uti_recurrence.csv
+Loading module modules/veteran.json
+Loading module modules/veteran_hyperlipidemia.json
+Loading module modules/veteran_lung_cancer.json
+Loading module modules/veteran_mdd.json
+Loading module modules/veteran_prostate_cancer.json
+Loading module modules/veteran_ptsd.json
+Loading module modules/veteran_self_harm.json
+Loading module modules/veteran_substance_abuse_conditions.json
+Loading module modules/veteran_substance_abuse_treatment.json
+Loading module modules/vhd_aortic.json
+Loading Lookup Table: vhd_as.csv
+Loading Lookup Table: vhd_ar.csv
+Loading module modules/vhd_mitral.json
+Loading Lookup Table: vhd_mr.csv
+Loading Lookup Table: vhd_ms.csv
+Loading module modules/vhd_pulmonic.json
+Loading Lookup Table: vhd_ps.csv
+Loading Lookup Table: vhd_pr.csv
+Loading module modules/vhd_tricuspid.json
+Loading Lookup Table: vhd_tr.csv
+Loading Lookup Table: vhd_ts.csv
+Loading module modules/wellness_encounters.json
+Running with options:
+Population: 100
+Seed: 12345
+Provider Seed:1758264194221
+Reference Time: 1758264194221
+Location: Victoria
+Min Age: 0
+Max Age: 140
+8 -- Luther918 MacGyver246 (30 y/o M) Pakenham, Victoria  (42564)
+3 -- Jacque955 Jin479 Howe413 (28 y/o F) Morwell, Victoria  (41839)
+1 -- Devon268 Olson653 (26 y/o M) Carlton (Vic.), Victoria  (40386)
+5 -- Angela104 Bella510 Romaguera67 (30 y/o F) Eaglemont, Victoria  (43014)
+9 -- Alfred550 West559 (25 y/o M) Portland (Vic.), Victoria DECEASED (35288)
+7 -- Rickie717 Walsh511 (35 y/o M) Mornington (Vic.), Victoria  (52648)
+11 -- Velvet616 Belia417 Runte676 (43 y/o F) Alfredton, Victoria  (63201)
+2 -- Rasheeda241 Heaney114 (43 y/o F) Reservoir (Vic.), Victoria  (63335)
+4 -- Keven605 Daugherty69 (52 y/o M) Essendon West, Victoria  (72422)
+6 -- Darrell400 Muller251 (54 y/o M) Warrnambool, Victoria  (77626)
+10 -- Frederick289 Breitenberg711 (48 y/o M) Albanvale, Victoria  (66773)
+13 -- Dannette613 Bauch723 (7 y/o F) Belgrave South, Victoria DECEASED (9930)
+14 -- Rena430 Rowe323 (1 y/o F) Koornalla, Victoria DECEASED (2803)
+12 -- Fredricka415 Crist667 (26 y/o F) Balwyn North, Victoria  (36797)
+15 -- Mohammed454 Mueller846 (11 y/o M) Mordialloc, Victoria  (15743)
+13 -- Kymberly381 Runolfsdottir785 (13 y/o F) Belgrave South, Victoria  (18579)
+9 -- Jordan900 Glover433 (70 y/o M) Portland (Vic.), Victoria  (99068)
+16 -- Yong583 Turcotte120 (40 y/o F) Malvern East, Victoria  (57394)
+20 -- Zackary401 Lehner980 (25 y/o M) Dandenong North, Victoria  (35263)
+19 -- Fritz267 Mitchell808 (29 y/o M) Altona Meadows, Victoria  (40805)
+14 -- Reynalda736 Kreiger457 (69 y/o F) Koornalla, Victoria  (103099)
+22 -- Lashunda872 Little434 (27 y/o F) Cheltenham (Vic.), Victoria  (40535)
+24 -- Myrtice99 Fritsch593 (30 y/o F) Malvern East, Victoria  (42810)
+18 -- Delia459 Kathyrn611 Considine820 (56 y/o F) Endeavour Hills, Victoria  (86711)
+17 -- Katherina205 Kimber624 Fahey393 (66 y/o F) Cranbourne East, Victoria DECEASED (93466)
+21 -- Demetra94 Marinda592 Bailey598 (63 y/o F) Girgarre, Victoria  (89942)
+23 -- Shalonda324 Williamson769 (50 y/o F) Armadale (Vic.), Victoria  (71427)
+26 -- Mari763 Fadel536 (27 y/o F) Lilydale (Vic.), Victoria  (38454)
+27 -- Korey682 Howell947 (20 y/o M) Narre Warren South, Victoria  (29507)
+28 -- Kandi717 Romaguera67 (20 y/o F) Clarinda, Victoria  (28094)
+29 -- Lia388 Lashon823 Abernathy524 (29 y/o F) Kilmore, Victoria  (42056)
+25 -- Shandra823 Elly836 Barrows492 (77 y/o F) Swan Hill, Victoria  (114223)
+30 -- Towanda270 Harvey63 (4 y/o F) Tarneit, Victoria  (5835)
+31 -- Noah480 Weber641 (55 y/o M) Taylors Lakes, Victoria  (77759)
+33 -- Marc757 Batz141 (43 y/o M) Brown Hill (Vic.), Victoria  (61339)
+32 -- Colton403 Gislason620 (54 y/o M) Boronia, Victoria  (82672)
+36 -- Jc393 Leffler128 (5 y/o M) Hoppers Crossing, Victoria  (7828)
+17 -- Edith654 Priscilla527 Schaefer657 (69 y/o F) Cranbourne East, Victoria  (101594)
+35 -- Shirleen968 Kessler503 (55 y/o F) South Morang, Victoria  (80087)
+34 -- Rey54 Treutel973 (61 y/o M) Tarneit, Victoria  (87373)
+37 -- Margarito178 Kuhlman484 (28 y/o M) Mill Park, Victoria  (39904)
+38 -- Rosalva540 Jennie425 Hauck852 (60 y/o F) South Yarra, Victoria  (88807)
+41 -- Marylin690 Kunze215 (3 y/o F) Mildura, Victoria  (5558)
+39 -- Juliane376 Boyle917 (47 y/o F) Ouyen, Victoria  (66703)
+43 -- Jake169 Brakus656 (11 y/o M) Yellingbo, Victoria  (16333)
+42 -- Jacques50 O'Hara248 (12 y/o M) Frankston South, Victoria  (17546)
+47 -- Ernest565 Gorczany269 (2 y/o M) Boronia, Victoria  (4437)
+48 -- Norman647 Christiansen251 (12 y/o M) Caulfield, Victoria  (17097)
+45 -- Ryan260 Swaniawski813 (54 y/o M) Timboon, Victoria  (75531)
+44 -- Jenna662 Kunde533 (54 y/o F) Longwarry, Victoria  (81452)
+49 -- Adolfo777 Jaskolski867 (22 y/o M) Corio, Victoria  (30999)
+46 -- Arden380 Adams676 (49 y/o M) Lake Gardens, Victoria  (72704)
+40 -- Micah422 Pfeffer420 (73 y/o M) Truganina, Victoria  (144396)
+50 -- Augustine565 Bauch723 (33 y/o M) Vermont South, Victoria  (46098)
+51 -- Neil122 Littel644 (29 y/o M) Balwyn North, Victoria  (41483)
+54 -- Jimmie93 Willms744 (14 y/o M) Southbank, Victoria  (20238)
+52 -- Rupert654 Lebsack687 (32 y/o M) Sunbury, Victoria  (44338)
+57 -- Helena807 Becker968 (4 y/o F) Lalor, Victoria  (6317)
+53 -- Chantelle310 Lang846 (55 y/o F) Flora Hill, Victoria  (82002)
+62 -- Thomas756 Denesik803 (0 y/o M) Seymour (Vic.), Victoria  (744)
+61 -- Carmelo33 Stamm704 (8 y/o M) Dandenong, Victoria  (12348)
+55 -- Danyelle408 Elsa29 Raynor401 (54 y/o F) Clyde North, Victoria  (80122)
+59 -- Stanley702 Terry864 (37 y/o M) Werribee, Victoria  (54497)
+58 -- Francesco636 Weber641 (41 y/o M) Morwell, Victoria DECEASED (59465)
+63 -- Randell912 Murphy561 (19 y/o M) Yallambie, Victoria  (27634)
+60 -- Bo157 Armstrong51 (34 y/o M) Prahran, Victoria  (47489)
+56 -- Tiffani287 Walsh511 (69 y/o F) Hastings (Vic.), Victoria DECEASED (122022)
+65 -- Dagmar148 Hills818 (9 y/o F) Gisborne, Victoria  (12610)
+64 -- Clair921 Schuster709 (53 y/o M) Kilmore, Victoria  (73746)
+67 -- Cliff504 Hahn503 (51 y/o M) Malvern East, Victoria  (72277)
+69 -- Jesusita936 Hahn503 (19 y/o F) South Morang, Victoria DECEASED (27096)
+66 -- Chester802 Harber290 (59 y/o M) Robinvale, Victoria  (83489)
+70 -- Marquitta546 Cathie710 Gleichner915 (36 y/o F) Fulham (Vic.), Victoria  (50180)
+72 -- Marcelene872 Brande998 Rippin620 (37 y/o F) Brooklyn (Vic.), Victoria  (54483)
+58 -- Antwan357 Huel628 (41 y/o M) Morwell, Victoria DECEASED (56199)
+68 -- Aaron697 Grimes165 (68 y/o M) Springvale South, Victoria  (194999)
+71 -- Jarred626 Gislason620 (71 y/o M) Wyndham Vale, Victoria DECEASED (101698)
+74 -- Gilma310 Elisa944 Cremin516 (31 y/o F) Lara, Victoria  (45161)
+73 -- Theron432 Rodriguez71 (63 y/o M) Ormond, Victoria DECEASED (90267)
+69 -- Adena533 Karisa693 Hilpert278 (29 y/o F) South Morang, Victoria  (43405)
+75 -- Seth414 Hintz995 (69 y/o M) Warrnambool, Victoria  (96552)
+76 -- Kamala553 Pagac496 (48 y/o F) Balmoral (Vic.), Victoria  (66743)
+58 -- Gregg522 Rogahn59 (66 y/o M) Morwell, Victoria  (93161)
+77 -- Arica110 Stracke611 (26 y/o F) Cranbourne North, Victoria  (39654)
+78 -- Lyman173 Mayer370 (44 y/o M) Euroa, Victoria  (64885)
+79 -- Tabatha105 Kristeen693 Harvey63 (51 y/o F) Bayswater (Vic.), Victoria  (74754)
+81 -- Elias404 Erdman779 (49 y/o M) Springvale (Vic.), Victoria  (68560)
+71 -- Micah422 Mante251 (74 y/o M) Wyndham Vale, Victoria DECEASED (109471)
+82 -- Azucena377 Juliana372 Satterfield305 (38 y/o F) Kurunjang, Victoria  (55375)
+80 -- Cory323 Hane680 (71 y/o M) Brunswick (Vic.), Victoria  (104357)
+73 -- Maynard46 Langosh790 (69 y/o M) Ormond, Victoria DECEASED (118123)
+83 -- Alvin56 Rempel203 (48 y/o M) Delacombe, Victoria  (67919)
+84 -- Irwin931 Vandervort697 (49 y/o M) Craigieburn, Victoria  (72409)
+86 -- Ivory697 Kuhic920 (9 y/o M) Hawthorn (Vic.), Victoria  (13800)
+85 -- Gwen761 Stefany238 Satterfield305 (60 y/o F) Marlo, Victoria  (86719)
+88 -- Starr864 Ziemann98 (23 y/o F) Blackburn, Victoria  (32644)
+87 -- Drew592 Mosciski958 (57 y/o M) Port Fairy, Victoria  (80147)
+89 -- Chadwick722 Schmidt332 (7 y/o M) Lilydale (Vic.), Victoria  (10557)
+56 -- Temple691 Pagac496 (73 y/o F) Hastings (Vic.), Victoria  (109029)
+91 -- Delois358 Avril120 Lesch175 (43 y/o F) Coburg North, Victoria  (63819)
+92 -- Scotty190 Halvorson124 (26 y/o M) Fairfield (Vic.), Victoria  (36296)
+94 -- Dewayne363 Greenholt190 (24 y/o M) Altona Meadows, Victoria  (34528)
+90 -- Birgit199 Odilia72 Hahn503 (74 y/o F) Oakleigh South, Victoria  (140782)
+71 -- Warren653 Weber641 (79 y/o M) Wyndham Vale, Victoria  (114265)
+95 -- Jeramy610 Harvey63 (34 y/o M) Rowville, Victoria  (46989)
+93 -- Latoyia537 Mayert710 (62 y/o F) Wantirna South, Victoria  (91936)
+96 -- Ming325 Vicenta966 Breitenberg711 (33 y/o F) St Kilda East, Victoria  (47217)
+97 -- John539 Wiegand701 (42 y/o M) Clayton South, Victoria  (58969)
+98 -- Samella245 Otelia900 Baumbach677 (64 y/o F) Wantirna South, Victoria  (92441)
+99 -- Stephani232 Rempel203 (23 y/o F) Montmorency, Victoria  (32836)
+100 -- Johnny786 Powlowski563 (61 y/o F) Werribee, Victoria  (90298)
+73 -- Korey682 Walker122 (70 y/o M) Ormond, Victoria  (100918)
+Records: total=112, alive=100, dead=12
+RNG=100
+Clinician RNG=3602
+
+BUILD SUCCESSFUL in 13s
+5 actionable tasks: 2 executed, 3 up-to-date
+✅ Synthea generation completed successfully
+
+Step 4: Moving outputs...
+-----------------------------
+✅ HAL report copied to output/hal_scenarios/baseline_move_20250919_164313/hal_report.txt
+
+🎉 HAL-Synthea integration complete!
+
+Results:
+  📁 Output directory: output/hal_scenarios/baseline_move_20250919_164313
+  📊 CSV files: output/hal_scenarios/baseline_move_20250919_164313/csv/
+  🏥 FHIR files: output/hal_scenarios/baseline_move_20250919_164313/fhir/
+  📋 HAL report: output/hal_scenarios/baseline_move_20250919_164313/hal_report.txt
+
+Next steps:
+  1. Review the HAL report to see which modules were adjusted
+  2. Analyze the generated patient data for prevalence changes
+  3. Compare with other scenarios using different HAL configs
+
+To run another scenario:
+  ./run_synthea_with_hal.sh hal/config/hal-config-high-diabetes.json high_diabetes 100 Victoria

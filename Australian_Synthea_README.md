@@ -129,3 +129,13 @@ Contact / Next steps
 Licence & attribution
 	•	Synthea is an open-source project (MITRE). Keep the original Synthea licensing and attribution intact when redistributing generated data or configuration changes.
 
+
+# Baseline
+./run_synthea_with_hal.sh hal/config/hal-config.json baseline 100 Victoria
+
+# High diabetes
+./run_synthea_with_hal.sh hal/config/hal-config-high-diabetes.json high_diabetes 100 Victoria
+
+# Pandemic impact
+./run_synthea_with_ha
+

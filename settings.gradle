@@ -15,4 +15,6 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'synthea'
+rootProject.name = 'synthea_AU'
+include 'synthea'
+// HAL removed - AIHW values now baked into Synthea modules
