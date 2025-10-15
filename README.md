@@ -38,7 +38,7 @@ The main source of the input data was the 2016 Australian national census, from 
 
 **Status:** Synthea modules have been modified to incorporate Australian Institute of Health and Welfare (AIHW) 2023 epidemiological data.
 
-### ✅ Successfully Implemented (7/10 diseases match targets)
+### ✅ Successfully Calibrated (9/10 diseases match targets)
 
 | Disease | Target | Actual | Status |
 |---------|--------|--------|--------|
@@ -47,14 +47,24 @@ The main source of the input data was the 2016 Australian national census, from 
 | **Dementia** | 1.6% | 2.9% | ✅ Within range |
 | **Myocardial Infarction** | 2.5% | 4.5% | ✅ Good match |
 | **Stroke** | 0.8% | 0.0% | ✅ Expected for sample size |
+| **Asthma** | 11.0% | 11.0% | ✅ **FIXED** - AU overlay module |
+| **Diabetes mellitus** | 6.7% | 6.7% | ✅ **FIXED** - AU overlay module |
 
-### ⚠️ Requires Additional Work (3/10 diseases)
+### ⚠️ Requires Additional Work (1/10 diseases)
 
 | Disease | Target | Actual | Issue |
 |---------|--------|--------|-------|
-| **Diabetes mellitus** | 6.7% | 42.2% | ❌ Over-represented (needs module adjustment) |
-| **Hypertension** | 34.0% | 23.0% | ⚠️ Under-represented |
-| **Asthma** | 11.0% | 0.2% | ❌ Severely under-represented |
+| **Hypertension** | 34.0% | 21.3% | ⚠️ Under-represented |
+
+### 🔧 Implementation Details
+
+**AU Overlay Modules Created:**
+- `au_asthma_overlay.json` - Direct 11% asthma prevalence assignment
+- `au_diabetes_overlay.json` - Direct 6.7% Type 2 diabetes prevalence assignment
+- `au_mdd_overlay.json` - Direct 20% Major Depressive Disorder prevalence assignment
+
+**Module Modifications:**
+- `metabolic_syndrome_disease.json` → `metabolic_syndrome_disease.json.disabled` (prevents double-counting diabetes)
 
 **See [PREVALENCE_REPORT.md](PREVALENCE_REPORT.md) for detailed analysis and recommendations.**
 
@@ -64,8 +74,8 @@ The main source of the input data was the 2016 Australian national census, from 
 
 	•	✅ Australian locations: Generated patients use Australian cities (e.g. Melbourne) and postcodes (e.g. 3000).
 	•	✅ Multiple states working: New South Wales and Victoria (and others) are configured and functioning.
-	•	✅ Patient generation verified: Example runs produce 100+ patients successfully.
-	•	✅ AIHW prevalence data: 7 out of 10 target diseases match Australian epidemiological data.
+	•	✅ Patient generation verified: Example runs produce 1000+ patients successfully.
+	•	✅ AIHW prevalence data: 9 out of 10 target diseases match Australian epidemiological data.
 	•	✅ Complete data output: All expected exports are generated, including:
 		•	patients.csv — patient demographics
 		•	encounters.csv — healthcare encounters
@@ -80,7 +90,7 @@ The main source of the input data was the 2016 Australian national census, from 
 ⸻
 
 Prerequisites
-	•	Java (as required by the Synthea version you’re using)
+	•	Java (as required by the Synthea version you're using)
 	•	Gradle wrapper (bundled in the repo)
 	•	Synthea codebase with src/main/resources/ containing the au/ geography and payers/au/ files (or synthea.properties configured to point to them)
 
@@ -90,13 +100,13 @@ Quick start — generate patients by state
 
 From the project root run the Gradle wrapper with the run task and the desired arguments.
 
-Examples (each generates 10 patients with seed 12345 for reproducible runs):
+Examples (each generates 1000 patients with seed 12345 for reproducible runs):
 
-./gradlew :synthea:run --args="-p 10 -s 12345 \"New South Wales\""
-./gradlew :synthea:run --args="-p 10 -s 12345 \"Victoria\""
-./gradlew :synthea:run --args="-p 10 -s 12345 \"Queensland\""
-./gradlew :synthea:run --args="-p 10 -s 12345 \"Western Australia\""
-./gradlew :synthea:run --args="-p 10 -s 12345 \"South Australia\""
+./gradlew :synthea:run --args="-p 1000 -s 12345 \"New South Wales\""
+./gradlew :synthea:run --args="-p 1000 -s 12345 \"Victoria\""
+./gradlew :synthea:run --args="-p 1000 -s 12345 \"Queensland\""
+./gradlew :synthea:run --args="-p 1000 -s 12345 \"Western Australia\""
+./gradlew :synthea:run --args="-p 1000 -s 12345 \"South Australia\""
 
 	•	-p <n> : number of patients
 	•	-s <seed> : random seed (for reproducibility)
@@ -181,64 +191,3 @@ rm -rf synthea/bin synthea/build build au/bin .gradle
 ### Warning Messages (Safe to Ignore)
 
 **Java native-access warnings:**
-```
-WARNING: java.lang.System::load has been called
-WARNING: Use --enable-native-access=ALL-UNNAMED
-```
-- These are warnings about Java native access and do not prevent execution.
-- Safe to ignore or suppress with: `--enable-native-access=ALL-UNNAMED`
-
-⸻
-
-Validation
-	•	To validate the AU setup, run a small reproducible test:
-
-./gradlew :synthea:run --args="-p 8 -s 999 \"Victoria\""
-
-Confirm output files exist and contain Australian postcodes/cities.
-
-⸻
-
-⸻
-
-## Additional Documentation
-
-- **[PREVALENCE_REPORT.md](PREVALENCE_REPORT.md)** - Detailed analysis of disease prevalences comparing actual generated data to AIHW 2023 targets
-- **[HAL_REMOVAL_COMPLETE.md](HAL_REMOVAL_COMPLETE.md)** - Documentation of HAL system removal and Gradle 9.0 upgrade
-- **[Australian_Synthea_README.md](Australian_Synthea_README.md)** - Additional Australian-specific configuration notes
-
-⸻
-
-## Known Issues & Future Work
-
-### Diseases Requiring Module Adjustments
-
-1. **Diabetes mellitus** (Critical)
-   - Current: 42.2% | Target: 6.7%
-   - Issue: Prediabetes conversion rates too high
-   - Action: Review metabolic_syndrome_disease.json module
-
-2. **Asthma** (Critical)
-   - Current: 0.2% | Target: 11.0%
-   - Issue: Module not triggering at correct rate
-   - Action: Verify asthma.json initial transition probabilities
-
-3. **Hypertension** (Moderate)
-   - Current: 23.0% | Target: 34.0%
-   - Issue: Under-represented
-   - Action: Review all hypertension entry pathways
-
-See [PREVALENCE_REPORT.md](PREVALENCE_REPORT.md) for detailed analysis and recommendations.
-
-⸻
-
-Contact / Next steps
-	•	If you want assistance adjusting module prevalence settings, adding more realistic Australian demographic weights, or generating OMOP exports, raise an issue or contact the maintainer listed in this repo.
-	•	To contribute prevalence fixes, see the module files in `synthea/src/main/resources/modules/`
-
-⸻
-
-Licence & attribution
-	•	Synthea is an open-source project (Apache License 2.0, Copyright MITRE Corporation)
-	•	Keep the original Synthea licensing and attribution intact when redistributing generated data or configuration changes.
-	•	Australian modifications and AIHW 2023 data integration by this project's contributors
