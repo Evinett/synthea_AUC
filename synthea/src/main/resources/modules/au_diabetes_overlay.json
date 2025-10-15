@@ -1,0 +1,37 @@
+{
+  "name": "AU Diabetes Overlay",
+  "remarks": [
+    "Australian-specific Type 2 Diabetes current prevalence",
+    "AIHW 2023: 6.7% of Australians currently have diabetes"
+  ],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "distributed_transition": [
+        {
+          "distribution": 6.7E-2,
+          "transition": "Onset_Diabetes"
+        },
+        {
+          "distribution": 0.933,
+          "transition": "Terminal"
+        }
+      ]
+    },
+    "Onset_Diabetes": {
+      "type": "ConditionOnset",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "44054006",
+          "display": "Diabetes mellitus type 2 (disorder)"
+        }
+      ],
+      "direct_transition": "Terminal"
+    },
+    "Terminal": {
+      "type": "Terminal"
+    }
+  },
+  "gmf_version": 2
+}
