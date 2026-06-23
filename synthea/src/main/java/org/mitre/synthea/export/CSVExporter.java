@@ -307,9 +307,9 @@ public class CSVExporter {
    */
   private void writeCSVHeaders() throws IOException {
     patients.write("Id,BIRTHDATE,DEATHDATE,SSN,DRIVERS,PASSPORT,"
-        + "PREFIX,FIRST,MIDDLE,LAST,SUFFIX,MAIDEN,MARITAL,RACE,ETHNICITY,GENDER,BIRTHPLACE,"
-        + "ADDRESS,CITY,STATE,COUNTY,FIPS,ZIP,LAT,LON,"
-        + "HEALTHCARE_EXPENSES,HEALTHCARE_COVERAGE,INCOME");
+        + "PREFIX,FIRST,LAST,SUFFIX,MAIDEN,MARITAL,RACE,ETHNICITY,GENDER,BIRTHPLACE,"
+        + "ADDRESS,CITY,STATE,COUNTY,ZIP,LAT,LON,"
+        + "HEALTHCARE_EXPENSES,HEALTHCARE_COVERAGE");
     patients.write(NEWLINE);
     allergies.write("START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,"
         + "REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2");
@@ -318,14 +318,14 @@ public class CSVExporter {
         "START,STOP,PATIENT,PAYER,ENCOUNTER,CODE,DESCRIPTION,BASE_COST,PAYER_COVERAGE,DISPENSES,"
         + "TOTALCOST,REASONCODE,REASONDESCRIPTION");
     medications.write(NEWLINE);
-    conditions.write("START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION");
+    conditions.write("START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION");
     conditions.write(NEWLINE);
     careplans.write(
         "Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION");
     careplans.write(NEWLINE);
     observations.write("DATE,PATIENT,ENCOUNTER,CATEGORY,CODE,DESCRIPTION,VALUE,UNITS,TYPE");
     observations.write(NEWLINE);
-    procedures.write("START,STOP,PATIENT,ENCOUNTER,SYSTEM,CODE,DESCRIPTION,BASE_COST,"
+    procedures.write("START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,BASE_COST,"
         + "REASONCODE,REASONDESCRIPTION");
     procedures.write(NEWLINE);
     immunizations.write("DATE,PATIENT,ENCOUNTER,CODE,DESCRIPTION,BASE_COST");
@@ -346,16 +346,16 @@ public class CSVExporter {
     organizations.write("Id,NAME,ADDRESS,CITY,STATE,ZIP,LAT,LON,PHONE,REVENUE,UTILIZATION");
     organizations.write(NEWLINE);
     providers.write("Id,ORGANIZATION,NAME,GENDER,SPECIALITY,ADDRESS,CITY,STATE,ZIP,LAT,LON,"
-        + "ENCOUNTERS,PROCEDURES");
+        + "UTILIZATION");
     providers.write(NEWLINE);
-    payers.write("Id,NAME,OWNERSHIP,ADDRESS,CITY,STATE_HEADQUARTERED,ZIP,PHONE,AMOUNT_COVERED,"
+    payers.write("Id,NAME,ADDRESS,CITY,STATE_HEADQUARTERED,ZIP,PHONE,AMOUNT_COVERED,"
         + "AMOUNT_UNCOVERED,REVENUE,COVERED_ENCOUNTERS,UNCOVERED_ENCOUNTERS,COVERED_MEDICATIONS,"
         + "UNCOVERED_MEDICATIONS,COVERED_PROCEDURES,UNCOVERED_PROCEDURES,"
         + "COVERED_IMMUNIZATIONS,UNCOVERED_IMMUNIZATIONS,"
         + "UNIQUE_CUSTOMERS,QOLS_AVG,MEMBER_MONTHS");
     payers.write(NEWLINE);
-    payerTransitions.write("PATIENT,MEMBERID,START_DATE,END_DATE,PAYER,SECONDARY_PAYER,"
-        + "PLAN_OWNERSHIP,OWNER_NAME");
+    payerTransitions.write("PATIENT,MEMBERID,START_YEAR,END_YEAR,PAYER,SECONDARY_PAYER,"
+        + "OWNERSHIP,OWNERNAME");
     payerTransitions.write(NEWLINE);
     claims.write("Id,PATIENTID,PROVIDERID,PRIMARYPATIENTINSURANCEID,SECONDARYPATIENTINSURANCEID,"
         + "DEPARTMENTID,PATIENTDEPARTMENTID,DIAGNOSIS1,DIAGNOSIS2,DIAGNOSIS3,DIAGNOSIS4,"
@@ -635,7 +635,6 @@ public class CSVExporter {
         Person.IDENTIFIER_PASSPORT,
         Person.NAME_PREFIX,
         Person.FIRST_NAME,
-        Person.MIDDLE_NAME,
         Person.LAST_NAME,
         Person.NAME_SUFFIX,
         Person.MAIDEN_NAME,
@@ -648,7 +647,6 @@ public class CSVExporter {
         Person.CITY,
         Person.STATE,
         Person.COUNTY,
-        Person.FIPS,
         Person.ZIP,
     }) {
       String value = (String) person.attributes.getOrDefault(attribute, "");
@@ -659,9 +657,7 @@ public class CSVExporter {
     // HEALTHCARE_EXPENSES
     s.append(person.coverage.getTotalOutOfPocketExpenses()).append(',');
     // HEALTHCARE_COVERAGE
-    s.append(person.coverage.getTotalCoverage()).append(',');
-    // INCOME
-    s.append(person.attributes.get(Person.INCOME));
+    s.append(person.coverage.getTotalCoverage());
     // QALYS
     // s.append(person.attributes.get("most-recent-qaly")).append(',');
     // DALYS
@@ -775,7 +771,6 @@ public class CSVExporter {
 
     Code coding = condition.codes.get(0);
 
-    s.append(coding.system).append(',');
     s.append(coding.code).append(',');
     s.append(clean(coding.display));
 
@@ -926,7 +921,6 @@ public class CSVExporter {
     s.append(encounterID).append(',');
     // CODE
     Code coding = procedure.codes.get(0);
-    s.append(coding.system).append(',');
     s.append(coding.code).append(',');
     // DESCRIPTION
     s.append(clean(coding.display)).append(',');
@@ -1258,8 +1252,7 @@ public class CSVExporter {
     }
     s.append(provider.getY()).append(',');
     s.append(provider.getX()).append(',');
-    s.append(provider.getEncounterCount()).append(',');
-    s.append(provider.getProcedureCount());
+    s.append(provider.getEncounterCount());
 
     s.append(NEWLINE);
 
@@ -1284,8 +1277,6 @@ public class CSVExporter {
     s.append(payer.getResourceID()).append(',');
     // NAME
     s.append(payer.getName()).append(',');
-    // OWNERSHIP
-    s.append(payer.getOwnership()).append(',');
     // Second Class Attributes
     for (String attribute : new String[]
         { "address", "city", "state_headquartered", "zip", "phone" }) {

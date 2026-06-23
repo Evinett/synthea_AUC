@@ -1117,16 +1117,12 @@
       "type": "Simple",
       "distributed_transition": [
         {
-          "transition": "Gingivitis",
-          "distribution": 0.25
-        },
-        {
           "transition": "Go see a Dentist",
           "distribution": 0.25
         },
         {
           "transition": "End_Of_Wellness_Encounter",
-          "distribution": 0.5
+          "distribution": 0.75
         }
       ]
     },
