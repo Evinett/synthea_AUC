@@ -310,9 +310,9 @@
           "transition": "End_Prescription_Towards_Gen_Pop"
         },
         {
-          "distribution": 0.00028,
+          "distribution": 0.000007,
           "remarks": [
-            "0.004%/day = 0.000280/wk"
+            "AU adjustment: reduced 40x from US rate (0.000280/wk) to reflect lower Australian opioid overdose rates. AIHW 2023."
           ],
           "transition": "Directed_Use_Overdose"
         },
@@ -326,7 +326,7 @@
           "transition": "End_Prescription_Towards_Misuse"
         },
         {
-          "distribution": 0.74037,
+          "distribution": 0.740643,
           "transition": "Directed_Use"
         }
       ]
@@ -374,9 +374,9 @@
           "transition": "Reset_Opioid_var_Towards_Gen_Pop"
         },
         {
-          "distribution": 0.005238,
+          "distribution": 0.000131,
           "remarks": [
-            "0.00075 --> 0.005238"
+            "AU adjustment: reduced 40x from US rate (0.005238/wk) to reflect lower Australian opioid overdose rates. AIHW 2023."
           ],
           "transition": "Misuse_Overdose"
         },
@@ -388,7 +388,7 @@
           "transition": "Active_Addiction_Symptom_Onset"
         },
         {
-          "distribution": 0.681862,
+          "distribution": 0.686969,
           "transition": "Misuse"
         }
       ]
@@ -502,14 +502,14 @@
           "transition": "Detoxification"
         },
         {
-          "distribution": 0.01045,
+          "distribution": 0.000261,
           "remarks": [
-            "0.00150 --> 0.01045"
+            "AU adjustment: reduced 40x from US rate (0.01045/wk) to reflect lower Australian opioid overdose rates. AIHW 2023."
           ],
           "transition": "Addiction_Overdose"
         },
         {
-          "distribution": 0.9483,
+          "distribution": 0.958489,
           "transition": "Active_Addiction"
         }
       ]

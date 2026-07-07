@@ -1,0 +1,39 @@
+{
+  "name": "AU Hypertension Overlay",
+  "remarks": [
+    "Australian-specific Essential Hypertension prevalence supplement.",
+    "AIHW 2023: 34% of Australians have hypertension.",
+    "The base hypertension.json module generates ~19% via age/risk pathways.",
+    "This overlay supplies the remaining ~15% to reach the 34% AIHW target."
+  ],
+  "states": {
+    "Initial": {
+      "type": "Initial",
+      "distributed_transition": [
+        {
+          "distribution": 0.15,
+          "transition": "Onset_Hypertension"
+        },
+        {
+          "distribution": 0.85,
+          "transition": "Terminal"
+        }
+      ]
+    },
+    "Onset_Hypertension": {
+      "type": "ConditionOnset",
+      "codes": [
+        {
+          "system": "SNOMED-CT",
+          "code": "59621000",
+          "display": "Essential hypertension (disorder)"
+        }
+      ],
+      "direct_transition": "Terminal"
+    },
+    "Terminal": {
+      "type": "Terminal"
+    }
+  },
+  "gmf_version": 2
+}
