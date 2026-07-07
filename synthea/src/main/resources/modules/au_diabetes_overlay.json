@@ -7,6 +7,9 @@
     "attribute via a separate SetAttribute state (required by",
     "metabolic_syndrome_care.json and complication sub-modules to drive",
     "nephropathy, retinopathy, etc.).",
+    "Also initialises diabetic_retinopathy_stage=0, macular_edema=false, and",
+    "diabetic_nerve_damage=0 — required by diabetic_retinopathy_treatment.json",
+    "which would otherwise crash with a lookup table error.",
     "metabolic_syndrome_disease.json is disabled to prevent double-counting."
   ],
   "states": {
@@ -14,7 +17,7 @@
       "type": "Initial",
       "distributed_transition": [
         {
-          "distribution": 6.7E-2,
+          "distribution": 0.067,
           "transition": "Onset_Diabetes"
         },
         {
@@ -38,6 +41,24 @@
       "type": "SetAttribute",
       "attribute": "diabetes",
       "value": true,
+      "direct_transition": "Init_Retinopathy_Stage"
+    },
+    "Init_Retinopathy_Stage": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_retinopathy_stage",
+      "value": 0,
+      "direct_transition": "Init_Macular_Edema"
+    },
+    "Init_Macular_Edema": {
+      "type": "SetAttribute",
+      "attribute": "macular_edema",
+      "value": false,
+      "direct_transition": "Init_Nerve_Damage"
+    },
+    "Init_Nerve_Damage": {
+      "type": "SetAttribute",
+      "attribute": "diabetic_nerve_damage",
+      "value": 0,
       "direct_transition": "Terminal"
     },
     "Terminal": {

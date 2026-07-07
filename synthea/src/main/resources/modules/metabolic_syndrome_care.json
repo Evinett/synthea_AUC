@@ -12,8 +12,34 @@
     "Wellness_Encounter": {
       "type": "Encounter",
       "wellness": true,
-      "direct_transition": "check CKD",
+      "direct_transition": "Guard_DM_before_CKD",
       "reason": "metabolic_syndrome_review"
+    },
+    "Guard_DM_before_CKD": {
+      "type": "Simple",
+      "conditional_transition": [
+        {
+          "condition": {
+            "condition_type": "Or",
+            "conditions": [
+              {
+                "condition_type": "Attribute",
+                "attribute": "diabetes",
+                "operator": "is not nil"
+              },
+              {
+                "condition_type": "Attribute",
+                "attribute": "prediabetes",
+                "operator": "is not nil"
+              }
+            ]
+          },
+          "transition": "check CKD"
+        },
+        {
+          "transition": "Check_Diabetes"
+        }
+      ]
     },
     "Check_Diabetes": {
       "type": "Simple",
