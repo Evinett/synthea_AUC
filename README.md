@@ -84,6 +84,7 @@ The main source of the input data was the 2016 Australian national census, from 
 		•	procedures.csv — medical procedures
 		•	observations.csv — clinical observations
 		•	FHIR bundles (if FHIR export enabled)
+	•	✅ Claims output suppressed: claims.csv and claims_transactions.csv are excluded from output (see exporter.csv.excluded_files in synthea.properties). These map to the OMOP COST and PAYER_PLAN_PERIOD tables which are not required for Achilles or Atlas.
 	•	✅ Payer system bypassed: The complex US payer eligibility workflow has been bypassed / replaced with a simplified AU Medicare configuration.
 	•	✅ Australian geography: The configuration uses real Australian cities, states and postal codes.
 
