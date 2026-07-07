@@ -1,8 +1,13 @@
 {
   "name": "AU Diabetes Overlay",
   "remarks": [
-    "Australian-specific Type 2 Diabetes current prevalence",
-    "AIHW 2023: 6.7% of Australians currently have diabetes"
+    "Australian-specific Type 2 Diabetes current prevalence.",
+    "AIHW 2023: 6.7% of Australians currently have diabetes.",
+    "Sets both the ConditionOnset (for OMOP ETL mapping) and the 'diabetes'",
+    "attribute via a separate SetAttribute state (required by",
+    "metabolic_syndrome_care.json and complication sub-modules to drive",
+    "nephropathy, retinopathy, etc.).",
+    "metabolic_syndrome_disease.json is disabled to prevent double-counting."
   ],
   "states": {
     "Initial": {
@@ -27,6 +32,12 @@
           "display": "Diabetes mellitus type 2 (disorder)"
         }
       ],
+      "direct_transition": "Set_Diabetes_Attribute"
+    },
+    "Set_Diabetes_Attribute": {
+      "type": "SetAttribute",
+      "attribute": "diabetes",
+      "value": true,
       "direct_transition": "Terminal"
     },
     "Terminal": {
